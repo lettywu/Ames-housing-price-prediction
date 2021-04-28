@@ -54,25 +54,35 @@ The [Data set](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt) is from
 
 ## Data Observations
 <p align = 'center'>
-    <img src="./plots/overall-quality-vs-sale-price.png" width="700"/>
+    <img src="./plots/overall-quality-vs-sale-price.png" width="600"/>
+
 - The better overall quality the house has, with bigger size, the higher the sale price is
+
 <p align = 'center'>
     <img src="./plots/the-impace-of-basement-garage-firplaces-on-housing-price.png" width="700"/>
+
 - Finished basement has really big positive impact on housing price
+
 <p align = 'center'>
     <img src="./plots/the-impace-of-garage-types-on-housing-price.png" width="700"/>
+
 - Houses with more than one types of garage are more expensive compare to all others
+
 <p align = 'center'>
     <img src="./plots/neighborhood-vs-sale-price.png" width="700"/>  
+
 - Northridge and Northridge Heights have the highest housing prices, Brookside and Old Town have the lowest
+
 <p align = 'center'>
     <img src="./plots/neighborhood-vs-sale-price-median.png" width="700"/>    
+
 - But Stone Brook actually has the highest median sale price among all the areas
 
 ## Conclusions and Recommendations
 
 <p align = 'center'>
     <img src="./plots/the-impact-of-neighborhoods-on-housing-price.png" width="700"/>
+
 - Considering buying house in following neighborhoods
     - Stone Brook
     - Northridge Heights
