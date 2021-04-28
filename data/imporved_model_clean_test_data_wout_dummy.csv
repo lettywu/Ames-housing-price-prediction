@@ -1,0 +1,879 @@
+ms_subclass,lot_area,land_contour,lot_config,neighborhood,bldg_type,house_style,overall_qual,year_remod_add,roof_style,roof_matl,exterior_1st,exter_qual,mas_vnr_type,mas_vnr_area,foundation,bsmt_qual,bsmtfin_type_1,bsmtfin_sf_1,total_bsmt_sf,electrical,heating,central_air,gr_liv_area,full_bath,half_bath,bedroom_abvgr,totrms_abvgrd,fireplaces,garage_type,garage_cars,garage_area,mo_sold,yr_sold,gar_bsm_fir
+190,9142,Lvl,Inside,OldTown,2fmCon,2Story,6,1950,Gable,CompShg,AsbShng,2,None,0.0,Stone,2,1,0,1020,1,GasA,N,1928,2,0,4,9,0,1,1,440,4,2006,440
+90,9662,Lvl,Inside,Sawyer,Duplex,1Story,5,1977,Gable,CompShg,Plywood,2,None,0.0,CBlock,4,1,0,1967,4,GasA,Y,1967,2,0,6,10,0,5,2,580,8,2006,580
+60,17104,Lvl,Inside,Gilbert,1Fam,2Story,7,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,554,654,4,GasA,Y,1496,2,1,3,7,1,5,2,426,9,2006,981
+30,8520,Lvl,Inside,OldTown,1Fam,1Story,5,2006,Gable,CompShg,Wd Sdng,3,None,0.0,CBlock,3,1,0,968,4,GasA,Y,968,1,0,2,5,0,1,2,480,7,2007,480
+20,9500,Lvl,Inside,NAmes,1Fam,1Story,6,1963,Gable,CompShg,Plywood,2,BrkFace,247.0,CBlock,4,4,609,1394,4,GasA,Y,1394,1,1,3,6,2,5,2,514,7,2009,1125
+160,1890,Lvl,Inside,MeadowV,TwnhsE,2Story,4,1972,Gable,CompShg,CemntBd,2,None,0.0,CBlock,3,3,294,546,4,GasA,Y,1092,1,1,3,5,0,5,1,286,6,2010,580
+20,8516,Lvl,Inside,OldTown,1Fam,1Story,4,2006,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,1,0,869,4,GasA,Y,1093,1,0,2,5,0,1,1,308,5,2008,308
+20,9286,Lvl,CulDSac,CollgCr,1Fam,1Story,5,1989,Gable,CompShg,HdBoard,2,None,0.0,CBlock,4,5,196,1268,4,GasA,Y,1268,1,1,3,5,0,1,1,252,10,2009,448
+160,3515,Lvl,Inside,Somerst,TwnhsE,2Story,7,2004,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,840,4,GasA,Y,1680,2,1,2,3,0,5,2,588,1,2010,588
+20,10125,Lvl,Inside,Mitchel,1Fam,1Story,6,1977,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,5,641,1196,4,GasA,Y,1279,2,0,3,6,2,1,2,473,2,2008,1116
+120,7175,Lvl,Inside,SawyerW,TwnhsE,1Story,6,1991,Gable,CompShg,Plywood,3,None,0.0,PConc,4,6,278,1217,4,GasA,Y,1217,2,0,2,5,0,5,2,484,6,2006,762
+30,7200,Lvl,Corner,IDOTRR,1Fam,1Story,6,1992,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,1,0,1040,4,GasA,Y,1040,1,0,2,5,0,1,2,320,7,2008,320
+20,11310,Lvl,Inside,NAmes,1Fam,1Story,6,1954,Hip,CompShg,Wd Sdng,2,None,0.0,CBlock,3,1,0,1367,4,GasA,Y,1375,1,0,2,5,1,5,2,451,6,2006,452
+90,7976,Lvl,Inside,SawyerW,Duplex,2Story,7,2000,Hip,CompShg,VinylSd,2,BrkFace,23.0,PConc,5,6,820,1168,4,GasA,Y,2787,4,2,6,8,2,3,4,820,10,2009,1642
+70,11737,Bnk,Inside,BrkSide,1Fam,2Story,6,1996,Gambrel,CompShg,BrkComm,2,None,0.0,BrkTil,3,1,0,848,4,GasW,N,1827,1,0,2,9,1,1,1,240,5,2006,241
+20,9060,Lvl,Inside,Edwards,1Fam,1Story,5,2006,Hip,CompShg,Wd Sdng,2,BrkFace,98.0,PConc,0,0,0,0,4,GasA,Y,1340,1,0,3,7,1,5,1,252,6,2007,253
+190,10800,Lvl,Inside,OldTown,2fmCon,1.5Fin,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,4,590,884,4,GasA,Y,1436,2,0,3,8,2,1,2,828,5,2008,1420
+20,9571,Lvl,Inside,Edwards,1Fam,1Story,5,1956,Hip,CompShg,MetalSd,2,None,0.0,CBlock,3,3,257,1073,2,GasA,Y,1073,1,0,2,5,0,5,1,340,2,2009,597
+20,10800,Lvl,Inside,NAmes,1Fam,1Story,6,1992,Gable,CompShg,HdBoard,2,BrkFace,104.0,CBlock,3,3,913,1313,4,GasA,Y,1773,2,0,3,6,2,5,2,418,8,2006,1333
+70,17671,Lvl,Corner,OldTown,1Fam,2Story,8,1986,Gable,CompShg,Wd Sdng,3,None,0.0,BrkTil,3,4,216,916,4,GasA,Y,1742,1,1,4,8,1,5,2,424,11,2009,641
+20,8246,Lvl,Inside,Sawyer,1Fam,1Story,5,2001,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,3,188,1060,4,GasA,Y,1060,1,0,3,6,1,5,1,270,5,2010,459
+20,8499,Lvl,Corner,Sawyer,1Fam,1Story,5,1961,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,6,660,864,4,GasA,Y,864,1,0,3,5,0,1,2,732,6,2009,1392
+120,8012,Lvl,Inside,SawyerW,TwnhsE,1Story,6,1994,Gable,CompShg,Plywood,3,None,0.0,PConc,4,2,165,1604,4,GasA,Y,1617,2,0,2,5,1,5,2,533,7,2008,699
+80,21453,Low,CulDSac,ClearCr,1Fam,SLvl,6,1969,Flat,Metal,Plywood,2,None,0.0,CBlock,3,5,938,938,4,GasA,Y,988,1,0,1,4,2,5,2,540,10,2006,1480
+20,9605,Lvl,Corner,SawyerW,1Fam,1Story,7,2007,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1218,4,GasA,Y,1218,1,1,3,6,0,1,2,576,4,2009,576
+20,7180,Lvl,Inside,CollgCr,1Fam,1Story,5,1972,Hip,CompShg,HdBoard,2,None,0.0,CBlock,3,5,390,864,4,GasA,Y,864,1,0,3,5,0,1,1,352,5,2008,742
+50,12513,Lvl,FR2,NAmes,1Fam,1.5Fin,4,2007,Gable,CompShg,VinylSd,2,None,0.0,BrkTil,3,1,0,715,4,GasA,Y,1738,2,0,4,7,1,5,1,368,6,2009,369
+70,9000,Lvl,Corner,OldTown,1Fam,2Story,5,1991,Gable,CompShg,VinylSd,2,None,0.0,BrkTil,2,1,0,636,2,GasA,Y,1750,1,0,3,8,0,1,1,240,6,2006,240
+85,8800,Lvl,Inside,NAmes,1Fam,SFoyer,6,1963,Gable,CompShg,MetalSd,2,BrkFace,156.0,PConc,3,6,763,936,4,GasA,Y,1054,1,0,3,6,0,5,2,480,5,2010,1243
+50,3500,Lvl,Inside,BrkSide,1Fam,1.5Fin,3,1950,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,2,144,370,2,GasA,N,670,1,0,2,4,0,0,0,0,7,2007,144
+20,7340,Lvl,Inside,NAmes,1Fam,1Story,4,1971,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,322,858,4,GasA,Y,858,1,0,2,4,0,1,1,684,6,2007,1006
+30,6240,Lvl,Inside,IDOTRR,1Fam,1.5Fin,4,1950,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,4,152,780,2,GasA,Y,1208,1,0,2,5,0,1,2,539,1,2009,691
+70,11700,Lvl,Corner,OldTown,1Fam,2Story,7,2003,Mansard,CompShg,Stucco,3,None,0.0,Stone,3,1,0,1240,4,GasW,N,2640,1,1,4,8,1,1,4,864,5,2009,865
+20,10000,Lvl,Inside,NWAmes,1Fam,1Story,5,2000,Gable,CompShg,HdBoard,2,None,0.0,CBlock,4,4,1084,1176,4,GasA,Y,1178,1,1,3,5,1,5,2,439,11,2008,1524
+20,11166,Lvl,Inside,CollgCr,1Fam,1Story,7,2001,Gable,CompShg,VinylSd,3,BrkFace,180.0,PConc,4,6,24,1492,4,GasA,Y,1492,2,0,3,6,1,5,2,608,7,2009,633
+60,13204,Lvl,Inside,Gilbert,1Fam,2Story,7,2007,Gable,CompShg,VinylSd,2,Stone,44.0,PConc,4,1,0,608,4,GasA,Y,1458,2,0,3,6,0,3,2,454,5,2007,454
+50,5520,Lvl,Corner,OldTown,1Fam,1.5Fin,4,1980,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,2,284,1147,4,GasA,N,1657,1,0,4,9,1,1,1,162,7,2006,447
+20,9000,Lvl,Inside,Sawyer,1Fam,1Story,4,1950,Gable,CompShg,Wd Sdng,1,None,0.0,Slab,0,0,0,0,2,GasA,N,998,1,0,3,5,0,6,2,460,5,2007,460
+20,8892,Lvl,Corner,NAmes,1Fam,1Story,5,1996,Gable,CompShg,WdShing,3,None,0.0,Stone,3,1,0,105,4,GasA,Y,910,1,0,3,5,0,5,2,414,10,2008,414
+20,7321,Lvl,Inside,Somerst,1Fam,1Story,7,2000,Gable,CompShg,CemntBd,3,None,0.0,PConc,4,1,0,1339,4,GasA,Y,1358,2,0,3,5,0,1,2,625,12,2007,625
+160,3951,Lvl,Corner,Somerst,TwnhsE,2Story,6,2009,Gable,CompShg,VinylSd,3,Stone,76.0,PConc,4,1,0,612,4,GasA,Y,1224,2,1,2,4,0,1,2,528,6,2009,528
+60,11214,Lvl,Corner,Gilbert,1Fam,2Story,7,1999,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,930,4,GasA,Y,1886,2,1,4,10,1,5,2,431,7,2006,432
+20,7388,Lvl,Corner,NAmes,1Fam,1Story,5,2002,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,3,405,1063,4,GasA,Y,1327,1,0,3,7,0,1,2,624,7,2007,1029
+20,14559,Lvl,Inside,NAmes,1Fam,1Story,5,2000,Hip,CompShg,Wd Sdng,3,BrkCmn,70.0,CBlock,3,4,650,1008,4,GasA,Y,1363,1,0,2,6,2,2,1,288,6,2009,940
+120,4054,Lvl,Inside,Timber,TwnhsE,1Story,7,1987,Gable,CompShg,VinylSd,3,BrkFace,352.0,BrkTil,4,6,949,1501,4,GasA,Y,1501,2,0,2,5,2,5,2,512,10,2007,1463
+160,1533,Lvl,Inside,MeadowV,Twnhs,2Story,4,2008,Gable,CompShg,CemntBd,2,None,0.0,CBlock,3,1,0,546,4,GasA,Y,1344,1,1,3,6,1,0,0,0,5,2009,1
+60,11250,Lvl,Inside,CollgCr,1Fam,2Story,7,2002,Gable,CompShg,VinylSd,3,BrkFace,162.0,PConc,4,6,486,920,4,GasA,Y,1786,2,1,3,6,1,5,2,608,9,2008,1095
+20,7800,Lvl,Corner,SawyerW,1Fam,1Story,5,1965,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,4,641,828,4,GasA,Y,965,1,0,3,6,0,1,1,300,7,2006,941
+20,5868,Lvl,Inside,NAmes,1Fam,1Story,5,2000,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,4,248,936,4,GasA,Y,936,1,0,2,4,0,5,1,308,5,2010,556
+20,7500,Lvl,Corner,Sawyer,1Fam,1Story,5,1963,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,824,1040,4,GasA,Y,1040,1,1,3,5,0,5,1,308,6,2010,1132
+50,9439,Lvl,Inside,OldTown,1Fam,1.5Fin,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,2,324,912,2,GasA,Y,1248,1,0,2,6,0,1,1,160,3,2007,484
+70,9000,Lvl,Inside,OldTown,1Fam,2Story,8,2002,Gable,CompShg,Wd Sdng,3,None,0.0,Stone,2,1,0,346,4,GasA,Y,2268,3,0,3,7,0,1,2,624,4,2010,624
+20,9345,Lvl,Inside,CollgCr,1Fam,1Story,8,2007,Gable,CompShg,VinylSd,3,Stone,156.0,PConc,4,1,0,1615,4,GasA,Y,1615,2,0,3,7,1,5,3,864,5,2008,865
+50,7200,Lvl,Corner,IDOTRR,1Fam,1.5Fin,5,1995,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,1,0,803,4,GasA,Y,1360,1,1,2,6,0,1,1,297,7,2006,297
+50,6000,Lvl,Corner,BrkSide,1Fam,1.5Fin,5,1950,Gable,CompShg,Stucco,2,BrkFace,444.0,BrkTil,3,3,220,468,4,GasA,Y,1142,1,0,3,6,0,5,1,320,6,2009,540
+20,7930,Lvl,Inside,NAmes,1Fam,1Story,6,2005,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,6,439,1026,4,GasA,Y,1026,1,0,3,5,0,1,2,440,7,2009,879
+50,9120,Lvl,Inside,BrkSide,1Fam,1.5Fin,7,1950,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,3,329,1026,4,GasA,Y,1820,2,0,4,8,0,1,1,240,6,2008,569
+20,9503,Lvl,Inside,NAmes,1Fam,1Story,5,1983,Hip,CompShg,HdBoard,2,None,0.0,CBlock,3,5,457,1024,4,GasA,Y,1344,1,0,2,6,1,1,1,484,6,2007,942
+20,11050,Lvl,Corner,NWAmes,1Fam,1Story,7,1975,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,5,636,1176,4,GasA,Y,1193,2,0,3,5,1,5,2,506,8,2009,1143
+60,10316,Lvl,Inside,CollgCr,1Fam,2Story,7,2000,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,735,992,4,GasA,Y,1865,2,1,3,7,1,5,3,839,6,2008,1575
+20,11675,Lvl,Inside,NoRidge,1Fam,1Story,8,1998,Gable,CompShg,VinylSd,3,BrkFace,495.0,PConc,4,6,1660,1982,4,GasA,Y,2006,2,0,2,5,1,5,3,938,7,2008,2599
+190,12900,Lvl,Inside,Sawyer,2fmCon,1Story,5,1950,Gable,CompShg,BrkFace,2,None,0.0,PConc,3,4,1300,1300,4,GasA,Y,1140,1,0,3,6,0,2,2,400,1,2008,1700
+20,13770,Lvl,Corner,Sawyer,1Fam,1Story,5,1998,Gable,CompShg,Plywood,2,BrkFace,340.0,CBlock,3,3,190,1158,4,GasA,Y,1176,1,0,3,6,2,5,1,303,10,2007,495
+60,13355,Lvl,Inside,NWAmes,1Fam,2Story,7,1971,Gable,CompShg,HdBoard,2,None,0.0,CBlock,4,5,583,825,4,GasA,Y,1670,1,1,4,7,0,5,2,464,5,2008,1047
+60,7153,Lvl,Inside,SawyerW,1Fam,2Story,6,1992,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,5,387,761,4,GasA,Y,1603,2,1,3,7,0,5,2,484,7,2006,871
+20,10750,Lvl,CulDSac,NoRidge,1Fam,1Story,8,1995,Hip,CompShg,Wd Sdng,3,BrkFace,634.0,PConc,4,4,236,2024,4,GasA,Y,2063,2,0,3,7,2,5,3,815,6,2009,1053
+20,8125,Lvl,Corner,NAmes,1Fam,1Story,4,1971,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,4,614,858,4,GasA,Y,858,1,0,3,5,0,0,0,0,6,2006,614
+120,3903,Lvl,Inside,NridgHt,Twnhs,1Story,6,2006,Gable,CompShg,VinylSd,3,Stone,182.0,PConc,4,5,1030,1302,4,GasA,Y,1302,1,1,1,5,1,5,2,631,5,2007,1662
+30,4270,Bnk,Inside,Edwards,1Fam,1Story,3,2006,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,3,3,544,544,4,GasA,Y,774,1,0,3,6,0,0,0,0,5,2007,544
+120,4426,Lvl,Inside,CollgCr,TwnhsE,1Story,6,2004,Gable,CompShg,VinylSd,3,BrkFace,147.0,PConc,4,6,697,848,4,GasA,Y,848,1,0,1,3,1,5,2,420,5,2008,1118
+30,5825,Lvl,Inside,BrkSide,1Fam,1Story,4,1953,Gable,CompShg,MetalSd,2,BrkFace,108.0,PConc,2,1,0,600,4,GasA,Y,747,1,0,1,5,0,1,2,528,6,2006,528
+60,23303,Lvl,CulDSac,NridgHt,1Fam,2Story,8,2007,Gable,CompShg,VinylSd,3,Stone,20.0,PConc,5,6,1230,1508,4,GasA,Y,2520,2,1,5,10,1,3,3,640,6,2009,1871
+20,25485,Lvl,CulDSac,Crawfor,1Fam,1Story,6,1960,Gable,CompShg,Wd Sdng,2,BrkFace,423.0,CBlock,3,2,540,1560,4,GasA,Y,1560,1,1,3,6,3,5,2,580,5,2007,1123
+80,10784,Lvl,FR2,Gilbert,1Fam,SLvl,7,1992,Gable,CompShg,HdBoard,3,BrkFace,76.0,PConc,4,1,0,384,4,GasA,Y,1472,2,1,3,7,1,5,2,402,5,2007,403
+20,8510,Lvl,Inside,NAmes,1Fam,1Story,5,1971,Gable,CompShg,Plywood,2,BrkFace,178.0,CBlock,4,5,500,1043,4,GasA,Y,1050,1,1,3,6,0,5,1,336,7,2009,836
+80,17871,Lvl,CulDSac,NWAmes,1Fam,SLvl,6,1976,Gable,CompShg,HdBoard,2,BrkFace,359.0,CBlock,4,5,528,1680,4,GasA,Y,1724,1,1,3,7,1,5,2,480,6,2009,1009
+20,21750,Lvl,Inside,Mitchel,1Fam,1Story,5,2006,Hip,CompShg,HdBoard,2,BrkFace,75.0,Slab,0,0,0,0,4,GasA,Y,1771,1,0,3,9,1,5,2,336,11,2009,337
+20,9510,Lvl,Inside,NAmes,1Fam,1Story,6,1985,Gable,CompShg,HdBoard,2,BrkCmn,161.0,CBlock,3,5,701,1135,4,GasA,Y,1207,1,1,3,6,0,5,1,264,5,2006,965
+20,8339,Lvl,Inside,NAmes,1Fam,1Story,5,1959,Gable,CompShg,MetalSd,2,None,0.0,Slab,0,0,0,0,4,GasA,Y,882,1,0,3,5,0,5,1,294,7,2007,294
+20,14828,Lvl,Corner,NridgHt,1Fam,1Story,9,2005,Hip,CompShg,MetalSd,4,BrkFace,674.0,PConc,5,6,1383,1780,4,GasA,Y,1780,2,0,2,7,1,5,3,816,8,2006,2200
+20,8749,Lvl,Inside,CollgCr,1Fam,1Story,7,2002,Gable,CompShg,VinylSd,3,BrkFace,100.0,PConc,4,1,0,1459,4,GasA,Y,1459,2,0,3,6,1,5,2,527,9,2007,528
+50,9140,HLS,Inside,IDOTRR,1Fam,1.5Fin,6,1975,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,4,308,629,4,GasA,Y,1107,1,0,2,5,0,1,1,625,4,2010,933
+70,3600,Lvl,Inside,OldTown,1Fam,2Story,5,2005,Gambrel,CompShg,VinylSd,2,None,0.0,BrkTil,3,3,316,687,4,GasA,Y,1358,1,1,3,6,1,1,1,336,7,2007,653
+70,8777,Bnk,Inside,Edwards,1Fam,2Story,4,2000,Gable,CompShg,Plywood,2,None,0.0,CBlock,4,3,173,676,4,GasA,Y,1436,2,0,3,6,0,5,2,528,10,2006,701
+60,12798,HLS,Inside,ClearCr,1Fam,2Story,6,1997,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,462,616,4,GasA,Y,1688,2,1,4,8,0,5,2,603,5,2008,1065
+20,12704,Lvl,Inside,NridgHt,1Fam,1Story,8,2009,Hip,CompShg,VinylSd,4,BrkFace,306.0,PConc,5,1,0,2042,4,GasA,Y,2042,2,1,3,8,1,5,3,1390,8,2009,1391
+20,7480,Lvl,Inside,CollgCr,1Fam,1Story,5,1972,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,5,480,876,4,GasA,Y,876,1,0,3,5,0,1,2,484,6,2010,964
+85,16500,Lvl,Inside,NWAmes,1Fam,SFoyer,6,1971,Hip,CompShg,HdBoard,2,BrkFace,509.0,CBlock,4,6,962,1232,4,GasA,Y,1320,2,0,3,5,1,5,2,495,5,2009,1458
+20,16669,Lvl,Corner,Timber,1Fam,1Story,8,1981,Hip,WdShake,Plywood,3,BrkFace,653.0,CBlock,4,1,0,1686,4,GasA,Y,1707,2,1,2,6,1,5,2,511,1,2006,512
+50,8064,Lvl,Corner,NAmes,1Fam,1.5Fin,6,1994,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,2,120,864,4,GasA,Y,1495,1,0,3,6,0,1,2,576,8,2009,696
+20,7758,Lvl,Corner,Sawyer,1Fam,1Story,5,2001,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,588,999,4,GasA,Y,999,1,0,3,6,0,1,1,264,3,2007,852
+50,11767,Lvl,Inside,Edwards,1Fam,2Story,4,2000,Gable,CompShg,MetalSd,2,None,0.0,CBlock,2,1,0,560,4,GasA,N,1346,1,1,2,6,0,1,1,384,5,2007,384
+45,6900,Lvl,Corner,OldTown,1Fam,1.5Fin,6,2000,Gable,CompShg,MetalSd,2,None,0.0,PConc,4,1,0,827,4,GasA,Y,1251,1,0,3,6,0,1,1,240,1,2010,240
+120,4671,HLS,Inside,StoneBr,TwnhsE,1Story,8,1989,Gable,CompShg,HdBoard,3,None,0.0,PConc,4,6,767,1228,4,GasA,Y,1228,2,0,2,5,1,5,2,472,10,2008,1240
+50,6125,Lvl,Inside,BrkSide,1Fam,1.5Fin,5,1998,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,3,306,728,4,GasA,Y,1274,2,0,3,6,0,1,1,224,3,2007,530
+70,9863,Lvl,Inside,OldTown,1Fam,2Story,6,1950,Gambrel,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,2,196,728,4,GasA,Y,1642,1,1,4,9,1,1,1,374,3,2007,571
+20,9571,Lvl,Inside,Edwards,1Fam,1Story,5,1956,Hip,CompShg,Wd Sdng,2,None,0.0,CBlock,3,3,870,1509,2,GasA,Y,1509,1,0,3,6,1,5,1,322,7,2008,1193
+120,4590,Lvl,Inside,NridgHt,Twnhs,1Story,8,2006,Gable,CompShg,VinylSd,3,Stone,108.0,PConc,4,6,24,1554,4,GasA,Y,1554,2,0,2,6,1,5,2,627,5,2007,652
+60,8450,Lvl,Inside,SawyerW,1Fam,2Story,6,2001,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,472,827,4,GasA,Y,1677,2,1,3,7,0,5,2,627,9,2008,1099
+60,8400,Lvl,Inside,NWAmes,1Fam,2Story,8,2001,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,643,810,4,GasA,Y,1665,2,1,3,6,0,5,2,528,11,2009,1171
+20,14694,Lvl,Inside,Veenker,1Fam,1Story,8,2008,Gable,CompShg,MetalSd,4,BrkFace,450.0,CBlock,4,6,1252,1694,4,GasA,Y,1694,2,0,2,5,1,5,2,642,6,2009,1895
+20,14250,Lvl,Inside,NAmes,1Fam,1Story,6,1957,Gable,CompShg,Plywood,2,BrkFace,360.0,CBlock,3,1,0,998,4,GasA,Y,1790,2,0,3,6,2,5,2,540,9,2008,542
+20,6951,Lvl,CulDSac,Mitchel,1Fam,1Story,5,1985,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,658,876,4,GasA,Y,923,1,0,3,5,0,5,1,264,10,2008,922
+20,12720,HLS,Inside,NridgHt,1Fam,1Story,10,2003,Hip,CompShg,MetalSd,4,Stone,680.0,PConc,5,6,2257,2535,4,GasA,Y,2470,1,1,1,7,2,5,3,789,2,2008,3048
+20,11988,Lvl,Corner,NAmes,1Fam,1Story,6,1957,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,3,777,1244,2,GasA,Y,1244,1,1,3,6,2,5,1,336,5,2007,1115
+30,3880,Lvl,Inside,OldTown,1Fam,1Story,5,1997,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,5,329,686,4,GasA,Y,866,1,0,2,4,0,0,0,0,8,2007,329
+60,7685,Lvl,Inside,Gilbert,1Fam,2Story,6,1994,Gable,CompShg,HdBoard,2,BrkFace,112.0,PConc,4,5,518,697,4,GasA,Y,1501,2,1,3,6,1,5,2,420,5,2006,939
+50,18837,Lvl,Inside,NWAmes,1Fam,1.5Fin,6,1978,Gable,CompShg,MetalSd,2,None,0.0,PConc,4,5,687,1224,4,GasA,Y,1891,3,0,3,7,1,5,2,678,4,2010,1366
+90,11136,Lvl,Corner,Sawyer,Duplex,1Story,6,1964,Gable,CompShg,BrkFace,2,None,0.0,CBlock,3,1,0,1921,4,GasA,Y,1921,2,0,4,8,0,1,2,576,7,2006,576
+90,10773,Lvl,Inside,Sawyer,Duplex,1Story,4,1967,Gable,Tar&Grv,Plywood,1,BrkFace,72.0,CBlock,3,5,704,1832,4,GasA,N,1832,2,0,4,8,0,0,0,0,5,2010,704
+20,10200,Lvl,Inside,NAmes,1Fam,1Story,6,1974,Hip,CompShg,Plywood,2,BrkFace,440.0,CBlock,3,2,844,1434,4,GasA,Y,1434,2,0,4,7,1,5,2,528,6,2009,1373
+60,7500,Lvl,Inside,Somerst,1Fam,2Story,8,2001,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1058,4,GasA,Y,1874,2,1,3,7,1,5,2,588,3,2009,589
+80,11800,Lvl,Inside,OldTown,1Fam,SLvl,4,2002,Gable,CompShg,Stucco,2,None,0.0,Slab,0,0,0,0,4,GasA,Y,1382,2,0,1,6,1,5,1,384,5,2007,385
+20,17217,Lvl,Inside,Mitchel,1Fam,1Story,5,2006,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,1,0,1140,4,GasA,Y,1140,1,0,3,6,0,0,0,0,7,2006,0
+20,16196,Low,Inside,SawyerW,1Fam,1Story,7,1998,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,1443,1482,4,GasA,Y,1494,2,0,3,5,1,5,2,514,8,2007,1958
+60,35760,Lvl,CulDSac,NoRidge,1Fam,2Story,10,1996,Hip,CompShg,HdBoard,3,BrkFace,1378.0,PConc,5,6,1387,1930,4,GasA,Y,3627,3,1,4,10,1,5,3,807,7,2006,2195
+190,7630,Lvl,Inside,OldTown,2fmCon,2Story,5,1996,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,4,1,0,360,4,GasA,Y,1812,2,0,4,8,1,1,2,672,5,2010,673
+160,2016,Lvl,Inside,BrDale,TwnhsE,2Story,5,1970,Gable,CompShg,HdBoard,2,BrkFace,304.0,CBlock,3,1,0,630,4,GasA,Y,1302,2,1,3,6,0,1,2,440,4,2007,440
+20,10816,Lvl,Inside,CollgCr,1Fam,1Story,9,2008,Gable,CompShg,VinylSd,4,Stone,364.0,PConc,5,6,1104,1720,4,GasA,Y,1720,2,0,3,8,1,5,3,846,11,2009,1951
+60,9978,Lvl,Inside,Gilbert,1Fam,2Story,6,1998,Gable,CompShg,VinylSd,2,BrkFace,20.0,PConc,3,6,602,926,4,GasA,Y,1604,2,1,3,7,1,5,2,470,6,2010,1073
+20,12291,Lvl,Inside,Somerst,1Fam,1Story,10,2007,Hip,CompShg,CemntBd,4,BrkFace,754.0,PConc,5,6,1572,1966,4,GasA,Y,1966,2,0,1,6,1,5,3,1092,10,2007,2665
+60,11065,Lvl,Inside,NridgHt,1Fam,2Story,8,2006,Gable,CompShg,VinylSd,3,Stone,788.0,PConc,4,1,0,1085,4,GasA,Y,1970,2,1,3,8,1,3,3,753,10,2006,754
+120,8147,HLS,Inside,StoneBr,TwnhsE,1Story,9,2005,Hip,CompShg,MetalSd,3,BrkFace,230.0,PConc,5,6,1191,1714,4,GasA,Y,1714,2,0,2,7,1,5,2,517,8,2006,1709
+60,13869,Lvl,Corner,Gilbert,1Fam,2Story,6,1997,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,182,794,4,GasA,Y,1470,2,0,3,6,0,5,2,388,7,2007,570
+75,6204,Bnk,Inside,SWISU,1Fam,2.5Fin,4,1950,Gable,CompShg,Wd Sdng,3,None,0.0,PConc,3,1,0,795,4,GasA,N,2230,1,0,5,10,0,1,1,440,3,2006,440
+60,12151,Lvl,Inside,NridgHt,1Fam,2Story,9,2005,Gable,CompShg,CemntBd,3,BrkFace,368.0,PConc,5,6,1249,1414,4,GasA,Y,2331,2,1,3,9,1,3,3,1003,8,2008,2253
+20,9560,Lvl,Corner,CollgCr,1Fam,1Story,5,1972,Hip,CompShg,MetalSd,2,None,0.0,CBlock,3,3,360,864,4,GasA,Y,864,1,0,3,5,0,5,1,288,6,2006,648
+20,8923,Lvl,Inside,NAmes,1Fam,1Story,5,2006,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,4,643,1008,4,GasA,Y,1008,1,0,2,6,0,5,1,240,5,2007,883
+50,5520,Lvl,FR2,BrkSide,1Fam,1.5Fin,5,1997,Gable,CompShg,AsbShng,2,None,0.0,BrkTil,3,5,68,565,4,GasA,Y,1216,1,0,3,6,1,3,1,355,4,2008,424
+20,12606,Lvl,Inside,Somerst,1Fam,1Story,9,2008,Gable,CompShg,VinylSd,3,Stone,120.0,PConc,4,1,0,1530,4,GasA,Y,1530,2,0,3,7,1,5,3,984,5,2009,985
+80,8660,Lvl,Inside,CollgCr,1Fam,SLvl,5,1976,Gable,CompShg,VinylSd,2,BrkFace,113.0,CBlock,4,6,502,1015,4,GasA,Y,1025,2,0,3,6,1,1,2,370,7,2007,873
+60,9042,Lvl,Inside,Gilbert,1Fam,2Story,6,1998,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,828,943,4,GasA,Y,1638,2,1,3,7,2,5,2,472,7,2008,1302
+60,11227,Lvl,Inside,Sawyer,1Fam,2Story,5,1968,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,3,267,720,4,GasA,Y,1440,1,1,4,7,2,5,2,480,3,2010,749
+85,11380,Lvl,Inside,NAmes,1Fam,SFoyer,6,2008,Gable,CompShg,HdBoard,2,BrkFace,216.0,CBlock,3,6,944,1080,4,GasA,Y,1128,1,0,2,5,1,5,1,315,1,2010,1260
+160,2280,Lvl,Inside,Somerst,Twnhs,2Story,6,1999,Gable,CompShg,MetalSd,2,Stone,216.0,PConc,4,6,550,744,4,GasA,Y,1549,2,1,3,6,0,1,2,440,4,2008,990
+50,10452,Lvl,Inside,Crawfor,1Fam,1.5Fin,7,1985,Gable,CompShg,Wd Sdng,3,BrkFace,371.0,BrkTil,4,5,426,1528,4,GasA,Y,2133,1,1,4,8,2,5,1,312,7,2010,740
+20,9910,Lvl,Inside,Somerst,1Fam,1Story,7,2007,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1369,4,GasA,Y,1369,2,0,3,5,0,5,2,605,9,2007,605
+20,13072,Lvl,Inside,SawyerW,1Fam,1Story,7,2005,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1114,4,GasA,Y,1114,1,1,3,6,0,1,2,576,5,2009,576
+120,3901,Lvl,Inside,NridgHt,Twnhs,1Story,6,2006,Gable,CompShg,VinylSd,3,Stone,182.0,PConc,4,5,866,1302,4,GasA,Y,1302,1,1,1,5,1,5,2,631,8,2007,1498
+20,11625,Lvl,Inside,Mitchel,1Fam,1Story,5,1983,Gable,CompShg,HdBoard,2,None,0.0,CBlock,4,5,596,816,4,GasA,Y,816,1,0,2,4,0,5,1,264,5,2007,860
+20,9360,Lvl,Inside,NWAmes,1Fam,1Story,6,2006,Hip,CompShg,Plywood,2,None,0.0,CBlock,3,5,982,1161,4,GasA,Y,1381,1,1,3,5,1,5,2,676,3,2010,1659
+20,9717,Lvl,Inside,NAmes,1Fam,1Story,5,1996,Hip,CompShg,MetalSd,2,None,0.0,CBlock,3,6,49,1078,2,GasA,Y,1078,1,0,2,5,0,5,1,240,4,2010,289
+50,10320,Lvl,Inside,IDOTRR,1Fam,1.5Fin,6,1995,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,1,0,756,4,GasA,Y,1469,1,0,3,7,0,1,1,216,6,2008,216
+20,31220,Bnk,FR2,Gilbert,1Fam,1Story,6,1952,Hip,CompShg,BrkFace,2,None,0.0,CBlock,3,1,0,1632,2,GasA,Y,1474,1,0,3,7,2,5,2,495,5,2008,497
+50,8050,Lvl,Inside,Edwards,1Fam,1.5Fin,5,1993,Gable,CompShg,MetalSd,2,None,0.0,Slab,0,0,0,0,4,GasA,Y,1137,1,1,4,8,0,0,0,0,4,2008,0
+90,7596,Lvl,Inside,OldTown,Duplex,2Story,5,1952,Hip,CompShg,Wd Sdng,2,BrkFace,360.0,CBlock,3,1,0,960,4,GasA,Y,1960,2,0,4,10,0,1,2,400,7,2009,400
+70,8094,Lvl,Inside,OldTown,1Fam,2Story,6,1950,Gable,CompShg,MetalSd,2,None,0.0,PConc,3,1,0,1048,2,GasA,Y,1768,2,0,3,8,0,1,2,576,6,2009,576
+60,10900,Lvl,FR2,CollgCr,1Fam,2Story,6,1977,Gable,CompShg,HdBoard,2,BrkFace,153.0,CBlock,4,6,378,689,4,GasA,Y,1392,1,1,3,6,0,5,1,299,3,2010,677
+70,9000,Bnk,Inside,IDOTRR,1Fam,2Story,4,1950,Gable,CompShg,MetalSd,2,None,0.0,Stone,2,1,0,592,4,GasA,Y,864,1,1,3,5,0,1,1,216,6,2008,216
+20,15417,Lvl,Inside,Veenker,1Fam,1Story,7,1981,Gable,CompShg,BrkFace,3,None,0.0,CBlock,4,2,121,1740,4,GasA,Y,1740,1,1,2,7,0,5,2,540,6,2009,661
+60,11645,Lvl,Corner,CollgCr,1Fam,2Story,7,2004,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,860,4,GasA,Y,1720,2,1,3,7,0,5,2,565,8,2006,565
+50,10512,Lvl,Inside,Edwards,1Fam,1.5Fin,6,1954,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,4,491,988,4,GasA,Y,1626,1,1,3,6,0,5,1,332,5,2007,823
+50,5586,Bnk,Inside,OldTown,1Fam,1.5Fin,6,1998,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,3,1,0,901,4,GasA,Y,1198,1,0,4,7,0,0,0,0,9,2008,0
+85,7838,Lvl,Inside,NAmes,1Fam,SFoyer,5,1967,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,769,864,4,GasA,Y,900,1,0,3,6,1,5,1,288,12,2006,1058
+30,9022,Lvl,Inside,OldTown,1Fam,1Story,5,2006,Gable,CompShg,VinylSd,3,None,0.0,BrkTil,3,1,0,768,4,GasA,Y,792,1,0,2,5,0,1,1,240,5,2009,240
+20,7390,Lvl,Inside,NAmes,1Fam,1Story,5,1955,Hip,CompShg,Wd Sdng,2,BrkFace,151.0,CBlock,3,5,902,1098,4,GasA,Y,1098,1,0,3,6,0,5,1,260,7,2008,1162
+160,1900,Lvl,Inside,MeadowV,TwnhsE,2Story,4,1970,Gable,CompShg,CemntBd,2,None,0.0,CBlock,3,1,0,546,4,GasA,Y,1092,1,1,3,5,0,0,0,0,6,2010,0
+20,8760,Lvl,Inside,NAmes,1Fam,1Story,6,1999,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,5,873,936,4,GasA,Y,936,1,0,2,4,0,5,1,315,9,2007,1188
+60,13125,Lvl,Corner,SawyerW,1Fam,2Story,7,1991,Gable,CompShg,HdBoard,3,None,0.0,PConc,5,4,48,1104,4,GasA,Y,2127,2,1,4,8,1,5,3,833,11,2007,882
+60,9240,Lvl,Inside,CollgCr,1Fam,2Story,8,2002,Gable,CompShg,VinylSd,3,BrkFace,396.0,PConc,4,1,0,1055,4,GasA,Y,2263,2,1,3,7,1,3,2,905,9,2008,906
+20,13125,Lvl,Inside,CollgCr,1Fam,1Story,6,1998,Gable,CompShg,VinylSd,2,BrkFace,215.0,PConc,4,6,994,1478,4,GasA,Y,1493,2,0,3,7,1,5,2,508,4,2008,1503
+50,11767,Lvl,Inside,Edwards,1Fam,1.5Fin,5,1995,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,4,352,768,4,GasA,Y,1200,1,0,3,6,0,1,1,240,5,2008,592
+20,9250,Lvl,Corner,NAmes,1Fam,1Story,5,2005,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,4,480,1056,4,GasA,Y,1056,1,0,3,6,0,5,1,260,7,2007,740
+20,13693,Lvl,Inside,NridgHt,1Fam,1Story,10,2007,Hip,CompShg,VinylSd,4,Stone,472.0,PConc,5,6,2288,2630,4,GasA,Y,2674,2,1,2,8,2,5,3,762,3,2009,3052
+120,6472,Lvl,Inside,NridgHt,TwnhsE,1Story,9,2008,Hip,CompShg,VinylSd,4,BrkFace,500.0,PConc,5,1,0,1451,4,GasA,Y,1456,2,0,2,6,1,5,2,539,4,2009,540
+20,10206,Lvl,Inside,Somerst,1Fam,1Story,8,2007,Gable,CompShg,VinylSd,2,Stone,468.0,PConc,4,6,33,1563,4,GasA,Y,1563,2,0,3,6,1,5,3,758,10,2008,792
+20,13695,Lvl,Inside,SawyerW,1Fam,1Story,6,2004,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,814,1114,4,GasA,Y,1114,1,0,3,6,0,1,2,576,7,2008,1390
+120,3203,Lvl,Inside,Blmngtn,TwnhsE,1Story,7,2006,Gable,CompShg,VinylSd,3,BrkFace,14.0,PConc,4,6,16,1145,4,GasA,Y,1145,2,0,2,6,0,5,2,437,1,2010,453
+60,9512,Lvl,Inside,Somerst,1Fam,2Story,7,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,5,788,960,4,GasA,Y,2318,2,1,3,8,1,3,2,541,6,2006,1330
+20,9750,Lvl,Inside,CollgCr,1Fam,1Story,7,2004,Gable,CompShg,VinylSd,3,Stone,50.0,PConc,4,6,24,1445,4,GasA,Y,1445,2,0,3,6,0,5,2,470,6,2008,494
+60,15623,Lvl,Corner,NoRidge,1Fam,2Story,10,1996,Hip,CompShg,Wd Sdng,3,None,0.0,PConc,5,6,2096,2396,4,GasA,Y,4476,3,1,4,10,2,5,3,813,7,2007,2911
+20,8072,Lvl,Inside,CollgCr,1Fam,1Story,5,1995,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,5,746,990,4,GasA,Y,990,1,0,3,5,0,1,2,480,5,2009,1226
+80,11679,Lvl,Inside,Edwards,1Fam,SLvl,5,1962,Gable,CompShg,Plywood,2,Stone,96.0,CBlock,3,5,612,1776,4,GasA,Y,1560,2,0,3,6,1,5,2,528,5,2006,1141
+160,2544,Lvl,Inside,Somerst,Twnhs,2Story,7,2005,Gable,CompShg,MetalSd,3,None,0.0,PConc,4,1,0,600,4,GasA,Y,1223,2,1,2,4,0,1,2,480,7,2006,480
+60,10832,Lvl,Corner,Gilbert,1Fam,2Story,7,1996,Gable,CompShg,MetalSd,3,None,0.0,PConc,4,1,0,712,4,GasA,Y,1895,2,1,3,7,1,5,2,409,10,2008,410
+50,9786,Bnk,Inside,NAmes,1Fam,1.5Fin,6,1981,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,3,600,912,4,GasA,Y,1734,1,1,3,7,1,5,2,440,6,2006,1041
+30,5400,Lvl,Corner,OldTown,1Fam,1Story,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,2,1,0,691,2,GasA,Y,691,1,0,2,4,0,1,1,216,1,2007,216
+90,8235,Lvl,Inside,Sawyer,Duplex,1Story,5,1977,Gable,CompShg,Plywood,2,BrkFace,99.0,CBlock,3,3,483,1949,4,GasA,Y,1949,2,0,6,10,0,5,2,586,5,2006,1069
+160,1894,Lvl,Inside,MeadowV,TwnhsE,2Story,4,1970,Gable,CompShg,CemntBd,2,None,0.0,CBlock,3,3,252,546,4,GasA,Y,1092,1,1,3,6,0,2,1,286,4,2006,538
+20,7903,Lvl,Inside,NAmes,1Fam,1Story,5,1960,Hip,CompShg,BrkFace,2,None,0.0,CBlock,3,3,739,1242,2,GasA,Y,1242,1,1,3,6,0,5,1,324,5,2007,1063
+50,9839,Lvl,Inside,SWISU,1Fam,1.5Fin,5,1950,Gable,CompShg,VinylSd,2,None,0.0,PConc,3,1,0,894,4,GasA,Y,1666,1,0,3,7,1,0,0,0,5,2010,1
+60,9900,Lvl,Inside,NWAmes,1Fam,2Story,7,1968,Gable,CompShg,MetalSd,2,BrkFace,342.0,CBlock,3,4,552,832,4,GasA,Y,1978,2,1,4,9,1,5,2,486,4,2008,1039
+60,17542,Lvl,Inside,Veenker,1Fam,2Story,7,2003,Gable,CompShg,Wd Sdng,3,None,0.0,CBlock,3,2,125,1192,4,GasA,Y,2167,2,1,3,9,2,5,2,518,7,2007,645
+60,9073,Lvl,Inside,Gilbert,1Fam,2Story,7,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,738,4,GasA,Y,1492,2,1,3,8,0,5,2,440,10,2006,440
+20,10140,Lvl,Inside,NWAmes,1Fam,1Story,6,1974,Hip,CompShg,HdBoard,2,BrkFace,174.0,CBlock,4,1,0,1064,4,GasA,Y,1350,2,0,3,7,1,5,2,478,8,2009,479
+50,9060,Lvl,Inside,Edwards,1Fam,1.5Fin,6,1950,Gable,CompShg,WdShing,2,None,0.0,BrkTil,3,3,204,560,4,GasA,Y,1258,1,0,2,6,0,1,1,280,10,2009,484
+60,8965,Lvl,Inside,Gilbert,1Fam,2Story,7,2003,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,652,782,4,GasA,Y,1489,2,1,3,8,1,5,2,400,6,2009,1053
+75,7793,Bnk,Corner,BrkSide,1Fam,2.5Unf,7,2005,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,4,4,474,1108,2,GasA,N,2068,1,1,3,8,1,1,1,315,5,2010,790
+20,9750,Lvl,Inside,Sawyer,1Fam,1Story,5,1962,Hip,CompShg,HdBoard,2,None,0.0,CBlock,3,2,68,980,4,GasA,Y,980,1,0,3,5,0,1,2,400,11,2009,468
+20,10206,Lvl,Corner,Edwards,1Fam,1Story,3,1952,Flat,Tar&Grv,BrkComm,2,None,0.0,Slab,0,0,0,0,3,GasW,N,944,1,0,2,4,0,1,2,528,7,2009,528
+60,10140,Lvl,Inside,NWAmes,1Fam,2Story,7,1976,Gable,CompShg,HdBoard,2,None,0.0,PConc,4,6,194,832,4,GasA,Y,1664,2,1,4,8,1,5,2,528,3,2006,723
+120,2394,Low,Inside,MeadowV,Twnhs,1Story,5,1973,Gable,CompShg,CemntBd,2,None,0.0,CBlock,4,6,915,945,4,GasA,Y,945,1,0,2,5,1,5,1,253,5,2010,1169
+30,10267,Lvl,Inside,BrkSide,1Fam,1Story,6,2000,Gable,CompShg,Stucco,2,None,0.0,BrkTil,3,3,210,816,4,GasA,Y,838,1,0,2,5,0,1,1,275,5,2008,485
+20,6360,Lvl,Inside,Sawyer,1Fam,1Story,5,1963,Hip,CompShg,Wd Sdng,2,None,0.0,CBlock,4,5,489,864,4,GasA,Y,864,1,0,3,5,0,5,1,276,1,2008,765
+60,10237,Lvl,Inside,Gilbert,1Fam,2Story,6,2007,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,783,4,GasA,Y,1484,2,1,3,8,1,5,2,393,7,2007,394
+85,7540,Lvl,CulDSac,Mitchel,1Fam,SFoyer,6,1978,Gable,CompShg,VinylSd,2,None,0.0,CBlock,4,6,773,888,4,GasA,Y,912,1,0,2,5,1,5,2,470,6,2007,1244
+60,9428,Lvl,Inside,Somerst,1Fam,2Story,8,2008,Hip,CompShg,VinylSd,3,Stone,310.0,PConc,4,6,729,955,4,GasA,Y,1874,2,1,3,8,1,5,3,880,2,2008,1610
+50,10164,Bnk,Inside,SWISU,1Fam,1.5Fin,5,1950,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,2,646,992,4,GasA,Y,1465,2,0,3,6,2,1,1,240,7,2006,888
+80,13825,Lvl,Inside,Sawyer,1Fam,SLvl,5,1987,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,1,0,533,4,GasA,Y,1601,1,0,3,6,0,3,1,300,12,2008,300
+80,7700,Lvl,Inside,NAmes,1Fam,SLvl,5,1956,Gable,CompShg,VinylSd,2,None,0.0,CBlock,4,4,271,301,2,GasA,Y,1145,1,0,3,6,0,1,2,684,9,2006,955
+60,17433,Lvl,CulDSac,NoRidge,1Fam,2Story,8,1998,Hip,CompShg,VinylSd,3,BrkFace,114.0,PConc,5,1,0,1629,4,GasA,Y,2475,2,1,4,7,1,5,3,962,1,2010,963
+75,6300,Lvl,Corner,OldTown,1Fam,2.5Unf,7,2005,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,1226,4,GasA,Y,2104,2,0,5,9,0,1,2,432,7,2006,432
+80,10366,Lvl,Corner,Sawyer,1Fam,SLvl,6,1964,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,6,456,912,4,GasA,Y,934,1,0,2,4,0,5,1,336,7,2006,792
+60,9291,Lvl,Corner,SawyerW,1Fam,2Story,6,1993,Gable,CompShg,HdBoard,3,BrkFace,120.0,PConc,4,6,426,832,4,GasA,Y,1710,2,1,3,7,0,5,2,506,6,2008,932
+70,5775,Bnk,Corner,OldTown,1Fam,2Story,6,2002,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,483,4,GasA,Y,1427,1,0,3,7,0,5,1,379,2,2009,379
+20,7200,Lvl,Inside,NAmes,1Fam,1Story,4,1950,Gable,CompShg,BrkFace,2,None,0.0,Slab,0,0,0,0,2,GasA,Y,1040,1,0,2,4,0,1,2,420,7,2006,420
+160,2179,Lvl,Inside,NPkVill,Twnhs,2Story,6,1976,Gable,CompShg,Plywood,2,None,0.0,CBlock,4,5,70,855,4,GasA,Y,1456,2,1,3,6,1,5,2,460,7,2006,531
+60,9360,Lvl,Corner,Edwards,1Fam,2Story,6,2001,Gable,CompShg,VinylSd,3,BrkCmn,216.0,CBlock,3,3,324,621,4,GasA,Y,1269,1,1,3,7,0,1,1,280,11,2008,604
+120,6442,Lvl,Inside,NridgHt,TwnhsE,1Story,8,2006,Gable,CompShg,VinylSd,3,Stone,178.0,PConc,4,6,24,1370,4,GasA,Y,1370,2,0,2,6,1,5,2,484,10,2007,509
+60,14598,Lvl,CulDSac,Somerst,1Fam,2Story,6,2007,Gable,CompShg,VinylSd,3,Stone,74.0,PConc,4,1,0,894,4,GasA,Y,1933,2,1,4,9,1,3,3,668,1,2008,669
+60,8637,Lvl,Inside,Gilbert,1Fam,2Story,6,2000,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,5,871,923,4,GasA,Y,1714,2,1,3,7,1,5,2,451,4,2007,1323
+60,9120,Lvl,Inside,NWAmes,1Fam,2Story,6,1974,Hip,CompShg,HdBoard,3,BrkFace,270.0,CBlock,3,5,442,901,4,GasA,Y,1876,2,1,4,8,1,5,2,540,7,2008,983
+30,5142,Lvl,Inside,Edwards,1Fam,1.5Fin,4,2008,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,5,224,949,4,GasA,Y,1292,1,1,3,6,0,1,1,205,6,2008,429
+20,215245,Low,Inside,Timber,1Fam,1Story,7,1965,Hip,CompShg,BrkFace,2,None,0.0,CBlock,4,5,1236,2136,4,GasW,Y,2036,2,0,3,8,2,5,2,513,6,2009,1751
+120,4109,Lvl,Inside,Somerst,TwnhsE,1Story,9,2000,Gable,CompShg,VinylSd,3,BrkFace,260.0,PConc,4,6,1141,1557,4,GasA,Y,1557,2,0,2,5,1,5,2,484,6,2008,1626
+60,8285,Lvl,Corner,SawyerW,1Fam,2Story,7,1992,Gable,CompShg,HdBoard,3,None,0.0,PConc,4,6,397,836,4,GasA,Y,1737,2,1,3,7,0,5,2,506,5,2008,903
+20,20355,Low,Inside,ClearCr,1Fam,1Story,7,1967,Gable,Tar&Grv,Plywood,2,BrkFace,123.0,CBlock,4,3,810,1865,4,GasA,Y,1830,1,0,2,6,2,5,2,521,6,2006,1333
+60,3378,HLS,Inside,OldTown,1Fam,2Story,7,1992,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,1,0,651,4,GasA,Y,1389,1,1,3,6,2,1,1,240,9,2009,242
+85,5160,Lvl,Inside,IDOTRR,1Fam,SFoyer,4,1950,Hip,CompShg,MetalSd,2,None,0.0,PConc,4,4,749,858,4,GasA,Y,892,1,0,1,5,0,0,0,0,7,2009,749
+20,7500,Lvl,Inside,NAmes,1Fam,1Story,5,2003,Hip,CompShg,BrkFace,2,None,0.0,CBlock,3,6,574,1040,4,GasA,Y,1040,1,0,3,6,0,5,1,286,7,2007,860
+160,3735,Lvl,FR3,Somerst,TwnhsE,2Story,7,1999,Hip,CompShg,MetalSd,3,BrkFace,218.0,PConc,4,6,450,691,4,GasA,Y,1452,2,1,3,6,0,1,2,506,3,2006,956
+90,6979,Lvl,Inside,OldTown,Duplex,SFoyer,6,1980,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,6,1056,1056,4,GasA,Y,1056,0,0,0,4,0,1,2,576,6,2010,1632
+60,7056,Lvl,Inside,NAmes,1Fam,2Story,6,1963,Hip,CompShg,HdBoard,2,BrkFace,415.0,CBlock,3,4,400,780,4,GasA,Y,1796,1,1,4,8,1,5,2,483,10,2008,884
+60,11911,Lvl,Inside,Gilbert,1Fam,2Story,6,2005,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,684,4,GasA,Y,1560,2,1,3,6,1,3,2,400,3,2009,401
+30,7890,Lvl,Corner,SWISU,1Fam,1Story,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,3,238,856,4,GasA,Y,856,1,0,2,4,1,1,2,399,3,2010,638
+30,10800,Lvl,Inside,OldTown,1Fam,1Story,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,720,4,GasA,N,846,1,0,2,4,0,1,2,576,6,2009,576
+60,11250,Lvl,Corner,CollgCr,1Fam,2Story,8,2002,Gable,CompShg,CemntBd,3,None,0.0,PConc,4,1,0,1128,4,GasA,Y,2290,2,1,4,9,1,5,2,779,5,2008,780
+60,9605,Lvl,Inside,Somerst,1Fam,2Story,7,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,982,4,GasA,Y,1977,2,1,3,7,0,5,3,574,7,2007,574
+20,14680,HLS,Inside,Crawfor,1Fam,1Story,5,1960,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,3,793,1273,4,GasA,Y,1273,1,0,2,5,0,5,1,307,6,2009,1100
+60,10208,Lvl,Inside,NoRidge,1Fam,2Story,7,1997,Gable,CompShg,VinylSd,3,BrkFace,921.0,PConc,4,1,0,1264,4,GasA,Y,2344,2,1,3,7,1,5,3,889,7,2009,890
+30,19550,Lvl,Inside,Edwards,1Fam,1Story,5,2007,Flat,Tar&Grv,PreCast,2,None,0.0,PConc,3,5,1035,1580,4,GasA,Y,1518,1,0,2,5,2,0,0,0,1,2008,1037
+180,1491,Lvl,Inside,MeadowV,TwnhsE,SFoyer,4,1972,Gable,CompShg,CemntBd,2,None,0.0,CBlock,4,2,150,630,4,GasA,Y,630,1,0,1,3,0,0,0,0,5,2010,150
+50,4800,Lvl,Corner,OldTown,1Fam,1.5Fin,4,1954,Hip,CompShg,Wd Sdng,2,BrkFace,771.0,PConc,3,5,48,709,4,GasA,Y,1844,1,0,3,9,2,4,1,240,1,2010,290
+20,8172,Lvl,Inside,Edwards,1Fam,1Story,4,1955,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,4,544,768,4,GasA,Y,768,1,0,2,4,1,1,1,355,7,2007,900
+75,25419,Lvl,Corner,NAmes,1Fam,2Story,8,1990,Gable,CompShg,Stucco,3,None,0.0,PConc,3,6,1036,1360,4,GasA,Y,3112,2,0,4,8,1,1,2,795,3,2006,1832
+60,13031,Lvl,Corner,Gilbert,1Fam,2Story,6,1996,Gable,CompShg,HdBoard,2,None,0.0,PConc,4,5,592,691,4,GasA,Y,1498,2,1,3,6,1,5,2,409,7,2006,1002
+30,5633,Lvl,Inside,OldTown,1Fam,1Story,5,1950,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,3,1,0,844,4,GasA,Y,844,1,0,2,5,0,1,1,216,7,2006,216
+60,14257,Lvl,Inside,NridgHt,1Fam,2Story,9,2007,Hip,CompShg,VinylSd,4,Stone,726.0,PConc,5,6,1360,1776,4,GasA,Y,2772,3,1,4,10,3,3,3,754,6,2009,2117
+20,20896,Lvl,CulDSac,Somerst,1Fam,1Story,8,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,5,6,1721,2077,4,GasA,Y,2097,1,1,1,8,1,5,3,1134,1,2006,2856
+120,4230,Lvl,Corner,Somerst,TwnhsE,1Story,7,2007,Gable,CompShg,VinylSd,3,None,0.0,PConc,5,1,0,1352,4,GasA,Y,1352,2,0,2,5,1,5,2,466,4,2007,467
+60,15611,Lvl,Inside,CollgCr,1Fam,2Story,8,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1079,4,GasA,Y,1919,2,1,3,8,1,5,2,685,7,2006,686
+20,10960,Lvl,Inside,NWAmes,1Fam,1Story,6,1984,Hip,CompShg,HdBoard,2,None,0.0,CBlock,4,6,256,1284,4,GasA,Y,1284,2,0,3,5,0,5,2,480,4,2007,736
+60,11999,Lvl,Inside,NridgHt,1Fam,2Story,8,2004,Hip,CompShg,VinylSd,3,BrkFace,340.0,PConc,4,1,0,1181,4,GasA,Y,2374,2,1,4,10,1,3,3,656,5,2007,657
+60,11060,Lvl,Corner,Edwards,1Fam,2Story,7,2005,Gable,CompShg,VinylSd,3,None,0.0,PConc,5,1,0,1150,4,GasA,Y,2314,2,1,3,9,1,3,2,502,2,2006,503
+20,13214,HLS,Inside,Timber,1Fam,1Story,9,2009,Hip,CompShg,Stucco,4,None,0.0,PConc,5,1,0,2002,4,GasA,Y,2018,2,0,3,10,1,5,3,746,5,2010,747
+20,10235,Lvl,Inside,CollgCr,1Fam,1Story,8,2007,Gable,CompShg,VinylSd,3,Stone,306.0,PConc,4,1,0,1643,4,GasA,Y,1651,2,0,3,7,1,5,3,870,9,2007,871
+20,13008,Lvl,Inside,NAmes,1Fam,1Story,6,1956,Gable,CompShg,MetalSd,2,None,0.0,CBlock,2,3,564,882,4,GasA,Y,882,1,0,2,5,0,5,1,502,10,2009,1066
+20,7436,Lvl,Inside,NAmes,1Fam,1Story,4,1960,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,5,734,894,4,GasA,Y,894,1,0,2,5,1,1,2,396,8,2009,1131
+60,8123,Lvl,Inside,Gilbert,1Fam,2Story,6,2000,Gable,CompShg,VinylSd,2,BrkFace,16.0,PConc,4,1,0,982,4,GasA,Y,1800,2,1,3,7,1,5,2,463,6,2009,464
+120,7820,Lvl,Inside,NridgHt,TwnhsE,1Story,9,2007,Hip,CompShg,MetalSd,4,BrkFace,362.0,PConc,5,1,0,1869,4,GasA,Y,1869,2,0,2,6,1,5,2,617,12,2007,618
+120,5568,HLS,Inside,Crawfor,TwnhsE,1Story,8,2007,Hip,CompShg,CemntBd,3,Stone,473.0,PConc,4,6,1573,1573,4,GasA,Y,1625,2,0,2,5,1,5,2,495,10,2007,2069
+50,8400,Bnk,Inside,SWISU,1Fam,1.5Fin,6,2000,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,2,388,940,4,GasA,Y,1595,1,0,2,6,2,5,1,240,6,2006,630
+60,9828,Lvl,Inside,SawyerW,1Fam,2Story,8,1995,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,584,1128,4,GasA,Y,2020,2,1,3,8,1,5,2,466,6,2009,1051
+60,9375,Lvl,Inside,Somerst,1Fam,2Story,7,2004,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,912,4,GasA,Y,2094,2,1,4,8,1,3,2,615,11,2009,616
+20,11457,Lvl,Corner,Timber,1Fam,1Story,6,1988,Gable,CompShg,HdBoard,2,None,0.0,CBlock,4,6,1005,1392,4,GasA,Y,1412,2,0,3,6,1,5,2,576,3,2009,1582
+50,6120,Lvl,Inside,BrkSide,1Fam,1.5Fin,3,1950,Gable,CompShg,AsbShng,3,None,0.0,CBlock,3,3,347,728,4,GasA,Y,1162,1,0,3,6,0,1,1,258,11,2006,605
+50,8800,Lvl,Corner,OldTown,1Fam,1.5Fin,4,2004,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,576,4,GasA,Y,1140,1,0,3,7,0,0,0,0,6,2010,0
+60,20431,Lvl,Inside,NridgHt,1Fam,2Story,9,2006,Hip,CompShg,CemntBd,4,BrkFace,870.0,PConc,5,6,1410,1848,4,GasA,Y,2728,2,1,4,10,2,5,3,706,4,2006,2118
+60,10560,Lvl,Corner,SawyerW,1Fam,2Story,7,1994,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,474,1079,4,GasA,Y,1879,2,1,3,8,1,5,2,473,8,2009,948
+20,19958,Lvl,Inside,Timber,1Fam,1Story,6,1995,Hip,CompShg,HdBoard,2,BrkFace,1224.0,CBlock,3,1,0,585,4,GasA,Y,2279,2,1,4,7,1,5,2,461,7,2007,462
+80,11084,Lvl,Corner,Gilbert,1Fam,SLvl,7,2004,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,192,384,4,GasA,Y,1374,2,1,3,8,1,3,2,400,6,2007,593
+70,10266,Lvl,Inside,IDOTRR,1Fam,2Story,6,1952,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,3,372,768,2,GasA,Y,1536,1,1,4,7,0,1,1,308,5,2008,680
+160,1890,Lvl,Inside,BrDale,Twnhs,2Story,6,1973,Gable,CompShg,HdBoard,2,BrkFace,285.0,CBlock,3,4,356,672,4,GasA,Y,1218,1,1,3,7,0,1,1,264,5,2007,620
+20,10452,Lvl,Inside,Edwards,1Fam,1Story,6,1953,Hip,CompShg,Wd Sdng,2,Stone,216.0,CBlock,3,3,500,1094,4,GasA,Y,1094,1,0,3,5,2,5,2,495,6,2008,997
+60,23257,HLS,CulDSac,Gilbert,1Fam,2Story,7,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,5,1,0,868,4,GasA,Y,2021,2,1,3,9,1,3,2,422,9,2006,423
+60,7570,Lvl,Corner,NAmes,1Fam,2Story,6,1964,Gable,CompShg,HdBoard,2,BrkFace,420.0,CBlock,3,1,0,780,4,GasA,Y,1806,1,1,4,8,0,5,2,483,3,2009,483
+20,8400,Lvl,Inside,NAmes,1Fam,1Story,5,1957,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,3,922,1314,4,GasA,Y,1314,1,0,3,5,0,5,1,294,6,2010,1216
+60,9317,Lvl,Inside,SawyerW,1Fam,2Story,7,1993,Gable,CompShg,HdBoard,3,BrkFace,137.0,PConc,4,5,513,740,4,GasA,Y,1775,2,1,3,7,1,5,2,425,7,2009,939
+80,9020,Lvl,Corner,NAmes,1Fam,SLvl,6,1964,Gable,WdShngl,Plywood,2,BrkFace,259.0,CBlock,3,6,624,1248,4,GasA,Y,1350,1,1,3,6,0,5,2,520,6,2008,1144
+180,3675,Lvl,Inside,Edwards,TwnhsE,SFoyer,6,2006,Gable,CompShg,VinylSd,2,BrkFace,82.0,PConc,4,6,547,547,4,GasA,Y,1072,1,0,2,5,0,4,2,525,10,2006,1072
+190,7200,Lvl,Corner,OldTown,2fmCon,2.5Unf,6,1998,Hip,CompShg,MetalSd,2,None,0.0,BrkTil,3,3,1046,1214,4,GasW,N,2291,2,0,4,9,1,1,2,506,11,2007,1553
+60,8125,Lvl,Inside,Somerst,1Fam,2Story,7,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,770,4,GasA,Y,1576,2,1,3,6,0,5,2,614,8,2006,614
+70,7200,Lvl,Corner,OldTown,1Fam,2Story,7,1950,Hip,CompShg,Wd Sdng,2,None,0.0,BrkTil,2,1,0,596,4,GasA,Y,1762,1,1,4,8,0,1,2,576,10,2006,576
+50,14100,Lvl,Inside,Crawfor,1Fam,1.5Fin,8,1997,Gable,CompShg,Stucco,2,BrkFace,632.0,CBlock,3,3,192,728,4,GasA,Y,3447,3,1,4,11,2,3,3,1014,5,2008,1208
+20,7038,Lvl,Inside,NAmes,1Fam,1Story,4,1970,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,5,726,864,4,GasA,Y,864,1,0,3,5,0,1,2,576,9,2009,1302
+20,16133,HLS,Inside,Edwards,1Fam,1Story,5,1969,Gable,CompShg,HdBoard,2,None,0.0,CBlock,4,5,847,1176,4,GasA,Y,1176,1,0,2,5,0,5,1,360,12,2006,1207
+120,4435,Lvl,Inside,CollgCr,TwnhsE,1Story,6,2003,Gable,CompShg,VinylSd,3,BrkFace,170.0,PConc,4,6,659,848,4,GasA,Y,848,1,0,1,3,0,5,2,420,11,2007,1079
+80,16157,Lvl,FR2,Veenker,1Fam,SLvl,5,1978,Gable,CompShg,Plywood,2,None,0.0,PConc,4,5,680,1360,4,GasA,Y,1432,1,1,2,5,1,5,2,588,6,2007,1269
+20,7200,Lvl,Inside,NAmes,1Fam,1Story,5,1950,Hip,CompShg,MetalSd,2,None,0.0,CBlock,0,0,0,0,4,GasA,Y,1048,1,0,3,7,0,1,2,420,7,2008,420
+20,9000,Lvl,Inside,NAmes,1Fam,1Story,5,1954,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,2,812,936,4,GasA,Y,1128,1,0,2,5,0,5,1,286,6,2006,1098
+60,10463,HLS,CulDSac,Gilbert,1Fam,2Story,8,2005,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,893,4,GasA,Y,1801,2,1,3,8,1,5,3,800,6,2006,801
+70,12155,Lvl,Inside,SWISU,1Fam,2Story,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,4,156,672,4,GasA,N,1482,2,0,4,7,0,1,1,400,3,2008,556
+20,10712,Lvl,Inside,Mitchel,1Fam,1Story,5,1992,Gable,CompShg,HdBoard,2,None,0.0,PConc,4,4,212,974,4,GasA,Y,974,1,0,3,5,0,0,0,0,9,2007,212
+50,9143,Lvl,Corner,OldTown,1Fam,1.5Fin,5,2003,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,1,0,346,4,GasA,Y,1017,1,0,2,5,0,1,1,308,5,2008,308
+50,6000,Lvl,Inside,BrkSide,1Fam,1.5Fin,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,5,375,735,4,GasA,Y,1218,1,0,3,6,1,1,2,440,3,2007,816
+60,29959,Lvl,FR2,NoRidge,1Fam,2Story,7,1994,Gable,CompShg,HdBoard,3,None,0.0,PConc,4,6,595,973,4,GasA,Y,1850,2,1,3,7,1,3,2,467,1,2009,1063
+70,16560,Lvl,Inside,Crawfor,1Fam,2Story,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,4,3,503,952,4,GasA,Y,2345,2,1,4,9,1,1,2,360,7,2006,864
+160,1953,Lvl,Inside,BrDale,Twnhs,2Story,6,1973,Gable,CompShg,HdBoard,2,BrkFace,408.0,CBlock,3,4,309,483,4,GasA,Y,987,1,1,2,5,0,1,1,264,6,2006,573
+45,9000,Lvl,Corner,SawyerW,1Fam,1.5Unf,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,2,1,0,784,2,GasA,N,784,1,0,2,5,0,1,2,360,10,2009,360
+20,9571,Lvl,Inside,Edwards,1Fam,1Story,5,1956,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,4,739,1144,4,GasA,Y,1144,1,0,3,6,0,5,1,596,6,2010,1335
+20,8700,Lvl,Inside,NAmes,1Fam,1Story,5,1961,Gable,CompShg,HdBoard,2,BrkFace,53.0,CBlock,3,5,192,920,4,GasA,Y,888,1,0,3,5,0,5,1,240,2,2007,432
+90,8927,Lvl,Inside,Sawyer,Duplex,1.5Fin,6,1977,Gable,CompShg,VinylSd,2,None,0.0,CBlock,0,0,0,0,4,GasA,Y,1654,2,0,4,10,0,5,2,528,8,2006,528
+160,1890,Lvl,Inside,MeadowV,Twnhs,2Story,4,1976,Gable,CompShg,CemntBd,2,None,0.0,CBlock,3,1,0,546,4,GasA,Y,1092,1,1,3,6,0,5,1,286,4,2007,286
+20,7000,Lvl,Corner,NAmes,1Fam,1Story,5,1961,Gable,CompShg,BrkFace,2,None,0.0,Slab,0,0,0,0,4,GasA,Y,925,1,0,3,7,0,5,1,300,7,2007,300
+20,14175,Bnk,Corner,Sawyer,1Fam,1Story,5,1987,Gable,CompShg,CemntBd,2,None,0.0,CBlock,3,3,988,1188,4,GasA,Y,1437,1,1,3,6,1,1,2,576,11,2006,1565
+120,4426,Lvl,Inside,CollgCr,TwnhsE,1Story,6,2004,Gable,CompShg,VinylSd,3,BrkFace,147.0,PConc,4,6,697,848,4,GasA,Y,848,1,0,1,3,1,5,2,420,5,2008,1118
+60,9316,Lvl,Inside,CollgCr,1Fam,2Story,7,2005,Gable,CompShg,VinylSd,3,BrkFace,532.0,PConc,4,1,0,784,4,GasA,Y,1596,2,1,3,6,0,5,2,610,6,2006,610
+60,9085,Lvl,Inside,NoRidge,1Fam,2Story,7,1996,Gable,CompShg,VinylSd,3,BrkFace,286.0,PConc,4,6,816,1070,4,GasA,Y,2061,2,1,3,7,1,5,2,647,11,2009,1464
+20,11202,Lvl,Inside,Timber,1Fam,1Story,8,2003,Hip,CompShg,VinylSd,3,BrkFace,206.0,PConc,5,6,1029,1432,4,GasA,Y,1440,2,0,3,7,1,5,2,467,6,2008,1497
+70,9650,HLS,Corner,Crawfor,1Fam,2Story,6,1950,Hip,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,784,4,GasA,Y,1603,1,0,4,7,1,5,2,599,6,2008,600
+90,7136,HLS,Inside,Crawfor,Duplex,2Story,6,1950,Gable,CompShg,MetalSd,2,BrkFace,423.0,CBlock,4,3,484,979,3,GasA,N,1958,2,0,4,8,0,5,2,492,8,2007,976
+120,7390,Lvl,Inside,NridgHt,TwnhsE,1Story,9,2009,Hip,CompShg,MetalSd,4,BrkFace,308.0,PConc,5,6,800,1884,4,GasA,Y,1884,2,0,2,6,1,5,2,649,5,2009,1450
+20,7064,Lvl,Inside,Sawyer,1Fam,1Story,5,1977,Gable,CompShg,Plywood,2,BrkFace,153.0,CBlock,3,4,560,980,4,GasA,Y,980,1,0,3,6,0,1,2,484,7,2009,1044
+70,6120,Lvl,Inside,OldTown,1Fam,2Story,5,1950,Gambrel,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,2,203,1100,4,GasA,Y,1902,2,0,4,7,0,1,2,576,10,2008,779
+30,4800,Lvl,Corner,OldTown,1Fam,1Story,5,1950,Gable,CompShg,MetalSd,2,None,0.0,CBlock,2,1,0,672,4,GasA,Y,672,1,0,2,4,0,1,1,256,8,2008,256
+20,9000,Lvl,Inside,Sawyer,1Fam,1Story,5,1959,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,6,288,1006,4,GasA,Y,1006,1,0,3,5,0,0,0,0,7,2008,288
+190,164660,HLS,Corner,Timber,2fmCon,1.5Fin,5,1965,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,5,1249,1499,4,GasA,Y,1786,2,0,3,7,2,5,2,529,8,2008,1780
+20,6762,Lvl,Inside,CollgCr,1Fam,1Story,7,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1286,4,GasA,Y,1294,2,0,2,6,1,5,2,662,7,2006,663
+90,10547,Lvl,Inside,Edwards,Duplex,SFoyer,5,1978,Gable,CompShg,Plywood,2,None,0.0,PConc,4,6,1152,1152,4,GasA,Y,1152,2,0,2,6,0,1,1,252,7,2009,1404
+20,13052,Lvl,CulDSac,Sawyer,1Fam,1Story,5,1965,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,3,712,1024,4,GasA,Y,1024,1,1,3,5,0,5,1,308,1,2006,1020
+60,15600,Lvl,Inside,Crawfor,1Fam,2Story,5,1963,Gable,CompShg,Wd Sdng,2,BrkFace,405.0,CBlock,4,6,760,1168,4,GasA,Y,2315,2,0,4,9,3,5,1,342,7,2006,1105
+120,4920,Lvl,Inside,StoneBr,TwnhsE,1Story,8,2001,Gable,CompShg,CemntBd,3,None,0.0,PConc,4,6,616,1338,4,GasA,Y,1338,2,0,2,6,0,5,2,582,4,2010,1198
+20,13253,Lvl,Inside,Somerst,1Fam,1Story,7,2006,Gable,CompShg,VinylSd,3,BrkFace,128.0,PConc,5,6,1096,1578,4,GasA,Y,1578,2,0,3,7,1,5,3,642,5,2008,1739
+60,11631,Lvl,Corner,Gilbert,1Fam,2Story,8,2005,Gable,CompShg,VinylSd,3,BrkFace,236.0,PConc,4,1,0,1052,4,GasA,Y,2373,2,1,4,9,1,3,3,632,6,2006,633
+90,7200,Lvl,Inside,SWISU,Duplex,2Story,4,1967,Flat,Tar&Grv,Plywood,2,None,0.0,Slab,0,0,0,0,4,GasA,Y,2650,3,0,6,10,0,0,0,0,2,2010,0
+20,11394,Lvl,Corner,StoneBr,1Fam,1Story,9,2010,Hip,CompShg,VinylSd,3,Stone,350.0,PConc,5,6,1445,1856,4,GasA,Y,1856,1,1,1,8,1,5,3,834,6,2010,2280
+20,10159,Lvl,Inside,NridgHt,1Fam,1Story,9,2010,Hip,CompShg,VinylSd,4,Stone,450.0,PConc,5,6,1646,1930,4,GasA,Y,1940,2,1,3,8,1,5,3,606,4,2010,2253
+120,6264,Lvl,Corner,StoneBr,1Fam,1Story,8,1997,Gable,CompShg,CemntBd,3,None,0.0,PConc,5,6,656,1664,4,GasA,Y,1682,1,1,1,6,1,5,2,528,7,2008,1185
+60,8738,Lvl,Inside,Gilbert,1Fam,2Story,7,1999,Gable,CompShg,VinylSd,3,BrkFace,302.0,PConc,4,1,0,975,4,GasA,Y,2291,2,1,4,8,1,3,2,429,2,2006,430
+50,7015,Bnk,Corner,BrkSide,1Fam,1.5Fin,5,1950,Gable,CompShg,MetalSd,2,BrkCmn,161.0,CBlock,3,2,185,709,4,GasA,Y,1203,1,0,3,5,1,1,1,352,7,2009,538
+50,6240,Lvl,Inside,BrkSide,1Fam,1.5Fin,4,1950,Gable,CompShg,AsbShng,2,None,0.0,Slab,0,0,0,0,4,GasA,N,912,1,0,2,3,0,0,0,0,7,2006,0
+50,8405,Lvl,Inside,Edwards,1Fam,1.5Fin,5,1950,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,3,3,241,861,4,GasA,Y,1367,1,0,4,7,0,1,1,384,4,2008,625
+50,5000,Lvl,Inside,SWISU,1Fam,1.5Fin,5,1950,Gable,CompShg,BrkFace,2,None,0.0,BrkTil,3,2,218,1026,4,GasA,Y,1691,2,0,3,6,1,1,1,308,5,2010,527
+20,12883,Lvl,Corner,NridgHt,1Fam,1Story,8,2010,Gable,CompShg,VinylSd,3,Stone,256.0,PConc,4,1,0,1544,4,GasA,Y,1544,2,0,3,7,0,5,3,868,6,2010,868
+20,7200,Low,Inside,CollgCr,1Fam,1Story,5,1972,Hip,CompShg,MetalSd,2,None,0.0,CBlock,3,3,777,894,4,GasA,Y,894,1,0,2,6,0,1,2,600,9,2009,1377
+120,4928,Lvl,Inside,NPkVill,TwnhsE,1Story,6,1976,Gable,CompShg,Plywood,2,None,0.0,CBlock,4,2,958,958,4,GasA,Y,958,2,0,2,5,0,5,2,440,10,2009,1398
+20,8712,Lvl,Inside,NAmes,1Fam,1Story,5,2000,Hip,CompShg,MetalSd,2,None,0.0,CBlock,3,4,860,992,4,GasA,Y,1306,1,0,2,5,0,1,1,756,5,2009,1616
+120,3010,Lvl,Inside,Blmngtn,TwnhsE,1Story,7,2006,Gable,CompShg,VinylSd,3,BrkFace,14.0,PConc,4,6,16,1142,4,GasA,Y,1142,2,0,2,6,0,5,2,440,6,2006,456
+60,9780,Lvl,Inside,IDOTRR,1Fam,2Story,7,2005,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,2,354,976,4,GasA,Y,1952,1,1,4,8,2,1,1,299,4,2007,655
+60,9462,Lvl,Inside,NAmes,1Fam,2Story,5,1973,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,1,0,704,2,GasA,Y,1728,1,1,3,7,1,5,1,234,7,2006,235
+90,9482,Lvl,Inside,NAmes,Duplex,1Story,5,1958,Hip,CompShg,Wd Sdng,2,BrkFace,657.0,PConc,3,1,0,1866,4,GasA,Y,1866,2,0,4,8,0,1,2,495,12,2009,495
+60,14067,Lvl,FR3,Gilbert,1Fam,2Story,6,1991,Gable,CompShg,HdBoard,2,BrkFace,194.0,PConc,4,5,504,836,4,GasA,Y,1709,2,1,3,7,0,5,2,416,9,2008,920
+90,11345,Lvl,Corner,NAmes,Duplex,2Story,5,1950,Gable,Roll,AsbShng,2,Stone,567.0,CBlock,3,3,220,928,2,GasA,Y,1920,2,0,4,10,0,1,2,400,7,2007,620
+120,3760,Lvl,CulDSac,Greens,Twnhs,1Story,8,1980,Gable,CompShg,Wd Sdng,3,None,0.0,CBlock,4,6,1009,1235,4,GasA,Y,1235,1,0,1,4,3,5,2,484,5,2006,1496
+30,10320,Lvl,Inside,IDOTRR,1Fam,1Story,5,1991,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,2,1,0,451,4,GasA,Y,759,1,0,1,5,0,1,2,576,8,2008,576
+70,7588,Lvl,Inside,Crawfor,1Fam,2Story,7,1950,Gable,CompShg,Stucco,2,None,0.0,BrkTil,2,2,352,793,4,GasA,Y,1802,1,1,4,9,1,1,1,216,7,2006,569
+30,8520,Lvl,Inside,OldTown,1Fam,1Story,5,1950,Gable,CompShg,Stucco,3,None,0.0,PConc,2,1,0,624,4,GasA,Y,792,1,0,2,5,0,1,1,287,2,2009,287
+50,14190,Lvl,Inside,OldTown,1Fam,1.5Fin,4,2006,Gable,CompShg,VinylSd,3,None,0.0,CBlock,2,1,0,925,4,GasA,Y,1544,2,0,3,7,0,0,0,0,4,2007,0
+20,11664,Lvl,Inside,NAmes,1Fam,1Story,6,1950,Gable,CompShg,MetalSd,2,BrkFace,206.0,CBlock,3,4,336,1082,4,GasA,Y,1082,1,0,2,5,1,1,1,240,11,2007,577
+120,4420,Lvl,CulDSac,Greens,TwnhsE,1Story,8,1980,Gable,CompShg,Wd Sdng,3,None,0.0,CBlock,4,6,728,728,4,GasA,Y,788,1,0,1,3,1,1,2,484,6,2010,1213
+20,33983,Lvl,Inside,Mitchel,1Fam,1Story,5,1994,Gable,CompShg,Plywood,2,None,0.0,PConc,3,5,1112,1160,4,GasA,Y,1676,1,1,3,6,2,5,2,672,5,2007,1786
+50,10134,Lvl,Inside,OldTown,1Fam,1.5Fin,5,1950,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,2,1,0,801,4,GasA,N,1447,1,0,3,6,0,0,0,0,7,2009,0
+40,12144,Lvl,Inside,NAmes,1Fam,1Story,5,1950,Gable,CompShg,HdBoard,3,None,0.0,CBlock,3,3,375,832,4,GasA,Y,1268,1,0,3,6,1,5,1,288,9,2009,664
+60,8750,Lvl,Inside,CollgCr,1Fam,2Story,6,1998,Gable,CompShg,VinylSd,2,BrkFace,116.0,PConc,4,6,505,804,4,GasA,Y,1682,2,1,3,7,0,5,2,523,6,2010,1028
+60,11134,Lvl,Inside,NoRidge,1Fam,2Story,8,1993,Gable,CompShg,HdBoard,3,BrkFace,180.0,PConc,4,6,1129,1390,4,GasA,Y,2225,2,1,4,7,1,5,3,713,6,2010,1843
+60,7379,Lvl,Inside,Somerst,1Fam,2Story,8,2000,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,484,975,4,GasA,Y,1848,2,1,3,7,1,5,2,592,4,2010,1077
+60,9783,Lvl,Inside,Gilbert,1Fam,2Story,6,1996,Gable,CompShg,HdBoard,2,None,0.0,PConc,4,1,0,821,4,GasA,Y,1776,2,1,3,7,1,3,2,443,5,2006,444
+20,9477,Lvl,Corner,NAmes,1Fam,1Story,5,1966,Gable,CompShg,HdBoard,2,BrkFace,65.0,CBlock,3,3,340,864,4,GasA,Y,892,1,0,3,5,0,5,1,264,10,2008,604
+60,15384,Lvl,Inside,Gilbert,1Fam,2Story,7,2005,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,724,788,4,GasA,Y,1490,2,1,3,8,1,5,2,388,2,2008,1113
+20,11327,Lvl,Inside,Sawyer,1Fam,1Story,5,1967,Hip,CompShg,HdBoard,2,BrkFace,305.0,CBlock,3,5,779,1064,4,GasA,Y,1064,1,0,3,6,1,5,2,528,6,2006,1308
+190,5852,Bnk,Corner,OldTown,2fmCon,2.5Unf,7,2000,Gable,CompShg,MetalSd,2,Stone,188.0,BrkTil,3,3,169,1020,3,GasA,N,1864,2,1,6,9,0,0,0,0,5,2009,169
+60,7200,Lvl,Inside,Edwards,1Fam,2Story,6,2001,Hip,CompShg,Plywood,2,None,0.0,CBlock,3,5,288,684,4,GasA,Y,1398,1,1,3,6,1,5,2,440,2,2008,729
+160,1680,Lvl,Inside,BrDale,Twnhs,2Story,6,1972,Gable,CompShg,HdBoard,2,BrkFace,281.0,CBlock,3,4,317,672,4,GasA,Y,1218,1,1,3,7,0,1,1,264,5,2006,581
+20,10182,Lvl,CulDSac,Somerst,1Fam,1Story,8,2006,Hip,CompShg,VinylSd,3,Stone,420.0,PConc,5,6,1220,1660,4,GasA,Y,1660,2,0,3,8,1,5,2,500,5,2006,1721
+20,9375,Lvl,Corner,Edwards,1Fam,1Story,4,1954,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,3,799,967,4,GasA,Y,1350,1,1,3,6,1,5,2,504,6,2006,1304
+80,11275,Lvl,Corner,NAmes,1Fam,SLvl,7,2007,Mansard,WdShake,Wd Sdng,3,BrkFace,300.0,CBlock,4,1,0,710,4,GasA,Y,2978,2,1,5,11,1,3,2,564,6,2010,565
+70,9720,Lvl,Inside,OldTown,1Fam,2Story,6,2002,Gable,CompShg,MetalSd,2,None,0.0,PConc,3,1,0,741,4,GasA,Y,1521,1,0,4,8,0,1,3,640,9,2009,640
+20,9017,Lvl,Inside,CollgCr,1Fam,1Story,7,1999,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,560,1431,4,GasA,Y,1431,2,0,3,6,0,5,2,666,9,2009,1226
+60,10125,Lvl,Inside,Mitchel,1Fam,2Story,8,2001,Gable,CompShg,CemntBd,3,None,0.0,PConc,4,5,445,1107,4,GasA,Y,2052,2,1,3,7,1,3,3,642,5,2009,1088
+50,8500,Lvl,Corner,IDOTRR,1Fam,1.5Fin,5,2005,Gable,CompShg,CemntBd,2,None,0.0,CBlock,3,1,0,793,3,GasW,N,1517,2,0,3,7,0,0,0,0,8,2007,0
+50,9490,Lvl,Inside,NAmes,1Fam,1.5Fin,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,4,403,806,2,GasA,Y,1578,1,0,3,5,2,5,1,240,8,2006,645
+20,27697,Lvl,Inside,Mitchel,1Fam,1Story,4,1961,Shed,CompShg,Plywood,2,CBlock,198.0,CBlock,3,4,811,1396,4,GasA,N,1608,1,0,3,6,0,5,1,444,11,2007,1255
+50,10632,Lvl,Inside,ClearCr,1Fam,1.5Fin,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,4,1,0,689,4,GasA,N,1224,1,1,3,6,0,1,1,180,1,2010,180
+90,11475,Lvl,Corner,NAmes,Duplex,1Story,5,1958,Gable,CompShg,VinylSd,2,BrkFace,95.0,CBlock,3,1,0,1584,4,GasA,Y,1776,2,0,4,9,0,1,3,888,7,2009,888
+20,11049,Lvl,Corner,CollgCr,1Fam,1Story,8,2007,Gable,CompShg,VinylSd,3,None,0.0,PConc,5,1,0,1234,4,GasA,Y,1234,2,0,3,7,0,5,2,484,1,2008,484
+120,4750,HLS,Inside,Crawfor,TwnhsE,1Story,8,2007,Hip,CompShg,VinylSd,3,Stone,481.0,PConc,4,6,1573,1573,4,GasA,Y,1625,2,0,2,5,1,5,2,538,12,2007,2112
+20,35133,Lvl,Inside,Timber,1Fam,1Story,5,1963,Hip,CompShg,MetalSd,2,BrkFace,226.0,CBlock,3,3,1159,1572,4,GasA,Y,1572,1,1,3,5,2,6,3,995,5,2007,2156
+20,12984,Bnk,Inside,Crawfor,1Fam,1Story,5,1977,Gable,CompShg,Plywood,2,BrkFace,459.0,CBlock,4,5,1283,1430,4,GasA,Y,1647,2,0,3,7,1,5,2,621,3,2006,1905
+60,9157,Lvl,Corner,Timber,1Fam,2Story,7,2003,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,912,4,GasA,Y,2014,2,1,3,9,0,5,2,486,2,2009,486
+20,5820,Lvl,Inside,OldTown,1Fam,1Story,3,2005,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,5,256,1162,4,GasA,Y,1163,1,0,3,6,0,5,1,220,7,2006,476
+90,9671,Lvl,Corner,NAmes,Duplex,2Story,6,1969,Gable,CompShg,MetalSd,2,Stone,480.0,CBlock,3,1,0,1248,4,GasA,Y,2544,2,2,6,12,0,5,3,907,8,2009,907
+160,1890,Lvl,Inside,BrDale,Twnhs,2Story,6,1972,Gable,CompShg,HdBoard,2,BrkFace,422.0,CBlock,3,2,483,483,4,GasA,Y,987,1,1,2,5,0,1,1,352,4,2008,835
+70,13515,Lvl,Inside,BrkSide,1Fam,2Story,6,1950,Gambrel,CompShg,Wd Sdng,2,None,0.0,PConc,3,1,0,764,2,GasA,Y,1824,1,0,3,8,1,1,2,520,7,2007,521
+60,9233,Lvl,Inside,NoRidge,1Fam,2Story,9,2000,Gable,CompShg,VinylSd,3,BrkFace,877.0,PConc,5,6,1182,1540,4,GasA,Y,2855,2,1,4,9,1,5,3,774,3,2006,1957
+85,8400,Lvl,Inside,Sawyer,1Fam,SFoyer,6,1966,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,2,187,814,4,GasA,Y,913,1,0,3,6,0,1,1,240,5,2007,427
+20,15306,HLS,Corner,Timber,1Fam,1Story,8,2007,Gable,CompShg,VinylSd,3,Stone,100.0,PConc,5,6,80,1732,4,GasA,Y,1776,2,0,3,7,1,5,3,712,5,2007,793
+50,7642,Lvl,Corner,Crawfor,1Fam,1.5Fin,7,1998,Gable,CompShg,Wd Sdng,3,None,0.0,BrkTil,3,1,0,912,4,GasA,Y,1426,1,1,3,7,1,1,1,216,6,2007,217
+120,3842,HLS,Inside,Crawfor,TwnhsE,1Story,8,2005,Hip,CompShg,CemntBd,3,Stone,174.0,PConc,5,6,1373,1594,4,GasA,Y,1646,2,0,2,5,1,5,2,482,1,2008,1856
+120,5063,Lvl,Inside,NridgHt,Twnhs,1Story,7,2008,Gable,CompShg,VinylSd,3,Stone,166.0,PConc,4,6,904,1314,4,GasA,Y,1314,2,0,2,6,1,5,2,626,4,2009,1531
+120,4235,Lvl,Inside,Edwards,TwnhsE,1Story,5,1984,Gable,CompShg,HdBoard,3,BrkFace,149.0,CBlock,4,6,552,1049,4,GasA,Y,1049,2,0,2,5,0,5,1,266,2,2009,818
+70,15576,Lvl,Inside,Crawfor,1Fam,2Story,6,1976,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,4,1,0,840,4,GasA,Y,1680,2,0,4,8,0,5,1,308,3,2008,308
+190,10120,Bnk,Inside,OldTown,2fmCon,2.5Unf,7,1950,Hip,CompShg,Wd Sdng,1,None,0.0,CBlock,3,1,0,925,3,GasA,N,1889,1,1,4,9,1,1,1,308,1,2007,309
+20,13514,Lvl,Corner,NridgHt,1Fam,1Story,9,2008,Hip,CompShg,VinylSd,4,None,285.0,PConc,5,6,1142,1774,4,GasA,Y,1808,2,0,3,7,1,5,3,850,3,2009,1993
+60,13440,Lvl,Inside,NridgHt,1Fam,2Story,8,2007,Hip,CompShg,VinylSd,3,BrkFace,190.0,PConc,5,1,0,1108,4,GasA,Y,2550,2,1,4,11,1,3,3,670,3,2007,671
+60,8750,Lvl,Inside,CollgCr,1Fam,2Story,7,1995,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,642,915,4,GasA,Y,1908,2,1,4,8,1,5,2,493,7,2008,1136
+20,11500,Bnk,CulDSac,ClearCr,1Fam,1Story,6,1966,Flat,Tar&Grv,Plywood,2,None,0.0,CBlock,4,2,262,1182,4,GasA,Y,1643,2,0,2,6,1,5,2,438,3,2008,701
+190,10800,Lvl,Corner,OldTown,2fmCon,1.5Fin,5,1970,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,4,664,954,2,GasA,N,2414,2,0,3,10,1,5,2,520,5,2006,1185
+70,7609,Lvl,Corner,Crawfor,1Fam,2Story,8,1997,Gable,CompShg,Stucco,3,None,0.0,PConc,2,5,406,798,4,GasA,Y,1512,2,0,3,7,1,1,1,180,6,2008,587
+20,26142,Lvl,CulDSac,Mitchel,1Fam,1Story,5,1962,Gable,CompShg,HdBoard,2,BrkFace,189.0,CBlock,3,3,593,1188,4,GasA,Y,1188,1,0,3,6,0,5,1,312,4,2010,905
+50,9184,Lvl,Inside,OldTown,1Fam,1.5Fin,5,2005,Gable,CompShg,WdShing,2,None,0.0,BrkTil,3,1,0,780,4,GasA,Y,1323,1,0,3,6,0,1,2,400,7,2008,400
+160,1680,Lvl,Inside,BrDale,Twnhs,2Story,5,1971,Gable,CompShg,HdBoard,2,BrkFace,492.0,CBlock,3,3,300,525,4,GasA,Y,1092,1,1,3,6,0,1,1,320,3,2010,620
+20,9416,Lvl,Inside,Somerst,1Fam,1Story,7,2007,Hip,CompShg,CemntBd,4,Stone,205.0,PConc,5,6,1126,1726,4,GasA,Y,1726,2,0,3,8,1,5,3,786,9,2007,1913
+60,8400,Lvl,Inside,SawyerW,1Fam,2Story,6,1981,Gable,CompShg,HdBoard,2,BrkFace,130.0,CBlock,4,1,0,650,4,GasA,Y,1564,2,1,3,7,1,5,2,476,4,2010,477
+50,12144,Lvl,Inside,NAmes,1Fam,1.5Fin,4,1950,Gable,CompShg,BrkComm,2,None,0.0,CBlock,3,3,455,910,4,GasA,Y,1521,1,1,3,6,0,1,1,597,9,2006,1052
+20,10402,Lvl,Corner,CollgCr,1Fam,1Story,7,2009,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,1,0,1226,4,GasA,Y,1226,2,0,3,6,0,5,3,740,5,2010,740
+30,3300,Lvl,Inside,OldTown,1Fam,1Story,4,1950,Gable,CompShg,Stucco,2,None,0.0,BrkTil,3,1,0,624,4,GasA,Y,816,1,0,2,5,1,0,0,0,6,2009,1
+20,8334,Lvl,Inside,CollgCr,1Fam,1Story,6,2007,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1330,4,GasA,Y,1330,2,0,3,6,1,5,2,437,7,2007,438
+60,11207,HLS,FR2,Gilbert,1Fam,2Story,6,1997,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,714,802,4,GasA,Y,1511,2,1,3,8,1,5,2,413,6,2006,1128
+85,7252,Lvl,CulDSac,Sawyer,1Fam,SFoyer,5,1982,Hip,CompShg,Wd Sdng,2,None,0.0,CBlock,4,6,685,858,4,GasA,Y,858,1,0,2,5,0,1,2,576,4,2009,1261
+30,18000,Low,Inside,IDOTRR,1Fam,1Story,3,1950,Gable,CompShg,MetalSd,1,None,0.0,CBlock,3,1,0,894,4,GasA,Y,894,1,0,2,6,0,1,3,1248,8,2008,1248
+50,12134,Bnk,Inside,Gilbert,1Fam,1.5Fin,8,2005,Gable,CompShg,Wd Sdng,3,None,0.0,Wood,4,6,427,559,4,GasA,Y,1752,2,0,4,8,0,4,2,492,6,2010,919
+20,14450,Lvl,Inside,NWAmes,1Fam,1Story,7,1979,Hip,CompShg,Plywood,3,BrkFace,194.0,CBlock,4,5,864,1782,4,GasA,Y,1782,2,0,3,6,1,5,2,551,3,2008,1416
+50,7681,Lvl,FR2,Crawfor,1Fam,1.5Fin,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,731,4,GasA,Y,1343,1,1,3,7,1,1,1,186,7,2009,187
+20,11146,Lvl,Inside,NridgHt,1Fam,1Story,8,2006,Gable,CompShg,VinylSd,3,Stone,250.0,PConc,5,1,0,1709,4,GasA,Y,1717,2,0,3,7,1,5,3,908,7,2009,909
+80,7910,Lvl,Inside,NAmes,1Fam,SLvl,5,1960,Hip,CompShg,BrkFace,2,None,0.0,CBlock,3,5,666,1075,4,GasA,Y,1507,2,0,4,7,0,4,1,404,8,2008,1070
+20,8000,Lvl,Inside,NAmes,1Fam,1Story,5,1962,Gable,CompShg,BrkFace,2,None,0.0,CBlock,3,4,520,1027,4,GasA,Y,1027,1,0,3,6,0,5,1,299,11,2008,819
+190,6048,Lvl,Corner,SWISU,2fmCon,1.5Fin,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,2,736,856,4,GasA,Y,1680,2,0,2,7,1,1,2,450,6,2010,1187
+60,9548,Lvl,CulDSac,CollgCr,1Fam,2Story,7,2003,Gable,CompShg,VinylSd,3,BrkFace,223.0,PConc,4,6,483,941,4,GasA,Y,1829,2,1,3,7,1,5,2,613,1,2010,1097
+60,10927,Lvl,Inside,NridgHt,1Fam,2Story,8,2005,Gable,CompShg,VinylSd,3,BrkFace,280.0,PConc,4,6,546,1058,4,GasA,Y,1904,2,1,3,8,1,3,2,736,6,2006,1283
+20,7350,Lvl,Corner,NAmes,1Fam,1Story,5,1951,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,852,952,4,GasA,Y,952,1,0,2,4,0,1,2,840,6,2008,1692
+30,5925,Bnk,Inside,OldTown,1Fam,1Story,4,2000,Hip,CompShg,Stucco,2,BrkCmn,435.0,BrkTil,2,3,168,907,4,GasA,Y,1131,1,0,2,7,0,1,2,672,3,2007,840
+50,7200,Lvl,Inside,NAmes,1Fam,1.5Fin,5,1967,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,6,370,768,4,GasA,Y,1588,1,1,3,6,0,1,2,480,3,2008,850
+60,12388,Lvl,Inside,NWAmes,1Fam,2Story,7,1991,Gable,CompShg,Plywood,2,BrkFace,229.0,CBlock,4,5,602,1043,4,GasA,Y,2673,2,1,4,9,1,3,2,441,8,2009,1044
+20,8838,Lvl,Inside,NAmes,1Fam,1Story,5,1982,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,0,0,0,0,4,GasA,Y,1764,2,1,4,7,1,5,1,301,10,2008,302
+60,10000,Lvl,Inside,CollgCr,1Fam,2Story,8,1996,Gable,CompShg,VinylSd,3,BrkFace,438.0,PConc,4,6,1079,1220,4,GasA,Y,2090,2,1,3,8,1,5,2,556,12,2007,1636
+60,12203,Lvl,Corner,NoRidge,1Fam,2Story,8,1999,Hip,CompShg,VinylSd,3,BrkFace,975.0,PConc,4,6,854,1225,4,GasA,Y,2612,2,1,4,8,1,5,3,676,7,2009,1531
+50,21286,Lvl,Inside,Sawyer,1Fam,1.5Fin,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,1,0,720,4,GasA,Y,1271,2,0,4,7,1,5,1,312,8,2008,313
+60,11170,Lvl,Corner,Timber,1Fam,2Story,7,1991,Gable,CompShg,MetalSd,2,None,0.0,Wood,4,2,1216,1216,4,GasA,Y,2514,2,1,4,8,0,5,2,693,4,2006,1909
+20,10500,Lvl,FR2,NAmes,1Fam,1Story,4,1971,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,524,864,4,GasA,Y,864,1,0,2,4,0,1,2,576,3,2009,1100
+20,13125,Lvl,Corner,Sawyer,1Fam,1Story,5,2000,Gable,CompShg,Wd Sdng,2,BrkCmn,67.0,CBlock,3,3,168,1134,4,GasA,Y,1803,2,0,3,8,1,5,2,484,1,2006,653
+20,12671,Lvl,Corner,ClearCr,1Fam,1Story,6,1994,Hip,CompShg,MetalSd,2,Stone,300.0,CBlock,4,2,353,1288,4,GasA,Y,2422,3,0,4,6,2,5,2,527,7,2007,882
+20,13600,Bnk,Inside,NAmes,1Fam,1Story,5,1955,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,3,144,1056,4,GasA,Y,1056,1,1,3,6,0,5,1,300,11,2006,444
+70,21281,Lvl,Inside,NAmes,1Fam,2Story,5,2007,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,666,4,GasA,Y,3086,3,1,4,9,0,3,3,1200,11,2007,1200
+70,5870,Lvl,Corner,BrkSide,1Fam,2Story,6,2000,Gable,CompShg,HdBoard,2,None,0.0,BrkTil,3,1,0,554,4,GasA,Y,1290,1,1,3,6,0,1,1,200,4,2008,200
+20,13704,Lvl,Corner,CollgCr,1Fam,1Story,7,2002,Gable,CompShg,VinylSd,3,BrkFace,150.0,PConc,4,1,0,1541,4,GasA,Y,1541,2,0,3,6,1,5,3,843,1,2006,844
+20,12220,Lvl,Inside,NridgHt,1Fam,1Story,10,2009,Hip,CompShg,CemntBd,4,BrkFace,305.0,CBlock,5,6,1436,2006,4,GasA,Y,2020,2,1,3,9,1,5,3,900,9,2009,2337
+120,3782,Lvl,CulDSac,Greens,TwnhsE,1Story,8,1981,Gable,CompShg,Wd Sdng,3,None,0.0,CBlock,4,6,960,1226,4,GasA,Y,1226,1,0,1,4,2,5,2,484,9,2009,1446
+60,8450,Lvl,Inside,CollgCr,1Fam,2Story,7,2003,Gable,CompShg,VinylSd,3,BrkFace,196.0,PConc,4,6,706,856,4,GasA,Y,1710,2,1,3,8,0,5,2,548,2,2008,1254
+80,8750,Lvl,Inside,Mitchel,1Fam,SLvl,7,1975,Gable,CompShg,Plywood,2,Stone,50.0,CBlock,3,3,224,852,4,GasA,Y,918,1,0,3,4,0,5,1,360,3,2007,584
+20,11248,Lvl,Corner,CollgCr,1Fam,1Story,9,2002,Hip,CompShg,VinylSd,3,Stone,215.0,PConc,4,6,1059,1626,4,GasA,Y,1668,2,0,3,7,1,5,3,702,7,2007,1762
+20,8777,Lvl,Inside,Edwards,1Fam,1Story,4,2003,Gable,CompShg,VinylSd,2,None,0.0,CBlock,0,0,0,0,4,GasA,Y,1126,2,0,2,5,0,1,2,520,5,2009,520
+20,8128,Lvl,CulDSac,NAmes,1Fam,1Story,6,1954,Hip,CompShg,MetalSd,2,BrkFace,80.0,CBlock,3,5,490,1062,4,GasA,Y,1062,1,0,3,6,0,5,1,297,2,2009,787
+45,9600,Lvl,Inside,NAmes,1Fam,1.5Unf,5,2003,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,5,220,845,4,GasA,Y,893,1,0,2,4,0,1,2,576,5,2007,796
+60,10125,Lvl,Inside,Gilbert,1Fam,2Story,7,2004,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,846,4,GasA,Y,1594,2,1,3,7,1,5,2,434,7,2009,435
+50,11388,Low,Inside,Edwards,1Fam,1.5Fin,4,1993,Gable,CompShg,VinylSd,2,None,0.0,BrkTil,3,1,0,616,4,GasA,N,1273,1,0,3,5,0,1,1,275,9,2006,275
+60,14215,Lvl,Corner,NridgHt,1Fam,2Story,8,2006,Gable,CompShg,VinylSd,3,BrkFace,380.0,PConc,5,1,0,1158,4,GasA,Y,2376,3,1,4,9,1,3,3,853,11,2006,854
+120,6792,Lvl,Inside,NridgHt,TwnhsE,1Story,7,2006,Gable,CompShg,VinylSd,3,Stone,94.0,PConc,4,1,0,1368,4,GasA,Y,1368,2,0,2,6,1,5,2,474,3,2006,475
+60,11700,Lvl,Corner,NWAmes,1Fam,2Story,6,1968,Gable,CompShg,HdBoard,2,BrkFace,420.0,CBlock,3,5,404,708,4,GasA,Y,1416,2,1,3,7,1,5,2,776,5,2006,1181
+160,4447,Lvl,FR2,Somerst,TwnhsE,2Story,7,2003,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,530,4,GasA,Y,1080,2,1,2,4,0,5,2,496,7,2006,496
+20,13560,Lvl,Corner,NAmes,1Fam,1Story,6,1968,Hip,CompShg,Wd Sdng,2,BrkFace,216.0,CBlock,2,1,0,1392,4,GasA,Y,1392,1,0,2,5,2,5,2,576,7,2009,578
+60,9453,Lvl,CulDSac,SawyerW,1Fam,2Story,7,2003,Gable,CompShg,HdBoard,3,None,0.0,PConc,4,4,402,996,4,GasA,Y,1744,2,1,3,7,0,5,2,457,2,2010,859
+20,10355,Lvl,Corner,NAmes,1Fam,1Story,5,1967,Gable,CompShg,MetalSd,2,BrkFace,196.0,CBlock,3,4,695,1214,4,GasA,Y,1214,2,0,3,5,1,5,1,318,7,2007,1014
+50,6000,Lvl,Inside,IDOTRR,1Fam,1.5Fin,6,2006,Gable,CompShg,VinylSd,2,None,0.0,CBlock,2,1,0,720,4,GasA,Y,1090,1,0,3,5,0,1,1,240,7,2008,240
+20,11250,Lvl,Inside,Veenker,1Fam,1Story,6,1977,Gable,CompShg,Plywood,3,None,0.0,CBlock,4,5,767,1208,4,GasA,Y,1208,1,1,3,6,1,5,2,546,6,2006,1314
+85,10464,Lvl,FR3,NWAmes,1Fam,SFoyer,6,1980,Gable,CompShg,HdBoard,2,BrkFace,130.0,CBlock,4,6,850,988,4,GasA,Y,1102,1,0,2,5,1,5,2,582,6,2006,1433
+20,25095,Low,Inside,ClearCr,1Fam,1Story,5,2003,Flat,Tar&Grv,Wd Sdng,2,None,0.0,CBlock,3,6,1324,1437,4,GasA,Y,1473,1,0,1,5,2,5,1,452,6,2009,1778
+70,11340,Lvl,Inside,OldTown,1Fam,2Story,2,1950,Gable,CompShg,AsbShng,1,None,0.0,BrkTil,2,1,0,723,4,GasA,N,1086,1,0,2,5,0,1,2,400,11,2008,400
+30,5000,Lvl,Inside,BrkSide,1Fam,1Story,4,1950,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,3,3,188,765,3,GasA,N,765,1,0,2,4,0,1,1,200,4,2010,388
+60,11787,Lvl,Inside,NoRidge,1Fam,2Story,7,1997,Gable,CompShg,VinylSd,3,BrkFace,594.0,PConc,4,6,719,1379,4,GasA,Y,2398,2,1,3,8,1,5,3,834,8,2007,1554
+20,7200,Lvl,Inside,CollgCr,1Fam,1Story,5,2000,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,5,671,864,4,GasA,Y,864,1,0,3,5,0,1,2,576,9,2007,1247
+60,13700,Lvl,Inside,NAmes,1Fam,2Story,7,1988,Gable,CompShg,VinylSd,2,Stone,288.0,CBlock,3,5,454,864,4,GasA,Y,1820,1,2,4,8,2,5,2,492,5,2008,948
+20,10130,Lvl,Inside,Somerst,1Fam,1Story,8,2007,Gable,CompShg,VinylSd,3,Stone,260.0,PConc,4,6,1294,1702,4,GasA,Y,1702,2,0,3,7,1,5,3,844,3,2009,2139
+120,6371,Lvl,Inside,NridgHt,TwnhsE,1Story,7,2010,Gable,CompShg,VinylSd,3,Stone,128.0,PConc,4,6,733,1358,4,GasA,Y,1358,2,0,2,6,1,5,2,484,6,2010,1218
+50,6120,Lvl,Inside,OldTown,1Fam,1.5Fin,7,1950,Gable,CompShg,BrkFace,2,None,0.0,BrkTil,3,1,0,952,3,GasA,Y,1774,2,0,2,8,2,1,2,468,4,2008,470
+60,8125,Lvl,Inside,Somerst,1Fam,2Story,7,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,756,4,GasA,Y,1553,2,1,3,6,0,5,2,615,3,2006,615
+60,8470,Lvl,Corner,Somerst,1Fam,2Story,8,2002,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,225,972,4,GasA,Y,1811,2,1,3,7,1,5,2,565,10,2009,791
+20,8750,Lvl,Inside,CollgCr,1Fam,1Story,7,1998,Gable,CompShg,VinylSd,3,BrkFace,209.0,PConc,4,6,1111,1417,4,GasA,Y,1417,2,0,3,7,1,5,2,511,8,2009,1623
+20,6860,Lvl,Inside,NAmes,1Fam,1Story,5,1956,Gable,CompShg,Wd Sdng,2,BrkCmn,54.0,CBlock,3,6,908,1008,4,GasA,Y,1008,1,0,3,6,0,1,1,308,12,2007,1216
+60,10041,Lvl,Inside,SawyerW,1Fam,2Story,8,1992,Gable,CompShg,HdBoard,3,None,0.0,PConc,4,6,789,908,4,GasA,Y,1915,2,1,3,8,1,5,2,506,2,2006,1296
+20,6400,Lvl,Inside,Edwards,1Fam,1Story,5,2000,Gable,CompShg,WdShing,2,None,0.0,CBlock,3,3,77,960,4,GasA,Y,960,1,0,2,4,0,1,1,392,12,2007,469
+160,1488,Lvl,Inside,Blueste,TwnhsE,2Story,6,1992,Gable,CompShg,MetalSd,2,None,0.0,CBlock,4,5,471,561,4,GasA,Y,1229,1,1,2,5,1,5,2,462,10,2009,934
+20,8176,Lvl,Inside,NAmes,1Fam,1Story,5,1992,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,3,846,1056,4,GasA,Y,1056,1,0,3,6,0,5,1,308,8,2007,1154
+60,7590,Lvl,Inside,NAmes,1Fam,2Story,6,1966,Gable,CompShg,VinylSd,2,BrkFace,266.0,CBlock,3,4,512,660,4,GasA,Y,1348,1,1,3,6,1,5,2,453,7,2006,966
+60,21535,Lvl,Corner,NoRidge,1Fam,2Story,10,1995,Gable,WdShngl,HdBoard,4,BrkFace,1170.0,PConc,5,6,1455,2444,4,GasA,Y,4316,3,1,4,10,2,5,3,832,1,2007,2289
+30,4800,Lvl,Inside,IDOTRR,1Fam,1Story,4,1990,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,2,197,1196,2,GasA,Y,1196,1,0,2,5,0,1,2,440,7,2007,637
+60,11796,Lvl,Inside,Gilbert,1Fam,2Story,7,2005,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,847,4,GasA,Y,1959,2,1,4,8,1,3,2,434,7,2007,435
+60,16698,HLS,CulDSac,ClearCr,1Fam,2Story,7,1993,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,800,1449,4,GasA,Y,1759,2,1,3,7,1,5,2,525,6,2009,1326
+60,10400,Lvl,Inside,CollgCr,1Fam,2Story,7,2001,Gable,CompShg,VinylSd,3,BrkFace,227.0,PConc,4,1,0,1257,4,GasA,Y,2161,2,1,3,8,1,5,2,570,6,2008,571
+120,7175,Lvl,Inside,SawyerW,TwnhsE,1Story,6,1984,Gable,CompShg,Plywood,2,None,0.0,CBlock,4,5,623,744,4,GasA,Y,752,1,0,2,4,0,5,1,264,2,2010,887
+20,8314,Lvl,Corner,Mitchel,1Fam,1Story,5,1982,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,546,816,4,GasA,Y,816,1,0,2,5,0,5,1,264,6,2007,810
+85,9180,Lvl,CulDSac,SawyerW,1Fam,SFoyer,5,1983,Gable,CompShg,HdBoard,2,None,0.0,CBlock,4,5,747,840,4,GasA,Y,884,1,0,2,5,0,5,2,504,12,2007,1251
+20,11210,Lvl,Inside,CollgCr,1Fam,1Story,7,2006,Gable,CompShg,VinylSd,3,BrkFace,240.0,PConc,4,6,20,1614,4,GasA,Y,1614,2,0,3,7,0,5,3,865,7,2006,885
+60,8803,Lvl,Inside,Gilbert,1Fam,2Story,6,1995,Gable,CompShg,HdBoard,2,None,0.0,PConc,4,6,600,707,4,GasA,Y,1516,2,1,3,7,1,5,2,409,7,2009,1010
+20,8665,Lvl,Inside,Sawyer,1Fam,1Story,5,1968,Gable,CompShg,HdBoard,2,BrkFace,89.0,CBlock,3,3,168,876,4,GasA,Y,897,1,0,3,5,0,5,1,264,1,2007,432
+60,13474,Lvl,Inside,SawyerW,1Fam,2Story,7,1991,Gable,CompShg,HdBoard,3,BrkFace,246.0,CBlock,4,5,700,700,4,GasA,Y,2243,2,1,4,8,1,5,3,746,6,2007,1447
+20,7180,Lvl,Inside,Somerst,1Fam,1Story,8,2002,Gable,CompShg,CemntBd,3,None,0.0,PConc,4,1,0,1568,4,GasA,Y,1568,2,0,3,6,1,5,2,564,9,2006,565
+20,10950,Lvl,Inside,NAmes,1Fam,1Story,5,1952,Gable,CompShg,WdShing,2,None,0.0,CBlock,3,4,339,864,4,GasA,Y,1064,1,0,2,4,0,1,1,318,5,2010,657
+60,10793,Lvl,Inside,NWAmes,1Fam,2Story,5,1969,Mansard,CompShg,WdShing,2,BrkFace,263.0,CBlock,3,3,493,780,4,GasA,Y,1620,2,1,4,7,0,5,2,462,4,2007,955
+30,9800,Lvl,Corner,SawyerW,1Fam,1Story,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,816,2,GasA,N,1012,1,0,2,5,0,1,1,429,4,2010,429
+20,10237,Lvl,Inside,Gilbert,1Fam,1Story,6,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,28,1316,4,GasA,Y,1316,2,0,3,6,1,5,2,397,10,2006,426
+20,11500,Lvl,CulDSac,Edwards,1Fam,1Story,4,1957,Gable,CompShg,Wd Sdng,2,None,0.0,Slab,0,0,0,0,4,GasA,N,845,1,0,3,5,0,1,1,290,1,2009,290
+60,13006,Lvl,Corner,Gilbert,1Fam,2Story,7,1997,Gable,CompShg,HdBoard,2,BrkFace,285.0,PConc,4,1,0,964,4,GasA,Y,2236,2,1,4,8,1,3,2,642,11,2006,643
+180,1533,Lvl,Inside,MeadowV,Twnhs,SFoyer,5,1970,Gable,CompShg,CemntBd,2,None,0.0,CBlock,4,6,553,630,4,GasA,Y,630,1,0,1,3,0,0,0,0,8,2006,553
+60,7875,Lvl,Inside,Gilbert,1Fam,2Story,7,1996,Gable,CompShg,HdBoard,3,None,0.0,PConc,4,3,414,691,4,GasA,Y,1553,2,1,3,6,0,5,2,420,8,2007,834
+70,12168,HLS,Inside,Crawfor,1Fam,2Story,8,1998,Gable,CompShg,BrkFace,2,None,0.0,PConc,4,4,428,965,4,GasA,Y,3194,2,1,4,10,2,4,2,380,9,2007,810
+20,9200,Lvl,Inside,NAmes,1Fam,1Story,6,1965,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,3,892,1136,4,GasA,Y,1136,1,0,3,5,1,5,1,384,7,2008,1277
+120,4438,Lvl,Inside,CollgCr,TwnhsE,1Story,6,2004,Gable,CompShg,VinylSd,3,BrkFace,169.0,PConc,4,6,662,848,4,GasA,Y,848,1,0,1,4,1,5,2,420,6,2008,1083
+20,13068,Lvl,Corner,NWAmes,1Fam,1Story,6,1976,Hip,CompShg,HdBoard,2,BrkFace,621.0,PConc,4,5,890,1211,4,GasA,Y,1211,2,0,3,6,1,5,2,461,11,2008,1352
+120,4217,Lvl,Inside,Somerst,TwnhsE,1Story,6,2008,Gable,CompShg,VinylSd,3,Stone,252.0,PConc,4,6,962,1145,4,GasA,Y,1256,1,1,1,5,1,5,2,641,3,2009,1604
+50,7000,Lvl,Inside,IDOTRR,1Fam,1.5Fin,6,1950,Hip,CompShg,MetalSd,2,None,0.0,PConc,3,5,374,861,4,GasA,Y,1285,1,0,3,6,0,1,2,506,5,2006,880
+70,6600,Lvl,Corner,OldTown,1Fam,2Story,5,1965,Gable,CompShg,Wd Sdng,2,None,0.0,Stone,3,1,0,994,4,GasA,N,2372,2,0,4,11,0,5,1,432,12,2009,432
+20,8990,Lvl,Inside,CollgCr,1Fam,1Story,7,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1498,4,GasA,Y,1498,2,0,2,5,0,5,2,675,4,2006,675
+70,7755,Lvl,Inside,OldTown,1Fam,2Story,6,1995,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,1,0,1100,2,GasA,Y,2264,2,1,4,8,0,1,1,408,5,2007,408
+60,10382,Lvl,Corner,NWAmes,1Fam,2Story,7,1973,Gable,CompShg,HdBoard,2,Stone,240.0,CBlock,4,5,859,1107,4,GasA,Y,2090,2,1,3,7,2,5,2,484,11,2009,1345
+60,11924,Lvl,Inside,NridgHt,1Fam,2Story,9,2006,Hip,CompShg,WdShing,4,Stone,286.0,PConc,5,6,998,1175,4,GasA,Y,2324,3,0,4,11,2,3,3,736,7,2006,1736
+120,3072,Lvl,Inside,Blmngtn,TwnhsE,1Story,7,2004,Hip,CompShg,VinylSd,3,BrkFace,18.0,PConc,4,1,0,1375,4,GasA,Y,1414,2,0,2,6,1,5,2,398,5,2006,399
+190,9900,Lvl,Inside,SWISU,2fmCon,1.5Fin,5,1950,Gable,CompShg,Wd Sdng,1,None,0.0,BrkTil,3,3,1026,1212,4,GasA,N,1392,1,0,3,6,0,0,0,0,2,2010,1026
+50,6000,Lvl,Corner,BrkSide,1Fam,1.5Fin,5,1997,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,884,4,GasA,Y,1348,1,0,3,5,1,1,1,216,5,2009,217
+60,11075,Lvl,Inside,Mitchel,1Fam,2Story,5,1969,Gable,CompShg,HdBoard,2,BrkFace,232.0,CBlock,3,5,562,784,4,GasA,Y,1968,2,1,4,7,1,5,2,530,9,2008,1093
+20,10682,Lvl,Inside,Edwards,1Fam,1Story,4,1971,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,6,399,1014,4,GasA,Y,1149,1,0,3,7,0,6,1,544,7,2009,943
+60,12589,Lvl,Inside,Gilbert,1Fam,2Story,6,2005,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,742,4,GasA,Y,1484,2,1,3,8,1,5,2,390,6,2009,391
+80,9600,Low,FR2,Veenker,1Fam,SLvl,8,1976,Gable,CompShg,Plywood,3,BrkFace,200.0,CBlock,3,1,0,392,4,GasA,Y,2499,2,1,4,5,1,5,2,527,1,2009,528
+80,16219,Lvl,Inside,Gilbert,1Fam,SLvl,7,2005,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,779,835,4,GasA,Y,1119,2,0,2,5,0,5,2,437,4,2007,1216
+120,7892,Lvl,Inside,SawyerW,TwnhsE,1Story,6,1993,Gable,CompShg,Plywood,3,None,0.0,PConc,4,6,300,1199,4,GasA,Y,1199,2,0,2,5,0,5,2,530,3,2008,830
+20,13377,Lvl,Corner,CollgCr,1Fam,1Story,6,2006,Hip,CompShg,VinylSd,3,None,0.0,PConc,4,6,1576,1836,4,GasA,Y,1846,2,0,3,7,1,5,2,495,7,2006,2072
+20,7000,Lvl,CulDSac,CollgCr,1Fam,1Story,5,2005,Gable,CompShg,VinylSd,3,BrkFace,90.0,CBlock,3,5,646,864,4,GasA,Y,864,1,0,3,6,0,5,1,336,7,2009,982
+70,10570,Bnk,Inside,Crawfor,1Fam,2Story,8,1994,Hip,CompShg,BrkFace,3,None,0.0,CBlock,4,3,297,853,4,GasA,Y,2727,2,1,3,10,2,1,2,440,12,2007,739
+30,8854,Lvl,Inside,BrkSide,1Fam,1.5Unf,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,952,3,Grav,N,952,1,0,2,4,1,1,1,192,5,2009,193
+160,2665,Lvl,Inside,MeadowV,TwnhsE,2Story,5,1977,Gable,CompShg,CemntBd,2,None,0.0,PConc,4,1,0,264,4,GasA,Y,1304,1,1,3,5,1,3,1,336,5,2006,337
+60,9000,Lvl,Inside,Somerst,1Fam,2Story,8,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1088,4,GasA,Y,1959,2,1,3,8,1,5,3,1025,12,2007,1026
+50,18600,Lvl,Inside,Edwards,1Fam,1.5Fin,3,1990,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,4,288,972,2,GasA,Y,1610,2,0,4,8,1,5,1,480,6,2010,769
+160,2160,Lvl,Inside,BrDale,TwnhsE,2Story,5,1973,Gable,CompShg,HdBoard,2,BrkFace,200.0,CBlock,3,2,402,765,4,GasA,Y,1365,1,1,3,7,1,5,2,440,6,2006,843
+60,9743,Lvl,Inside,NWAmes,1Fam,2Story,5,1969,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,4,280,720,4,GasA,Y,1308,1,1,3,7,0,1,2,484,6,2008,764
+20,8125,Lvl,Inside,NAmes,1Fam,1Story,5,2005,Hip,CompShg,HdBoard,3,None,0.0,CBlock,3,5,260,912,4,GasA,Y,925,1,0,3,5,0,1,2,576,7,2008,836
+20,7311,Lvl,Corner,OldTown,1Fam,1Story,2,1950,Gable,CompShg,VinylSd,2,None,0.0,BrkTil,3,1,0,407,2,GasA,N,407,1,0,1,3,0,1,1,297,3,2008,297
+20,10032,Lvl,Inside,NAmes,1Fam,1Story,6,1959,Gable,CompShg,Wd Sdng,2,Stone,432.0,CBlock,3,3,734,1244,4,GasA,Y,1580,1,1,3,6,2,5,2,440,6,2010,1176
+20,10500,Lvl,Inside,NAmes,1Fam,1Story,5,1964,Gable,CompShg,HdBoard,2,Stone,144.0,CBlock,3,2,998,1292,4,GasA,Y,1292,1,1,3,6,2,1,2,520,7,2009,1520
+60,8314,Lvl,Corner,Somerst,1Fam,2Story,7,1998,Hip,CompShg,Wd Sdng,3,None,0.0,PConc,4,1,0,569,4,GasA,Y,1694,2,1,3,6,1,3,1,434,11,2006,435
+20,10226,Lvl,Inside,CollgCr,1Fam,1Story,8,2008,Gable,CompShg,VinylSd,3,Stone,270.0,PConc,5,1,0,1622,4,GasA,Y,1630,2,0,3,8,1,5,3,860,1,2009,861
+60,16059,Lvl,Corner,NoRidge,1Fam,2Story,8,1992,Hip,CompShg,HdBoard,3,BrkFace,284.0,CBlock,4,1,0,1288,4,GasA,Y,2417,2,1,4,9,1,5,2,462,4,2006,463
+30,6120,Lvl,Inside,BrkSide,1Fam,1Story,5,1999,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,3,1,0,960,4,GasA,Y,995,1,0,2,5,0,1,1,264,3,2009,264
+50,6120,Lvl,Corner,BrkSide,1Fam,1.5Fin,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,927,4,GasA,Y,1539,1,1,3,5,0,1,2,576,4,2009,576
+70,56600,Low,Inside,IDOTRR,1Fam,2.5Unf,5,1950,Hip,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,686,4,GasA,Y,1836,2,0,4,7,0,1,1,288,1,2008,288
+80,9750,Lvl,Inside,NAmes,1Fam,SLvl,5,1967,Gable,CompShg,VinylSd,2,None,0.0,PConc,3,5,400,980,4,GasA,Y,980,2,0,3,6,0,5,1,384,10,2006,784
+120,3940,Lvl,Inside,Blmngtn,TwnhsE,1Story,7,2003,Gable,CompShg,VinylSd,3,BrkFace,143.0,PConc,4,6,1073,1415,4,GasA,Y,1455,2,0,2,6,1,5,3,644,8,2008,1718
+60,13641,Lvl,Inside,NridgHt,1Fam,2Story,9,2007,Hip,CompShg,CemntBd,4,BrkFace,456.0,PConc,5,6,1304,1934,4,GasA,Y,2656,2,1,3,8,1,5,3,1040,12,2007,2345
+120,3640,Lvl,CulDSac,Greens,Twnhs,1Story,8,1980,Gable,CompShg,Wd Sdng,3,None,0.0,CBlock,4,6,860,1036,4,GasA,Y,1036,1,0,1,4,1,1,2,484,9,2006,1345
+90,9825,Lvl,Inside,Edwards,Duplex,1Story,5,1965,Hip,CompShg,AsphShn,2,None,0.0,CBlock,0,0,0,0,4,GasA,N,1664,2,0,4,8,0,0,0,0,5,2010,0
+50,9600,Lvl,Inside,OldTown,1Fam,1.5Fin,5,1994,Gambrel,CompShg,VinylSd,2,None,0.0,PConc,3,1,0,702,4,GasA,Y,1472,1,0,3,6,0,1,1,250,7,2007,250
+30,5400,Lvl,Inside,OldTown,1Fam,1Story,2,1950,Gable,CompShg,Stucco,1,None,0.0,PConc,2,1,0,416,2,GasA,N,599,1,0,2,4,0,0,0,0,6,2009,0
+120,2104,Lvl,Inside,NPkVill,TwnhsE,1Story,7,1976,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,5,536,836,4,GasA,Y,836,1,0,2,5,0,5,1,345,10,2009,881
+60,9729,Lvl,Inside,Gilbert,1Fam,2Story,6,2007,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,698,4,GasA,Y,1746,2,1,3,6,1,3,3,350,6,2007,351
+20,10000,Lvl,Inside,NWAmes,1Fam,1Story,6,1974,Gable,CompShg,HdBoard,2,BrkFace,176.0,CBlock,3,5,755,1103,4,GasA,Y,1103,2,0,3,6,0,5,2,462,6,2006,1217
+20,7360,Lvl,Inside,CollgCr,1Fam,1Story,7,2010,Gable,CompShg,VinylSd,3,Stone,80.0,PConc,4,6,24,1222,4,GasA,Y,1222,2,0,2,6,0,5,2,615,3,2010,639
+75,8400,Bnk,Inside,SWISU,1Fam,2.5Fin,5,1997,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,2,378,720,4,GasA,Y,2192,2,1,4,8,1,1,1,240,7,2008,619
+50,9000,Bnk,Inside,IDOTRR,1Fam,1.5Fin,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,1,0,780,4,GasA,Y,1375,1,1,3,6,1,1,1,544,12,2007,545
+160,1526,Lvl,Inside,MeadowV,Twnhs,2Story,4,1970,Gable,CompShg,CemntBd,2,None,0.0,CBlock,3,1,0,546,4,GasA,Y,1092,1,1,3,5,0,0,0,0,6,2006,0
+50,12392,Bnk,Inside,Crawfor,1Fam,1.5Fin,7,2000,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,6,435,832,4,GasA,Y,2161,2,1,3,8,2,5,2,506,4,2008,943
+20,14217,Lvl,CulDSac,CollgCr,1Fam,1Story,5,1994,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,5,550,1022,4,GasA,Y,1022,1,0,3,6,0,1,2,747,8,2007,1297
+120,4113,Lvl,Inside,NAmes,TwnhsE,1Story,6,2001,Gable,CompShg,MetalSd,3,None,0.0,PConc,4,1,0,1337,4,GasA,Y,1337,2,0,2,5,1,5,2,511,7,2007,512
+80,8816,Lvl,Inside,ClearCr,1Fam,SLvl,6,1971,Gable,CompShg,HdBoard,2,BrkFace,80.0,CBlock,3,6,504,1010,4,GasA,Y,1052,1,0,3,6,0,5,2,440,6,2010,944
+20,9353,Lvl,Inside,NAmes,1Fam,1Story,4,1970,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,1,0,864,4,GasA,Y,864,1,0,3,5,0,5,1,280,7,2006,280
+180,1477,Lvl,Inside,MeadowV,TwnhsE,SFoyer,4,1970,Gable,CompShg,CemntBd,2,None,0.0,CBlock,4,6,509,630,4,GasA,Y,630,1,0,1,3,0,5,1,286,4,2009,795
+120,6710,Lvl,FR3,Mitchel,TwnhsE,SFoyer,6,1997,Gable,CompShg,VinylSd,2,BrkFace,134.0,PConc,5,3,16,920,4,GasA,Y,936,0,1,0,3,0,5,2,460,6,2007,476
+60,11287,Lvl,Inside,SawyerW,1Fam,2Story,7,1989,Gable,CompShg,Plywood,3,BrkFace,340.0,CBlock,4,6,421,807,4,GasA,Y,1982,2,1,3,7,1,5,2,575,1,2007,997
+60,12099,Lvl,Inside,NridgHt,1Fam,2Story,8,2004,Gable,CompShg,VinylSd,3,BrkFace,388.0,PConc,5,6,970,1136,4,GasA,Y,2468,2,1,4,10,1,3,3,872,6,2007,1843
+60,9750,Lvl,Corner,CollgCr,1Fam,2Story,7,1998,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,975,1108,4,GasA,Y,2097,2,1,3,8,1,1,2,583,6,2006,1559
+20,11556,Lvl,Inside,NAmes,1Fam,1Story,5,1952,Gable,CompShg,MetalSd,2,Stone,52.0,CBlock,3,3,148,720,2,GasA,Y,882,1,0,2,4,0,5,1,240,5,2008,388
+160,1680,Lvl,Inside,BrDale,Twnhs,2Story,6,1972,Gable,CompShg,HdBoard,2,BrkFace,297.0,CBlock,3,1,0,483,4,GasA,Y,987,1,1,2,5,1,5,1,288,6,2006,289
+20,12704,Lvl,Inside,NridgHt,1Fam,1Story,8,2007,Hip,CompShg,VinylSd,3,Stone,302.0,PConc,5,6,1012,1582,4,GasA,Y,1582,2,0,3,7,0,5,3,905,1,2008,1917
+50,6120,Lvl,Inside,BrkSide,1Fam,1.5Fin,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,5,351,756,2,GasA,Y,1281,1,0,2,6,0,1,2,379,8,2007,730
+75,9660,Lvl,Inside,NoRidge,1Fam,2.5Unf,8,1997,Hip,CompShg,HdBoard,3,BrkFace,1290.0,PConc,4,1,0,1173,4,GasA,Y,2199,2,1,3,9,1,5,2,516,9,2008,517
+30,6120,Lvl,Inside,BrkSide,1Fam,1Story,5,1995,Gable,CompShg,Plywood,2,None,0.0,CBlock,0,0,0,0,4,GasA,N,808,1,0,1,6,0,5,1,164,6,2008,164
+60,28698,Low,CulDSac,ClearCr,1Fam,2Story,5,1967,Flat,Tar&Grv,Plywood,2,None,0.0,PConc,3,2,249,1013,4,GasA,Y,2126,2,1,3,7,0,5,2,538,6,2009,787
+20,12274,Lvl,FR2,Somerst,1Fam,1Story,7,2008,Gable,CompShg,VinylSd,3,Stone,256.0,PConc,4,1,0,1417,4,GasA,Y,1428,2,0,3,6,0,5,2,554,7,2008,554
+45,4388,Bnk,Inside,OldTown,1Fam,1.5Unf,5,1950,Gable,CompShg,WdShing,2,None,0.0,BrkTil,3,2,116,672,4,GasA,Y,840,1,0,3,5,1,0,0,0,6,2007,117
+120,3869,Lvl,Inside,Edwards,TwnhsE,1Story,5,1984,Gable,CompShg,Wd Sdng,3,BrkFace,149.0,CBlock,3,2,283,1038,4,GasA,Y,1038,2,0,2,5,0,5,1,264,7,2007,547
+160,2308,Lvl,FR2,NPkVill,TwnhsE,2Story,6,1976,Gable,CompShg,Plywood,2,None,0.0,CBlock,4,5,306,804,4,GasA,Y,1548,2,1,3,7,1,1,2,440,9,2009,747
+50,4400,Lvl,Inside,OldTown,1Fam,1.5Fin,6,1950,Gable,CompShg,Stucco,2,None,0.0,BrkTil,2,1,0,648,2,GasA,Y,1118,1,0,2,6,0,1,2,440,10,2006,440
+70,14210,Lvl,Inside,Crawfor,1Fam,2Story,6,1959,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,1,0,697,4,GasA,Y,1801,1,1,3,8,1,5,2,365,11,2006,366
+20,9758,Lvl,Inside,NAmes,1Fam,1Story,5,1971,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,4,412,950,4,GasA,Y,950,1,0,3,5,0,1,1,280,7,2007,692
+160,4017,Lvl,Inside,Somerst,TwnhsE,2Story,7,2007,Gable,CompShg,MetalSd,3,None,0.0,PConc,4,1,0,625,4,GasA,Y,1250,2,1,2,5,0,1,2,625,3,2008,625
+20,11249,Lvl,Inside,CollgCr,1Fam,1Story,6,1995,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,5,334,1200,4,GasA,Y,1200,2,0,3,6,0,5,2,521,8,2007,855
+80,9600,Lvl,Inside,NAmes,1Fam,SLvl,5,1967,Gable,CompShg,MetalSd,2,BrkFace,140.0,PConc,3,5,602,1141,4,GasA,Y,1141,1,0,3,6,0,5,1,568,7,2006,1170
+120,4043,Lvl,Inside,NPkVill,TwnhsE,1Story,6,1977,Gable,CompShg,Plywood,2,None,0.0,CBlock,4,5,559,1069,4,GasA,Y,1069,2,0,2,4,0,5,2,440,10,2008,999
+20,9200,Lvl,CulDSac,CollgCr,1Fam,1Story,5,1980,Hip,CompShg,VinylSd,2,None,0.0,CBlock,4,2,280,938,4,GasA,Y,938,1,0,3,5,0,1,1,308,7,2008,588
+20,13072,Lvl,Inside,SawyerW,1Fam,1Story,5,2004,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,1,0,1114,4,GasA,Y,1114,1,1,3,6,0,0,0,0,8,2009,0
+120,3830,Lvl,Inside,Somerst,TwnhsE,1Story,6,2008,Gable,CompShg,VinylSd,3,Stone,280.0,PConc,4,1,0,1726,4,GasA,Y,1726,2,1,2,6,1,5,2,561,1,2009,562
+45,7227,HLS,Corner,NAmes,1Fam,1.5Unf,6,1954,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,1,0,832,4,GasA,Y,832,1,0,2,4,0,1,2,528,6,2008,528
+70,7155,Lvl,Inside,Crawfor,1Fam,2Story,7,1990,Gambrel,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,600,4,GasA,Y,1228,1,0,3,6,1,1,1,215,5,2009,216
+20,11875,Lvl,Inside,Mitchel,1Fam,1Story,5,1999,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,1,0,1344,4,GasA,Y,1344,2,0,3,7,1,5,2,686,6,2010,687
+20,8540,Lvl,Corner,NAmes,1Fam,1Story,5,2003,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,3,114,925,4,GasA,Y,925,1,0,3,5,0,1,1,252,6,2007,366
+20,6410,HLS,Inside,Edwards,1Fam,1Story,4,1959,Gable,CompShg,AsbShng,2,None,0.0,CBlock,3,2,332,876,2,GasA,Y,876,1,0,3,5,0,1,1,320,3,2009,652
+85,11105,Lvl,Corner,CollgCr,1Fam,SFoyer,5,1996,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,870,870,4,GasA,Y,965,1,0,2,4,0,5,2,580,7,2010,1450
+20,13200,Lvl,Inside,NAmes,1Fam,1Story,6,1958,Gable,CompShg,Wd Sdng,2,BrkFace,187.0,CBlock,3,2,958,1395,4,GasA,Y,1570,1,0,3,5,1,5,2,441,5,2008,1400
+30,7000,Lvl,Inside,IDOTRR,1Fam,1Story,6,1998,Gable,CompShg,VinylSd,2,None,0.0,BrkTil,3,3,299,894,4,GasA,Y,919,1,0,2,5,0,1,1,195,7,2008,494
+20,11040,Lvl,Inside,NWAmes,1Fam,1Story,6,2004,Gable,CompShg,VinylSd,3,BrkFace,144.0,CBlock,3,5,656,1258,4,GasA,Y,1258,2,0,3,5,0,5,2,528,10,2008,1184
+120,4426,Lvl,Inside,CollgCr,TwnhsE,1Story,6,2004,Gable,CompShg,VinylSd,3,BrkFace,169.0,PConc,4,6,662,848,4,GasA,Y,848,1,0,1,3,0,5,2,420,5,2010,1082
+60,16779,Lvl,Inside,Sawyer,1Fam,2Story,5,1996,Gable,CompShg,Wd Sdng,2,BrkFace,356.0,CBlock,4,4,267,671,4,GasA,Y,2654,3,0,4,11,1,5,2,638,5,2007,906
+50,10440,Lvl,Corner,OldTown,1Fam,2Story,5,1981,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,1,0,440,4,GasA,Y,1230,1,1,2,5,0,1,2,440,5,2009,440
+50,10836,Lvl,Inside,OldTown,1Fam,1.5Fin,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,892,4,GasA,Y,1436,1,0,3,7,1,1,4,1488,6,2008,1489
+20,13384,Lvl,Inside,Mitchel,1Fam,1Story,5,1979,Gable,CompShg,Plywood,2,BrkFace,194.0,PConc,3,3,119,1104,4,GasA,Y,1360,1,0,3,8,1,5,1,336,5,2006,456
+60,13751,HLS,CulDSac,Gilbert,1Fam,2Story,7,2006,Gable,CompShg,VinylSd,3,BrkFace,248.0,PConc,4,6,60,1700,4,GasA,Y,2212,2,1,3,9,1,5,3,773,5,2006,834
+30,4480,Lvl,Corner,OldTown,1Fam,1Story,5,1950,Gable,CompShg,AsbShng,2,None,0.0,PConc,2,2,782,1022,3,GasA,N,1022,1,0,2,4,1,1,1,184,2,2007,967
+20,11382,Lvl,Inside,NAmes,1Fam,1Story,6,1964,Gable,CompShg,Wd Sdng,2,BrkFace,212.0,CBlock,3,5,54,1130,4,GasA,Y,1374,1,0,3,7,1,5,1,286,8,2007,341
+20,9120,Lvl,Inside,NAmes,1Fam,1Story,6,1958,Hip,CompShg,MetalSd,2,None,0.0,CBlock,3,5,662,1261,4,GasA,Y,1261,1,0,3,6,1,5,2,433,11,2008,1096
+85,11782,Lvl,Inside,Sawyer,1Fam,SFoyer,5,1995,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,899,1109,4,GasA,Y,1155,1,0,3,6,0,1,2,576,6,2010,1475
+20,6970,Lvl,Corner,Sawyer,1Fam,1Story,4,1961,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,5,932,1040,4,GasA,Y,1120,1,1,3,5,0,5,2,544,5,2007,1476
+20,11422,Lvl,Inside,CollgCr,1Fam,1Story,8,2008,Hip,CompShg,VinylSd,3,Stone,352.0,PConc,5,6,1359,1838,4,GasA,Y,1838,2,0,3,7,2,5,2,524,4,2009,1885
+20,8000,Lvl,Inside,Somerst,1Fam,1Story,7,2002,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,833,1492,4,GasA,Y,1492,2,0,3,6,1,5,2,596,4,2010,1430
+50,15660,Lvl,Inside,OldTown,1Fam,1.5Fin,5,2003,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,1,0,240,4,GasA,Y,1306,1,1,3,6,0,1,2,472,7,2009,472
+85,6723,Lvl,Inside,Mitchel,1Fam,SFoyer,5,1971,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,4,6,796,796,4,GasA,Y,796,1,0,2,5,0,0,0,0,9,2007,796
+20,7875,Lvl,Inside,NAmes,1Fam,1Story,5,1961,Gable,CompShg,VinylSd,2,BrkFace,136.0,CBlock,3,3,572,1144,4,GasA,Y,1144,1,0,3,6,0,5,2,456,9,2008,1028
+50,9144,Lvl,Inside,BrkSide,1Fam,1.5Fin,5,1982,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,3,399,883,4,GasA,Y,1505,1,0,3,8,0,1,1,240,7,2008,639
+20,14601,Lvl,Inside,Timber,1Fam,1Story,9,2006,Hip,CompShg,VinylSd,4,BrkFace,584.0,PConc,5,6,1260,1838,4,GasA,Y,1838,2,0,2,8,1,5,3,765,3,2009,2026
+60,12732,Lvl,CulDSac,NWAmes,1Fam,2Story,7,1974,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,6,560,752,4,GasA,Y,2067,2,1,3,7,2,5,2,784,6,2009,1346
+70,6000,Lvl,Corner,OldTown,1Fam,2Story,5,2005,Gable,CompShg,MetalSd,3,None,0.0,BrkTil,2,1,0,572,4,GasA,Y,1540,1,1,3,7,0,0,0,0,2,2008,0
+20,6600,Lvl,Inside,Mitchel,1Fam,1Story,5,2003,Gable,CompShg,HdBoard,2,None,0.0,PConc,3,6,816,816,4,GasA,Y,816,1,0,2,4,0,1,2,816,6,2008,1632
+90,8472,Bnk,Corner,IDOTRR,Duplex,1Story,5,1963,Gable,CompShg,Wd Sdng,1,None,0.0,CBlock,4,2,104,816,4,GasA,N,816,1,0,2,5,0,2,2,516,5,2010,620
+20,12469,Lvl,FR2,NridgHt,1Fam,1Story,9,2007,Hip,CompShg,VinylSd,4,Stone,378.0,PConc,5,6,1151,1790,4,GasA,Y,1816,2,0,3,7,1,5,3,730,8,2007,1882
+50,6240,Lvl,Inside,BrkSide,1Fam,1.5Fin,5,1992,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,966,4,GasA,Y,1426,1,0,3,6,1,1,1,230,7,2007,231
+60,11250,Lvl,Corner,CollgCr,1Fam,2Story,7,2001,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,944,4,GasA,Y,1870,2,1,3,6,0,5,2,608,5,2009,608
+20,11800,Bnk,Inside,CollgCr,1Fam,1Story,5,1974,Gable,CompShg,HdBoard,2,None,0.0,CBlock,4,4,663,864,4,GasA,Y,894,1,0,3,5,0,5,2,440,8,2007,1103
+60,18800,Lvl,FR2,NWAmes,1Fam,2Story,6,1976,Gable,CompShg,HdBoard,2,BrkFace,120.0,PConc,4,6,712,796,4,GasA,Y,1574,2,1,3,6,1,5,2,566,7,2006,1279
+120,4045,Lvl,Inside,Blmngtn,TwnhsE,1Story,7,2006,Hip,CompShg,VinylSd,3,BrkFace,45.0,PConc,4,6,1070,1356,4,GasA,Y,1500,2,0,2,6,1,5,3,648,10,2006,1719
+45,10594,Lvl,Inside,Crawfor,1Fam,1.5Unf,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,768,4,Grav,N,789,1,0,2,5,0,1,1,200,6,2007,200
+190,6000,Lvl,Inside,OldTown,2fmCon,1Story,5,1955,Hip,CompShg,Wd Sdng,2,None,0.0,CBlock,3,6,576,960,2,GasA,Y,960,1,0,3,5,0,1,2,576,6,2006,1152
+20,8400,Lvl,Corner,NAmes,1Fam,1Story,4,1970,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,5,804,882,4,GasA,Y,882,1,0,2,4,0,5,2,525,4,2010,1329
+20,10420,Lvl,Corner,Edwards,1Fam,1Story,6,2009,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,36,1212,4,GasA,Y,1212,2,0,3,6,0,5,2,460,3,2010,496
+50,6300,Lvl,Corner,SWISU,1Fam,1.5Fin,5,1950,Gable,CompShg,MetalSd,2,BrkFace,88.0,PConc,3,2,832,832,4,GasA,Y,1268,1,1,3,7,2,4,1,250,7,2009,1084
+50,12180,Lvl,Inside,Edwards,1Fam,1.5Fin,5,2007,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,1,0,585,3,GasA,Y,1053,1,1,2,5,0,0,0,0,1,2008,0
+60,9965,Lvl,Inside,CollgCr,1Fam,2Story,8,2007,Hip,CompShg,VinylSd,3,Stone,340.0,PConc,5,6,1150,1466,4,GasA,Y,2828,3,0,4,11,1,3,3,1052,4,2007,2203
+20,8696,Lvl,Inside,CollgCr,1Fam,1Story,7,1998,Gable,CompShg,VinylSd,2,BrkFace,150.0,PConc,4,6,1308,1418,4,GasA,Y,1418,2,0,3,5,1,5,2,558,5,2008,1867
+20,13108,HLS,Inside,Crawfor,1Fam,1Story,5,1951,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,0,0,0,0,4,GasA,Y,1226,1,1,2,7,1,5,2,400,6,2007,401
+50,8064,Lvl,Inside,NAmes,1Fam,1.5Fin,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,5,315,768,4,GasA,Y,1320,2,0,3,5,0,1,2,576,9,2008,891
+30,6120,Lvl,Inside,BrkSide,1Fam,1Story,2,1950,Gable,CompShg,AsbShng,1,None,0.0,BrkTil,3,1,0,264,2,Grav,N,800,1,0,1,4,1,0,0,0,1,2009,1
+20,8899,Lvl,Inside,Gilbert,1Fam,1Story,7,2007,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,24,1340,4,GasA,Y,1340,2,0,3,6,0,5,2,396,8,2007,420
+60,10566,Lvl,Inside,CollgCr,1Fam,2Story,8,1999,Gable,CompShg,VinylSd,3,BrkFace,261.0,PConc,4,6,920,1090,4,GasA,Y,2214,2,1,3,8,1,5,3,646,7,2006,1567
+90,6882,Lvl,Corner,Edwards,Duplex,1Story,4,1955,Gable,CompShg,AsbShng,2,BrkCmn,128.0,PConc,0,0,0,0,4,GasA,N,1152,2,0,2,6,0,0,0,0,9,2007,0
+80,7750,Lvl,Inside,Gilbert,1Fam,SLvl,7,2000,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,250,384,4,GasA,Y,1430,2,1,3,7,1,3,2,400,4,2010,651
+20,7314,Lvl,Inside,CollgCr,1Fam,1Story,7,2007,Gable,CompShg,VinylSd,3,Stone,82.0,PConc,4,6,724,1232,4,GasA,Y,1232,2,0,2,6,0,5,2,632,2,2009,1356
+90,7018,Bnk,Inside,SawyerW,Duplex,1Story,5,1979,Gable,CompShg,HdBoard,2,None,0.0,Slab,0,0,0,0,4,GasA,Y,1535,2,0,4,8,0,5,2,410,6,2009,410
+50,7200,Lvl,Inside,NAmes,1Fam,1.5Fin,5,1982,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,3,180,1208,2,GasA,Y,1904,1,1,3,7,0,5,1,240,5,2009,420
+190,8450,Lvl,Inside,Sawyer,2fmCon,1Story,5,1968,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,890,890,4,GasA,N,890,1,0,3,5,0,1,1,308,4,2008,1198
+75,6000,Lvl,Inside,OldTown,1Fam,2.5Unf,6,2005,Gable,CompShg,Wd Sdng,3,None,0.0,BrkTil,3,1,0,728,4,GasA,Y,1456,1,1,4,7,0,1,1,308,6,2008,308
+90,8400,Lvl,Inside,SawyerW,Duplex,1Story,5,1977,Gable,CompShg,Plywood,2,BrkFace,320.0,Slab,0,0,0,0,4,GasA,Y,2020,2,0,4,10,2,1,2,630,10,2007,632
+60,8145,Lvl,Inside,CollgCr,1Fam,2Story,7,2007,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,738,4,GasA,Y,1476,2,1,3,7,0,5,2,552,6,2007,552
+20,8892,Lvl,Inside,NAmes,1Fam,1Story,5,1960,Gable,CompShg,MetalSd,2,BrkCmn,66.0,CBlock,3,1,0,1065,4,GasA,Y,1065,1,1,3,6,0,1,2,461,7,2007,461
+120,7296,Lvl,CulDSac,StoneBr,TwnhsE,1Story,8,2005,Gable,CompShg,CemntBd,3,None,0.0,PConc,5,6,1965,2208,4,GasA,Y,2522,2,0,1,8,1,5,2,564,11,2009,2530
+20,13072,Lvl,Inside,SawyerW,1Fam,1Story,6,2006,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,1,0,1131,4,GasA,Y,1131,1,1,3,6,0,0,0,0,3,2006,0
+90,15600,Lvl,Inside,Crawfor,Duplex,2Story,5,1991,Gable,CompShg,VinylSd,2,BrkFace,430.0,CBlock,3,5,375,1032,4,GasA,Y,2177,2,1,5,11,0,1,2,484,3,2010,859
+50,9638,Lvl,Inside,SWISU,1Fam,1.5Fin,6,1990,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,1,0,804,4,GasA,Y,2447,2,0,4,10,1,1,1,336,3,2010,337
+20,15523,Lvl,CulDSac,CollgCr,1Fam,1Story,5,1972,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,4,460,864,4,GasA,Y,864,1,0,3,5,1,5,1,338,8,2009,799
+30,8212,Lvl,Inside,Edwards,1Fam,1Story,3,1950,Gable,CompShg,Stucco,2,None,0.0,BrkTil,3,3,203,864,3,GasA,N,864,1,0,2,5,0,1,1,200,6,2010,403
+80,9735,Lvl,Inside,Timber,1Fam,SLvl,5,2007,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,1,0,384,4,GasA,Y,1394,2,1,3,7,0,3,2,400,5,2008,400
+160,2980,Lvl,Corner,Somerst,TwnhsE,2Story,6,2000,Gable,CompShg,MetalSd,3,BrkFace,1159.0,PConc,4,6,466,756,4,GasA,Y,1512,2,1,2,5,0,1,2,440,5,2010,906
+160,2522,Lvl,Inside,Edwards,Twnhs,2Story,6,2006,Gable,CompShg,VinylSd,3,Stone,50.0,PConc,4,1,0,970,4,GasA,Y,1709,2,0,3,7,0,1,2,380,4,2006,380
+20,10400,Lvl,Inside,NWAmes,1Fam,1Story,6,1976,Gable,CompShg,HdBoard,2,BrkFace,120.0,CBlock,3,1,0,1444,4,GasA,Y,1444,2,0,2,5,1,5,2,473,4,2008,474
+20,10800,Lvl,Inside,NAmes,1Fam,1Story,5,1960,Hip,CompShg,Wd Sdng,2,BrkFace,88.0,CBlock,3,5,632,1248,4,GasA,Y,1248,1,0,3,6,0,5,1,286,5,2006,918
+70,10440,Lvl,Inside,OldTown,1Fam,2Story,5,2002,Gable,CompShg,MetalSd,2,None,0.0,PConc,3,1,0,650,4,GasA,Y,1539,2,0,3,8,1,1,2,686,6,2008,687
+20,12898,HLS,Inside,Timber,1Fam,1Story,9,2008,Hip,CompShg,VinylSd,3,Stone,70.0,PConc,5,6,1022,1620,4,GasA,Y,1620,2,0,2,6,1,5,3,912,9,2009,1935
+85,8740,Lvl,Inside,Sawyer,1Fam,SFoyer,5,1982,Hip,CompShg,HdBoard,2,None,0.0,CBlock,3,5,672,840,4,GasA,Y,860,1,0,2,4,0,1,2,528,7,2009,1200
+20,10440,Lvl,Corner,Somerst,1Fam,1Story,6,2005,Gable,CompShg,VinylSd,3,None,0.0,PConc,5,6,1414,1468,4,GasA,Y,1468,2,0,2,6,1,5,2,528,5,2010,1943
+20,10991,HLS,Inside,Timber,1Fam,1Story,8,2007,Gable,CompShg,VinylSd,3,BrkFace,80.0,PConc,4,1,0,1571,4,GasA,Y,1571,2,0,3,7,1,5,3,722,12,2007,723
+85,8723,Lvl,Inside,NWAmes,1Fam,SFoyer,6,1969,Gable,CompShg,HdBoard,2,None,0.0,PConc,4,4,973,973,4,GasA,Y,1082,1,0,3,6,0,5,2,480,1,2007,1453
+30,7030,Lvl,Inside,IDOTRR,1Fam,1Story,4,1950,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,3,1,0,641,4,GasA,Y,641,1,0,2,4,0,1,1,272,3,2006,272
+60,9375,Lvl,Inside,CollgCr,1Fam,2Story,8,2002,Gable,CompShg,VinylSd,3,BrkFace,149.0,PConc,4,1,0,1284,4,GasA,Y,2169,2,1,3,7,1,5,2,647,8,2007,648
+160,2572,Lvl,FR2,Somerst,Twnhs,2Story,7,1999,Hip,CompShg,MetalSd,3,None,0.0,PConc,4,5,604,696,4,GasA,Y,1416,2,1,3,6,0,1,2,484,5,2010,1088
+180,3675,Lvl,Inside,Edwards,TwnhsE,SLvl,6,2005,Gable,CompShg,VinylSd,2,BrkFace,80.0,PConc,4,6,459,547,4,GasA,Y,1072,1,0,2,5,0,4,2,525,6,2008,984
+60,24682,Lvl,CulDSac,Gilbert,1Fam,2Story,6,1999,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,1,0,841,4,GasA,Y,1675,2,1,3,7,1,3,2,502,6,2009,503
+20,7635,Lvl,Corner,NAmes,1Fam,1Story,5,1960,Gable,CompShg,BrkFace,2,None,0.0,CBlock,3,3,588,1175,4,GasA,Y,1175,1,1,3,6,0,1,2,484,6,2010,1072
+20,5400,Lvl,Inside,OldTown,1Fam,1Story,5,2000,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,3,415,833,4,GasA,Y,833,1,0,2,4,0,1,1,326,8,2006,741
+45,6380,Lvl,Inside,BrkSide,1Fam,1.5Unf,5,1950,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,3,1,0,993,2,GasA,Y,1048,1,0,2,5,1,1,1,280,8,2006,281
+20,9750,Lvl,FR2,NAmes,1Fam,1Story,6,1969,Gable,CompShg,HdBoard,2,None,0.0,CBlock,4,5,602,1054,4,GasA,Y,1054,1,1,3,6,0,5,2,460,7,2008,1062
+20,6627,Lvl,Corner,BrkSide,1Fam,1Story,3,1950,Hip,CompShg,VinylSd,2,None,0.0,CBlock,0,0,0,0,4,Floor,N,720,1,0,2,4,0,1,1,287,7,2008,287
+70,7200,Lvl,Inside,OldTown,1Fam,2Story,6,1950,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,3,338,663,4,GasA,Y,1595,2,0,3,7,1,1,2,528,4,2006,867
+60,8200,Lvl,Inside,CollgCr,1Fam,2Story,7,2004,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,847,4,GasA,Y,1928,2,1,4,8,1,3,2,434,7,2007,435
+90,10307,Lvl,Inside,OldTown,Duplex,2Story,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,2,633,972,2,GasA,N,1944,2,0,4,12,0,1,2,324,6,2009,957
+60,10944,Lvl,Inside,NoRidge,1Fam,2Story,7,1994,Gable,CompShg,VinylSd,3,BrkFace,448.0,PConc,4,6,1000,1223,4,GasA,Y,2127,2,1,3,5,2,5,2,525,8,2008,1527
+80,19296,Lvl,Corner,NAmes,1Fam,SLvl,6,1962,Gable,CompShg,Wd Sdng,2,BrkFace,399.0,CBlock,3,3,672,1362,4,GasA,Y,1382,1,0,3,6,1,5,2,884,5,2009,1557
+80,10395,Lvl,FR2,NWAmes,1Fam,SLvl,6,1978,Gable,CompShg,HdBoard,2,BrkFace,233.0,CBlock,4,5,605,1032,4,GasA,Y,1032,2,0,3,6,1,5,2,564,7,2007,1170
+50,23920,Lvl,Inside,SawyerW,1Fam,1.5Fin,6,1984,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,1,0,1105,4,GasA,Y,1822,2,0,4,7,1,5,2,515,4,2007,516
+20,11050,Lvl,Inside,NWAmes,1Fam,1Story,6,1968,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,3,301,1740,4,GasA,Y,1740,1,1,4,8,1,5,2,512,10,2008,814
+60,16659,Lvl,Corner,NWAmes,1Fam,2Story,7,1994,Gable,CompShg,Plywood,2,BrkFace,34.0,CBlock,3,5,795,795,4,GasA,Y,2263,2,1,3,9,1,5,2,539,3,2006,1335
+60,13418,Lvl,Inside,NridgHt,1Fam,2Story,9,2006,Hip,CompShg,VinylSd,3,BrkFace,270.0,PConc,5,6,1420,1850,4,GasA,Y,2748,2,1,4,9,1,3,3,850,10,2008,2271
+60,11003,Lvl,Inside,CollgCr,1Fam,2Story,7,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1308,4,GasA,Y,1876,2,1,3,7,0,3,3,848,7,2006,848
+50,9724,Lvl,Inside,NAmes,1Fam,1.5Fin,5,2002,Gable,CompShg,MetalSd,3,BrkFace,265.0,CBlock,3,2,670,1140,4,GasA,Y,2461,2,0,3,7,2,1,2,400,3,2010,1072
+90,7804,Lvl,Inside,SWISU,Duplex,2.5Unf,6,1950,Gable,CompShg,Stucco,2,None,0.0,BrkTil,3,5,281,960,4,GasA,Y,1920,2,2,4,10,2,1,2,480,7,2008,763
+20,20000,Lvl,Inside,Mitchel,1Fam,1Story,5,1996,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,5,1224,1224,4,GasA,Y,1224,1,0,4,7,1,1,2,576,9,2006,1801
+20,10386,Lvl,Inside,CollgCr,1Fam,1Story,8,2005,Gable,CompShg,CemntBd,3,Stone,246.0,PConc,4,6,1464,2000,4,GasA,Y,2000,2,0,3,8,0,5,3,888,7,2007,2352
+20,8640,Lvl,Inside,Somerst,1Fam,1Story,8,2008,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,24,1363,4,GasA,Y,1372,2,0,3,6,0,5,2,588,7,2008,612
+160,2880,Lvl,Inside,Somerst,Twnhs,2Story,7,2005,Gable,CompShg,MetalSd,3,None,0.0,PConc,4,1,0,1376,4,GasA,Y,3005,2,1,3,9,1,3,3,704,7,2009,705
+60,11949,Lvl,Inside,NoRidge,1Fam,2Story,7,2008,Gable,CompShg,VinylSd,3,BrkFace,196.0,PConc,4,6,601,975,4,GasA,Y,1755,2,1,3,7,1,5,2,524,7,2009,1126
+50,7010,Lvl,Inside,BrkSide,1Fam,1.5Fin,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,3,175,1024,4,GasA,Y,1738,2,0,3,6,1,1,1,240,7,2008,416
+85,10441,Lvl,Inside,Mitchel,1Fam,SFoyer,5,1992,Gable,CompShg,HdBoard,2,None,0.0,PConc,4,6,337,912,4,GasA,Y,970,1,0,3,6,0,0,0,0,7,2006,337
+20,10200,Lvl,Inside,NAmes,1Fam,1Story,5,2003,Gable,CompShg,Wd Sdng,2,BrkFace,104.0,CBlock,3,5,320,1086,4,GasA,Y,1086,1,0,3,6,0,5,2,490,5,2010,810
+50,11409,Lvl,Inside,Edwards,1Fam,1.5Fin,5,2008,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,2,292,768,4,GasA,Y,1716,1,1,3,8,1,5,1,281,1,2009,574
+160,1974,Lvl,Inside,MeadowV,TwnhsE,2Story,4,1973,Gable,CompShg,CemntBd,2,None,0.0,CBlock,3,4,334,546,4,GasA,Y,1092,1,1,3,6,0,5,1,286,5,2010,620
+50,21780,Lvl,Inside,Crawfor,1Fam,2Story,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,1,0,817,3,GasA,Y,1550,1,1,3,7,1,1,1,318,9,2006,319
+20,7200,Bnk,Inside,CollgCr,1Fam,1Story,5,1972,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,632,780,4,GasA,Y,780,1,0,2,4,0,1,1,352,1,2008,984
+60,12191,Lvl,Inside,NoRidge,1Fam,2Story,8,1998,Hip,CompShg,VinylSd,3,BrkFace,515.0,PConc,4,6,1181,1779,4,GasA,Y,2551,2,1,4,8,2,5,3,925,6,2007,2108
+20,11358,Lvl,Corner,NWAmes,1Fam,1Story,7,1987,Hip,CompShg,Wd Sdng,2,None,0.0,CBlock,3,4,346,1124,4,GasA,Y,1610,2,0,3,8,1,5,2,515,5,2007,862
+60,9649,Lvl,Inside,Gilbert,1Fam,2Story,6,2000,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,1,0,941,4,GasA,Y,1644,2,1,3,7,1,5,2,460,5,2007,461
+20,11957,Lvl,Inside,Somerst,1Fam,1Story,8,2006,Gable,CompShg,VinylSd,3,BrkFace,53.0,PConc,4,6,24,1574,4,GasA,Y,1574,2,0,3,7,1,5,3,824,7,2008,849
+60,11613,Lvl,Corner,SawyerW,1Fam,2Story,6,1997,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,5,480,864,4,GasA,Y,1820,2,1,3,7,0,5,2,492,5,2007,972
+60,9600,Lvl,Inside,NWAmes,1Fam,2Story,6,1971,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,5,329,715,4,GasA,Y,1645,1,2,4,7,0,5,2,441,6,2010,770
+20,8125,Lvl,Inside,SawyerW,1Fam,1Story,6,1998,Gable,CompShg,HdBoard,2,BrkFace,258.0,PConc,4,6,1138,1408,4,GasA,Y,1679,2,0,3,7,1,5,2,575,10,2008,1714
+20,18261,HLS,Inside,StoneBr,1Fam,1Story,9,2005,Hip,CompShg,VinylSd,4,BrkFace,420.0,PConc,5,6,1416,1910,4,GasA,Y,2000,2,1,3,8,2,5,3,722,9,2006,2140
+20,9100,Lvl,Inside,Crawfor,1Fam,1Story,5,1954,Gable,CompShg,BrkFace,2,None,0.0,BrkTil,3,3,154,1112,4,GasA,Y,1112,1,0,2,6,1,5,1,390,10,2009,545
+60,8304,Lvl,Inside,SawyerW,1Fam,2Story,6,1998,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,1,0,941,4,GasA,Y,1837,2,1,3,7,0,5,2,688,7,2006,688
+20,5470,Lvl,Inside,OldTown,1Fam,1Story,3,1958,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,1,0,792,2,GasA,Y,792,1,0,2,4,0,5,1,366,8,2009,366
+20,8169,Lvl,Corner,Sawyer,1Fam,1Story,5,1966,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,3,216,912,4,GasA,Y,912,1,0,3,6,0,1,1,315,7,2007,531
+20,16158,Low,Inside,StoneBr,1Fam,1Story,7,2005,Hip,CompShg,VinylSd,3,Stone,16.0,PConc,5,5,1274,1530,4,GasA,Y,1530,2,0,3,7,1,5,2,430,6,2009,1705
+30,8263,Bnk,Inside,IDOTRR,1Fam,1Story,6,1950,Gable,CompShg,BrkFace,2,None,0.0,BrkTil,3,1,0,1012,2,GasA,Y,1012,1,0,2,6,1,1,1,308,5,2007,309
+120,5271,Low,Inside,ClearCr,1Fam,1Story,7,1986,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,4,6,1082,1453,4,GasA,Y,1453,1,1,2,6,1,5,2,445,12,2006,1528
+20,11850,Lvl,FR2,NWAmes,1Fam,1Story,6,1984,Gable,CompShg,Plywood,2,BrkFace,98.0,CBlock,4,5,781,1153,4,GasA,Y,1177,2,0,3,6,0,5,2,495,8,2007,1276
+60,13159,HLS,Corner,Timber,1Fam,2Story,7,2009,Gable,CompShg,VinylSd,2,None,0.0,PConc,5,1,0,846,4,GasA,Y,1692,2,1,3,6,0,5,2,650,7,2009,650
+60,11643,Lvl,Inside,NridgHt,1Fam,2Story,8,2006,Hip,CompShg,MetalSd,3,BrkFace,142.0,PConc,5,6,880,1524,4,GasA,Y,2358,2,1,4,10,1,3,3,784,8,2006,1665
+90,9350,Lvl,Inside,Edwards,Duplex,SFoyer,5,1975,Gable,CompShg,HdBoard,2,None,0.0,PConc,4,6,864,864,4,GasA,N,864,1,0,2,4,0,0,0,0,4,2008,864
+20,10635,Lvl,FR2,CollgCr,1Fam,1Story,8,2003,Hip,CompShg,VinylSd,3,BrkFace,171.0,PConc,4,4,370,1657,4,GasA,Y,1668,2,0,3,8,1,5,2,502,5,2010,873
+120,4438,Lvl,Inside,CollgCr,TwnhsE,1Story,6,2004,Gable,CompShg,VinylSd,3,BrkFace,205.0,PConc,4,6,662,848,4,GasA,Y,848,1,0,1,3,1,5,2,420,1,2008,1083
+20,7024,Lvl,Inside,Edwards,1Fam,1Story,4,2005,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,1024,1132,4,GasA,Y,1132,1,1,2,5,0,5,2,451,6,2008,1475
+90,8250,Lvl,Inside,SawyerW,Duplex,2Story,6,1981,Gable,CompShg,Wd Sdng,2,None,0.0,Slab,0,0,0,0,4,GasA,Y,1882,2,0,4,8,2,5,2,612,5,2009,614
+20,11622,Lvl,Inside,NAmes,1Fam,1Story,5,1961,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,3,468,882,4,GasA,Y,896,1,0,2,5,0,5,1,730,6,2010,1198
+20,12000,Lvl,Inside,Veenker,1Fam,1Story,7,1980,Hip,CompShg,VinylSd,3,BrkFace,600.0,CBlock,4,6,1732,2002,4,GasA,Y,2362,2,1,3,8,1,5,2,546,3,2007,2279
+20,11160,Lvl,Corner,NAmes,1Fam,1Story,7,1968,Hip,CompShg,BrkFace,3,None,0.0,CBlock,3,5,1065,2110,4,GasA,Y,2110,2,1,3,8,2,5,2,522,4,2010,1589
+80,11333,Lvl,Corner,Mitchel,1Fam,SLvl,6,1976,Gable,CompShg,HdBoard,2,None,0.0,PConc,4,5,539,1029,4,GasA,Y,1062,1,0,3,5,2,5,2,539,5,2007,1080
+20,7800,Lvl,Inside,NAmes,1Fam,1Story,5,1954,Gable,CompShg,HdBoard,2,BrkFace,200.0,PConc,3,2,540,1268,4,GasA,Y,1268,1,0,2,7,1,5,1,244,3,2010,785
+20,10434,Lvl,Inside,NAmes,1Fam,1Story,4,1955,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,1,0,1005,4,GasA,Y,1005,1,0,2,5,1,1,2,672,11,2009,673
+20,11520,Lvl,Inside,NridgHt,1Fam,1Story,9,2005,Hip,CompShg,VinylSd,3,BrkFace,615.0,PConc,5,6,110,1698,4,GasA,Y,1698,2,0,3,7,1,5,3,730,6,2010,841
+20,8736,Lvl,Inside,Somerst,1Fam,1Story,7,2004,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,771,1553,4,GasA,Y,1553,2,0,3,6,0,5,2,588,8,2009,1359
+190,4456,Lvl,Inside,OldTown,2fmCon,2Story,4,2008,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,3,1,0,736,4,GasA,Y,1452,2,0,2,8,0,0,0,0,6,2009,0
+20,9600,Lvl,Inside,NAmes,1Fam,1Story,5,1951,Gable,CompShg,HdBoard,2,Stone,144.0,CBlock,3,5,996,1056,2,GasA,Y,1216,1,0,3,7,0,5,1,280,5,2006,1276
+20,15870,Lvl,Corner,NAmes,1Fam,1Story,5,1969,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,4,75,1096,4,GasA,Y,1096,1,0,3,6,0,5,1,299,3,2006,374
+50,5000,Lvl,Inside,BrkSide,1Fam,1.5Fin,5,2006,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,5,600,672,4,GasA,Y,1210,1,0,3,6,0,1,1,240,5,2008,840
+50,45600,Bnk,Inside,ClearCr,1Fam,1.5Fin,6,1997,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,907,4,GasA,Y,2358,3,0,5,10,1,1,2,360,9,2008,361
+60,26178,Lvl,Inside,Timber,1Fam,2Story,7,1990,Hip,CompShg,MetalSd,3,BrkFace,293.0,PConc,4,6,965,1210,4,GasA,Y,2519,2,1,4,9,2,5,2,628,4,2006,1595
+160,2645,Lvl,Inside,Somerst,Twnhs,2Story,8,2000,Gable,CompShg,MetalSd,3,BrkFace,456.0,PConc,4,6,649,970,4,GasA,Y,1739,2,1,3,7,0,5,2,480,8,2009,1129
+80,9600,Lvl,Inside,NAmes,1Fam,SLvl,6,1996,Hip,CompShg,AsbShng,2,None,0.0,CBlock,3,4,831,992,4,GasA,Y,1661,1,0,3,8,1,3,1,377,10,2008,1209
+30,21299,Lvl,Inside,NAmes,1Fam,1Story,7,1963,Hip,WdShake,BrkFace,3,None,0.0,CBlock,3,1,0,929,4,GasA,Y,2039,1,1,3,7,3,6,3,791,12,2006,794
+20,8450,Lvl,Inside,CollgCr,1Fam,1Story,7,2004,Gable,CompShg,VinylSd,3,BrkFace,266.0,PConc,4,6,946,1436,4,GasA,Y,1436,2,0,3,8,0,5,2,484,4,2008,1430
+60,9375,Lvl,Inside,Somerst,1Fam,2Story,8,2004,Hip,CompShg,VinylSd,3,BrkFace,768.0,PConc,5,1,0,1053,4,GasA,Y,1992,2,1,3,9,1,5,2,648,8,2008,649
+80,8385,Lvl,Inside,CollgCr,1Fam,SLvl,5,1977,Gable,CompShg,HdBoard,3,BrkFace,220.0,CBlock,4,6,595,985,4,GasA,Y,985,2,0,3,6,0,5,1,328,11,2008,923
+160,1680,Lvl,Inside,BrDale,Twnhs,2Story,5,1972,Gable,CompShg,CemntBd,2,BrkFace,268.0,CBlock,3,5,231,630,4,GasA,Y,1302,2,1,3,6,0,1,1,264,2,2009,495
+60,14260,Lvl,FR2,NoRidge,1Fam,2Story,8,2000,Gable,CompShg,VinylSd,3,BrkFace,350.0,PConc,4,6,655,1145,4,GasA,Y,2198,2,1,4,9,1,5,3,836,12,2008,1492
+20,10000,Lvl,Inside,Mitchel,1Fam,1Story,5,2002,Gable,CompShg,VinylSd,3,BrkFace,166.0,PConc,4,6,585,1441,4,GasA,Y,1392,2,0,3,6,1,5,3,650,12,2007,1236
+20,11900,Lvl,Inside,NWAmes,1Fam,1Story,7,1977,Hip,CompShg,Plywood,2,BrkFace,209.0,CBlock,3,5,822,1386,4,GasA,Y,1411,2,0,3,6,1,5,2,544,4,2009,1367
+20,9724,Lvl,Inside,NAmes,1Fam,1Story,5,1950,Hip,CompShg,BrkFace,2,None,0.0,CBlock,3,1,0,938,4,GasA,Y,1043,1,0,2,5,1,1,1,273,5,2006,274
+20,16163,Lvl,Corner,NridgHt,1Fam,1Story,8,2004,Gable,CompShg,VinylSd,3,BrkFace,232.0,PConc,4,1,0,1618,4,GasA,Y,1618,2,0,2,6,1,5,3,880,7,2006,881
+50,5925,Lvl,Inside,OldTown,1Fam,1.5Fin,4,1950,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,2,2,122,570,4,GasA,N,1141,1,0,3,6,0,1,1,252,5,2007,374
+20,8640,Lvl,Inside,Somerst,1Fam,1Story,8,2009,Gable,CompShg,CemntBd,3,Stone,72.0,PConc,4,6,936,1300,4,GasA,Y,1314,2,0,3,6,0,5,2,552,9,2009,1488
+60,10261,Lvl,Inside,Gilbert,1Fam,2Story,6,2000,Gable,CompShg,VinylSd,2,BrkFace,318.0,PConc,4,1,0,936,4,GasA,Y,1792,2,1,3,8,1,5,2,451,5,2008,452
+60,12334,Lvl,Inside,CollgCr,1Fam,2Story,8,2003,Gable,CompShg,VinylSd,3,BrkFace,198.0,PConc,4,1,0,1068,4,GasA,Y,2184,2,1,4,8,1,3,2,570,6,2009,571
+90,10530,Lvl,Inside,Mitchel,Duplex,SFoyer,6,1977,Gable,CompShg,Plywood,2,BrkFace,90.0,CBlock,4,6,975,975,4,GasA,Y,1004,1,0,2,4,0,5,2,504,5,2006,1479
+20,11765,Lvl,Corner,NAmes,1Fam,1Story,5,1957,Gable,CompShg,Wd Sdng,2,Stone,302.0,CBlock,3,3,1127,1617,4,GasA,Y,1797,1,1,3,7,1,5,3,963,6,2006,2091
+50,14115,Lvl,Inside,Mitchel,1Fam,1.5Fin,5,1995,Gable,CompShg,VinylSd,2,None,0.0,Wood,4,6,732,796,4,GasA,Y,1362,1,1,1,5,0,5,2,480,10,2009,1212
+50,9000,Lvl,Corner,OldTown,1Fam,1.5Fin,5,1950,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,3,445,904,2,GasA,Y,1499,1,0,3,5,1,1,3,869,6,2008,1315
+60,12936,Lvl,CulDSac,NWAmes,1Fam,2Story,6,1972,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,4,593,723,4,GasA,Y,1395,1,1,3,6,1,5,2,497,12,2009,1091
+20,8414,Lvl,Inside,Sawyer,1Fam,1Story,6,2003,Hip,CompShg,HdBoard,2,None,0.0,CBlock,3,6,663,1059,4,GasA,Y,1068,1,0,3,6,0,5,1,264,2,2006,927
+20,10725,Lvl,Inside,NAmes,1Fam,1Story,5,1959,Hip,CompShg,MetalSd,2,BrkFace,91.0,CBlock,3,3,936,1206,4,GasA,Y,1206,1,0,3,6,0,5,1,312,5,2010,1248
+20,12803,Lvl,Inside,CollgCr,1Fam,1Story,7,2002,Gable,CompShg,VinylSd,3,BrkFace,99.0,PConc,4,6,922,1494,4,GasA,Y,1494,2,0,3,6,1,5,2,530,9,2008,1453
+60,10304,Lvl,CulDSac,NWAmes,1Fam,2Story,5,1976,Gable,CompShg,Plywood,2,BrkFace,44.0,CBlock,3,5,381,780,4,GasA,Y,1868,2,1,4,9,1,5,2,484,10,2009,866
+20,8562,Lvl,Inside,Edwards,1Fam,1Story,5,2002,Hip,CompShg,HdBoard,2,Stone,145.0,CBlock,3,3,383,1216,2,GasA,Y,1526,1,0,4,7,1,4,1,364,5,2010,748
+50,8239,Lvl,Inside,OldTown,1Fam,1.5Fin,5,1962,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,3,3,176,1008,4,GasA,Y,1245,1,0,3,6,0,1,1,315,3,2010,491
+60,9765,Lvl,Corner,Gilbert,1Fam,2Story,6,1993,Gable,CompShg,VinylSd,4,BrkFace,68.0,PConc,4,5,310,680,4,GasA,Y,1470,2,1,3,6,1,3,2,420,4,2009,731
+80,15584,Lvl,Inside,ClearCr,1Fam,SLvl,5,1956,Hip,CompShg,Wd Sdng,2,BrkFace,366.0,CBlock,3,1,0,825,4,GasA,Y,2071,1,1,4,9,1,5,1,336,10,2009,337
+60,9337,Lvl,Inside,CollgCr,1Fam,2Story,7,1998,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,5,353,878,4,GasA,Y,1692,2,1,3,8,1,5,2,513,4,2010,867
+60,8000,Lvl,Inside,NWAmes,1Fam,2Story,6,1970,Gable,CompShg,VinylSd,2,BrkFace,525.0,CBlock,3,3,915,1008,4,GasA,Y,2411,2,1,4,8,1,5,2,570,6,2007,1486
+50,3950,Bnk,Inside,OldTown,1Fam,1.5Fin,6,2004,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,3,468,818,4,GasA,Y,1224,1,0,3,5,0,1,1,210,12,2009,678
+20,11443,Lvl,Inside,Timber,1Fam,1Story,8,2006,Hip,CompShg,VinylSd,3,BrkFace,208.0,PConc,5,6,1460,1868,4,GasA,Y,2028,2,0,2,7,2,5,3,880,3,2006,2342
+20,11194,Lvl,Inside,Somerst,1Fam,1Story,8,2008,Gable,CompShg,VinylSd,3,Stone,240.0,PConc,4,1,0,1696,4,GasA,Y,1696,2,0,3,7,0,5,3,972,9,2009,972
+50,9600,Lvl,Inside,OldTown,1Fam,1.5Fin,5,1950,Gable,CompShg,MetalSd,2,Stone,264.0,CBlock,3,3,276,1212,2,GasA,Y,1668,1,0,3,6,0,1,1,240,5,2006,516
+160,2280,Lvl,Inside,NPkVill,Twnhs,2Story,6,1978,Gable,CompShg,Plywood,2,None,0.0,CBlock,4,5,311,855,4,GasA,Y,1456,2,1,3,7,1,5,2,440,7,2010,752
+80,12095,Lvl,Corner,NAmes,1Fam,SLvl,6,1964,Gable,CompShg,MetalSd,2,BrkFace,115.0,CBlock,3,3,564,1127,4,GasA,Y,1445,1,1,3,7,1,5,2,645,8,2009,1210
+20,25286,HLS,Inside,Mitchel,1Fam,1Story,4,1963,Gable,CompShg,HdBoard,2,None,0.0,PConc,3,5,633,1064,4,GasA,Y,1040,1,0,3,5,0,5,2,648,1,2007,1281
+160,2058,Lvl,Inside,BrDale,Twnhs,2Story,6,1973,Gable,CompShg,HdBoard,2,BrkFace,265.0,CBlock,3,1,0,672,4,GasA,Y,1218,1,1,4,7,0,1,1,264,12,2007,264
+20,13891,Lvl,Inside,NridgHt,1Fam,1Story,9,2007,Hip,CompShg,VinylSd,4,Stone,456.0,PConc,5,6,1812,2552,4,GasA,Y,2552,2,0,3,8,2,5,3,932,10,2007,2746
+50,5150,Lvl,Corner,IDOTRR,1Fam,1.5Fin,4,2000,Gable,CompShg,Plywood,2,None,0.0,PConc,1,1,0,356,2,GasA,N,1049,1,0,2,5,0,1,1,195,5,2008,195
+60,7023,Lvl,Inside,Edwards,1Fam,2Story,5,2006,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,611,734,4,GasA,Y,1408,2,1,3,6,0,3,2,489,5,2007,1100
+120,6240,Lvl,Inside,NridgHt,TwnhsE,1Story,8,2006,Hip,CompShg,MetalSd,3,BrkFace,176.0,PConc,4,6,24,1324,4,GasA,Y,1324,2,0,2,6,1,5,2,550,9,2007,575
+85,9750,Lvl,Inside,Mitchel,1Fam,SFoyer,6,1977,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,5,767,902,4,GasA,Y,926,1,0,2,5,1,5,1,351,4,2009,1119
+60,9375,Lvl,Inside,CollgCr,1Fam,2Story,7,1997,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1040,4,GasA,Y,2098,2,1,4,9,1,5,2,621,4,2010,622
+20,11235,Lvl,Inside,Sawyer,1Fam,1Story,4,1979,Gable,CompShg,HdBoard,2,BrkFace,51.0,CBlock,3,3,547,1051,4,GasA,Y,1382,1,1,3,6,1,5,2,459,10,2006,1007
+20,14442,Lvl,Inside,Crawfor,1Fam,1Story,6,2004,Hip,CompShg,CemntBd,2,BrkFace,106.0,PConc,3,6,1186,1477,4,GasA,Y,1839,2,0,3,7,2,5,2,416,6,2007,1604
+60,8094,Lvl,Inside,OldTown,2fmCon,2.5Unf,6,1983,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,3,196,1242,4,GasA,Y,1984,2,0,5,8,0,1,1,360,9,2008,556
+20,13618,Lvl,Corner,Timber,1Fam,1Story,8,2006,Gable,CompShg,VinylSd,3,Stone,198.0,PConc,5,6,1350,1728,4,GasA,Y,1960,2,0,3,8,2,5,3,714,11,2006,2066
+80,8400,Lvl,Inside,Gilbert,1Fam,SLvl,7,1997,Gable,CompShg,HdBoard,2,BrkFace,32.0,PConc,4,6,284,384,4,GasA,Y,1628,2,1,3,7,1,3,2,390,6,2009,675
+20,8769,Lvl,FR2,CollgCr,1Fam,1Story,7,2005,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,709,1169,4,GasA,Y,1190,2,0,2,5,0,5,2,578,10,2007,1287
+60,12244,Lvl,Inside,Timber,1Fam,2Story,8,2003,Hip,CompShg,VinylSd,3,Stone,226.0,PConc,4,6,871,1482,4,GasA,Y,2262,2,1,4,10,2,5,3,749,8,2008,1622
+20,7250,Lvl,Inside,Gilbert,1Fam,1Story,6,1993,Gable,CompShg,HdBoard,2,BrkFace,45.0,PConc,4,1,0,1181,4,GasA,Y,1190,2,0,3,6,1,5,2,430,11,2009,431
+60,9920,Lvl,CulDSac,NoRidge,1Fam,2Story,7,1997,Gable,CompShg,MetalSd,3,None,0.0,PConc,4,6,862,1117,4,GasA,Y,2013,2,1,3,8,1,5,2,455,6,2007,1318
+20,11650,Lvl,Corner,NAmes,1Fam,1Story,7,1959,Hip,CompShg,Plywood,2,BrkCmn,58.0,Slab,0,0,0,0,2,GasA,Y,1472,2,0,2,5,1,5,2,484,6,2006,485
+90,10624,Lvl,Inside,NAmes,Duplex,1Story,5,1964,Gable,CompShg,HdBoard,2,BrkFace,84.0,CBlock,3,6,40,1728,4,GasA,Y,1728,2,0,6,10,0,1,1,352,11,2007,392
+20,12925,Lvl,Corner,NAmes,1Fam,1Story,6,1970,Gable,CompShg,BrkFace,2,None,0.0,CBlock,3,4,865,1205,4,GasA,Y,2117,2,1,4,7,2,5,2,550,5,2008,1417
+50,9260,HLS,Inside,Crawfor,1Fam,1.5Fin,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,884,3,GasA,Y,1374,1,0,3,6,0,1,1,225,3,2008,225
+90,9750,Lvl,Inside,NWAmes,Duplex,1Story,5,1965,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,1,0,1625,4,GasA,Y,1625,2,0,4,8,0,1,2,484,8,2008,484
+60,12018,HLS,Corner,Timber,1Fam,2Story,7,2008,Gable,CompShg,VinylSd,3,Stone,60.0,PConc,4,1,0,796,4,GasA,Y,1612,2,1,3,6,0,5,3,666,10,2008,666
+20,12772,Lvl,CulDSac,NAmes,1Fam,1Story,6,1998,Hip,CompShg,MetalSd,2,None,0.0,CBlock,3,4,498,958,4,GasA,Y,958,1,0,2,5,0,5,1,301,4,2007,799
+50,8172,Lvl,Inside,Edwards,1Fam,1.5Fin,4,1972,Gable,CompShg,MetalSd,2,None,0.0,PConc,3,1,0,941,4,GasA,Y,1470,2,0,4,7,0,1,1,548,5,2008,548
+90,10890,Lvl,Inside,SWISU,Duplex,2Story,5,1950,Hip,CompShg,Wd Sdng,2,None,0.0,PConc,3,3,371,1296,2,Grav,N,2592,2,0,6,12,0,0,0,0,1,2007,371
+160,2117,Lvl,Inside,Somerst,TwnhsE,2Story,6,2000,Gable,CompShg,MetalSd,3,BrkFace,513.0,PConc,4,6,420,756,4,GasA,Y,1512,2,1,2,4,1,1,2,440,6,2007,861
+60,15922,HLS,Corner,StoneBr,1Fam,2Story,9,2006,Hip,CompShg,VinylSd,3,BrkFace,550.0,PConc,5,1,0,1390,4,GasA,Y,2795,3,1,4,10,1,3,3,660,1,2006,661
+70,6402,Lvl,Corner,IDOTRR,1Fam,2Story,5,1950,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,3,1,0,596,4,GasA,N,1192,1,0,3,6,0,1,1,189,7,2009,189
+85,7200,Lvl,Inside,CollgCr,1Fam,SFoyer,5,2003,Gable,CompShg,WdShing,2,None,0.0,CBlock,4,6,660,768,4,GasA,Y,768,1,0,2,5,0,1,1,396,4,2009,1056
+50,4712,Lvl,Inside,BrkSide,1Fam,1.5Fin,4,1950,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,5,384,747,4,GasA,Y,1230,1,1,3,5,0,1,1,305,8,2006,689
+20,13284,Lvl,Inside,Sawyer,1Fam,1Story,5,1954,Gable,CompShg,Wd Sdng,2,None,0.0,PConc,4,4,1064,1383,4,GasA,Y,1383,1,0,3,6,1,5,1,354,6,2008,1419
+20,9178,Lvl,Inside,CollgCr,1Fam,1Story,8,2007,Gable,CompShg,VinylSd,3,Stone,306.0,PConc,4,1,0,1643,4,GasA,Y,1651,2,0,3,7,1,5,3,870,9,2007,871
+160,1879,Lvl,CulDSac,Blueste,Twnhs,2Story,6,1980,Gable,CompShg,MetalSd,2,None,0.0,CBlock,4,6,366,516,4,GasA,Y,1032,1,0,2,5,1,1,2,462,12,2008,829
+50,12822,Lvl,CulDSac,Mitchel,1Fam,1.5Fin,7,2003,Gable,CompShg,VinylSd,3,None,0.0,PConc,5,6,1351,1434,4,GasA,Y,2149,1,1,1,6,1,5,2,670,8,2009,2022
+20,9840,Lvl,Inside,NAmes,1Fam,1Story,5,1998,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,1053,1248,4,GasA,Y,1440,2,0,2,7,0,5,1,480,6,2008,1533
+85,10625,Lvl,Inside,NWAmes,1Fam,SFoyer,7,1974,Gable,CompShg,Plywood,2,BrkFace,81.0,CBlock,4,6,885,1053,4,GasA,Y,1173,2,0,3,6,2,5,2,528,1,2010,1415
+20,8125,Lvl,Inside,CollgCr,1Fam,1Story,7,2002,Gable,CompShg,VinylSd,3,Stone,295.0,PConc,4,6,986,1654,4,GasA,Y,1654,2,0,3,6,0,5,3,900,2,2006,1886
+20,11200,Lvl,Inside,SawyerW,1Fam,1Story,6,1985,Gable,CompShg,Wd Sdng,3,BrkFace,85.0,CBlock,4,6,1258,1298,4,GasA,Y,1298,2,0,3,5,1,5,2,403,5,2006,1662
+60,13143,Lvl,Inside,NoRidge,1Fam,2Story,8,1993,Gable,CompShg,HdBoard,3,BrkFace,504.0,PConc,4,2,250,1231,4,GasA,Y,2349,2,1,4,9,1,5,3,762,6,2010,1013
+20,15263,Lvl,Inside,ClearCr,1Fam,1Story,5,1959,Gable,CompShg,HdBoard,2,BrkFace,90.0,CBlock,4,3,766,1422,4,GasA,Y,1675,2,0,3,8,2,5,1,365,5,2010,1133
+120,3840,Lvl,Inside,Greens,TwnhsE,1Story,8,1998,Gable,CompShg,Wd Sdng,3,None,0.0,CBlock,4,6,881,1057,4,GasA,Y,1295,1,0,1,4,2,5,2,571,7,2007,1454
+120,3907,Bnk,Inside,Blueste,TwnhsE,1Story,8,1988,Gable,CompShg,HdBoard,2,None,0.0,CBlock,4,6,577,1004,4,GasA,Y,1020,1,0,1,4,0,5,2,509,3,2007,1086
+20,9541,Lvl,Inside,NridgHt,1Fam,1Story,7,2009,Gable,CompShg,VinylSd,3,Stone,268.0,PConc,4,1,0,1502,4,GasA,Y,1502,2,0,3,7,0,5,2,644,9,2009,644
+20,8814,Lvl,Inside,CollgCr,1Fam,1Story,7,2006,Gable,CompShg,VinylSd,3,Stone,180.0,PConc,4,6,1334,1604,4,GasA,Y,1604,2,1,3,8,1,5,2,660,3,2009,1995
+60,11339,Lvl,Inside,NWAmes,1Fam,2Story,7,1979,Hip,WdShake,HdBoard,2,BrkFace,549.0,CBlock,4,5,758,780,4,GasA,Y,1930,2,1,4,9,1,5,2,481,3,2007,1240
+20,7560,Lvl,Inside,NAmes,1Fam,1Story,5,1965,Hip,CompShg,BrkFace,2,None,0.0,CBlock,3,2,504,1029,4,GasA,Y,1339,1,0,3,6,0,5,1,294,5,2009,798
+30,7200,Lvl,Corner,IDOTRR,1Fam,1Story,6,1950,Gable,CompShg,VinylSd,2,None,0.0,BrkTil,3,2,343,984,3,GasA,Y,984,1,0,3,6,0,1,1,308,3,2006,651
+80,7848,Lvl,Inside,Gilbert,1Fam,SLvl,7,1999,Gable,CompShg,VinylSd,2,None,0.0,PConc,3,1,0,384,4,GasA,Y,1430,2,1,3,7,1,3,2,410,6,2009,411
+70,6449,Lvl,Inside,SWISU,1Fam,2Story,4,1950,Gambrel,CompShg,Wd Sdng,2,None,0.0,CBlock,3,3,73,707,4,GasW,N,1884,1,1,4,7,0,0,0,0,3,2010,73
+60,12104,Lvl,FR3,Gilbert,1Fam,2Story,7,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,1035,4,GasA,Y,2322,3,1,4,8,0,5,3,617,8,2006,617
+30,6120,Lvl,Inside,BrkSide,1Fam,1Story,5,1950,Gable,CompShg,MetalSd,2,None,0.0,BrkTil,3,3,489,768,4,GasA,N,1015,1,0,3,6,0,1,1,450,7,2006,939
+30,6000,HLS,Inside,BrkSide,1Fam,1Story,5,2003,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,1,0,949,4,GasA,Y,949,1,0,2,5,1,1,2,370,7,2008,371
+60,10928,Lvl,Inside,Gilbert,1Fam,2Story,7,2005,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,1,0,728,4,GasA,Y,1456,2,1,3,8,1,5,2,390,6,2009,391
+70,8969,Bnk,Inside,Crawfor,1Fam,2Story,6,1950,Gambrel,CompShg,Wd Sdng,2,None,0.0,BrkTil,3,4,379,644,4,GasA,Y,1316,1,0,2,6,1,1,1,369,7,2008,749
+20,9100,Lvl,Corner,NAmes,1Fam,1Story,5,1958,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,4,521,864,4,GasA,Y,864,1,0,3,5,0,1,2,624,7,2006,1145
+20,8760,Lvl,Inside,NAmes,1Fam,1Story,5,1956,Gable,CompShg,Wd Sdng,3,BrkFace,164.0,CBlock,3,5,856,1169,4,GasA,Y,1144,1,0,3,6,0,5,1,286,6,2009,1142
+60,10236,Lvl,Inside,NoRidge,1Fam,2Story,8,1995,Gable,CompShg,VinylSd,3,BrkFace,501.0,PConc,4,6,380,1290,4,GasA,Y,2494,2,1,4,9,1,5,3,803,6,2006,1184
+60,11616,Lvl,CulDSac,Sawyer,1Fam,2Story,6,1978,Hip,CompShg,HdBoard,2,BrkCmn,328.0,CBlock,3,3,438,672,4,GasA,Y,1386,2,1,3,6,1,5,2,440,4,2010,879
+90,13260,Lvl,Inside,NAmes,Duplex,1Story,5,2001,Hip,CompShg,HdBoard,2,BrkFace,144.0,CBlock,3,4,1500,1728,4,GasA,Y,1728,2,0,6,10,0,0,0,0,1,2010,1500
+120,7301,Lvl,Inside,NridgHt,TwnhsE,1Story,7,2008,Gable,CompShg,VinylSd,3,Stone,176.0,PConc,4,6,876,1350,4,GasA,Y,1358,2,0,2,6,1,5,2,484,11,2008,1361
+20,8640,Lvl,Inside,Somerst,1Fam,1Story,7,2008,Gable,CompShg,VinylSd,3,None,0.0,PConc,5,1,0,1372,4,GasA,Y,1372,2,0,3,6,0,5,2,529,5,2008,529
+20,17500,Bnk,Corner,Crawfor,1Fam,1Story,6,1954,Gable,CompShg,HdBoard,2,Stone,420.0,PConc,3,2,784,1310,4,GasA,Y,1906,1,1,3,6,2,4,2,576,1,2009,1362
+30,10800,Lvl,Inside,OldTown,1Fam,1Story,4,1995,Mansard,CompShg,VinylSd,2,None,0.0,BrkTil,2,1,0,641,4,GasA,Y,1047,1,0,2,6,0,1,1,273,8,2007,273
+20,10921,HLS,Inside,Edwards,1Fam,1Story,4,1965,Hip,CompShg,HdBoard,2,BrkFace,48.0,CBlock,3,3,520,960,3,GasA,Y,960,1,0,3,6,0,5,1,432,5,2007,952
+60,10274,Lvl,CulDSac,SawyerW,1Fam,2Story,6,1986,Gable,CompShg,VinylSd,2,BrkFace,141.0,CBlock,4,3,331,676,4,GasA,Y,1400,2,1,3,6,0,5,2,465,7,2009,796
+20,12000,Lvl,Inside,ClearCr,1Fam,1Story,6,1968,Gable,CompShg,Plywood,2,None,0.0,CBlock,4,2,853,1388,4,GasA,Y,1388,2,0,3,6,1,5,2,522,7,2006,1376
+20,7094,Lvl,Inside,Sawyer,1Fam,1Story,5,1966,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,3,180,894,4,GasA,Y,894,1,0,3,5,0,1,1,384,5,2007,564
+60,11025,Lvl,Inside,NoRidge,1Fam,1.5Fin,9,1994,Hip,CompShg,Wd Sdng,3,BrkFace,568.0,PConc,4,4,520,1848,4,GasA,Y,2786,2,1,4,10,1,5,2,636,6,2008,1157
+190,7745,Lvl,Inside,OldTown,2fmCon,1.5Fin,4,1950,Gable,CompShg,MetalSd,3,None,0.0,PConc,3,1,0,938,4,GasA,N,1951,2,0,4,9,0,1,2,576,4,2006,576
+160,2160,Lvl,Inside,Somerst,Twnhs,SLvl,7,2000,Gable,CompShg,VinylSd,3,BrkFace,216.0,PConc,4,6,600,672,4,GasA,Y,1404,2,1,3,5,0,1,2,462,6,2008,1062
+50,13758,Lvl,CulDSac,Timber,1Fam,1.5Fin,7,1991,Gable,CompShg,HdBoard,3,BrkFace,117.0,CBlock,4,2,902,1156,4,GasA,Y,1717,2,1,3,7,1,5,2,400,4,2007,1303
+60,13162,Lvl,Corner,Somerst,1Fam,2Story,9,2006,Gable,CompShg,VinylSd,3,None,0.0,PConc,5,6,1836,2036,4,GasA,Y,2640,3,1,3,11,1,5,3,792,11,2006,2629
+20,11332,Lvl,Corner,NAmes,1Fam,1Story,5,2000,Gable,CompShg,Wd Sdng,2,None,0.0,CBlock,3,4,528,1118,4,GasA,Y,1118,1,0,3,6,0,5,1,264,8,2008,792
+90,12640,Lvl,Inside,Mitchel,Duplex,1Story,6,1976,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,3,936,1728,4,GasA,Y,1728,2,0,4,8,0,5,2,574,7,2006,1510
+20,9600,Lvl,Inside,NAmes,1Fam,1Story,5,1966,Hip,CompShg,VinylSd,2,BrkFace,172.0,CBlock,3,3,698,1232,4,GasA,Y,1232,1,1,3,6,0,5,2,490,4,2010,1188
+120,3182,Lvl,Inside,Blmngtn,TwnhsE,1Story,7,2006,Gable,CompShg,VinylSd,3,BrkFace,11.0,PConc,4,6,16,1145,4,GasA,Y,1145,2,0,2,5,1,5,2,397,9,2009,414
+20,11600,Lvl,Inside,NAmes,1Fam,1Story,6,1960,Hip,CompShg,Wd Sdng,2,BrkFace,175.0,CBlock,3,3,565,1383,4,GasA,Y,1383,1,1,3,7,0,5,1,292,4,2006,857
+20,12782,Lvl,Inside,CollgCr,1Fam,1Story,8,2003,Hip,CompShg,HdBoard,3,BrkFace,164.0,PConc,5,6,1360,1822,4,GasA,Y,1828,2,0,3,7,1,5,2,523,6,2009,1884
+120,6240,Lvl,Inside,NridgHt,TwnhsE,1Story,8,2007,Hip,CompShg,MetalSd,3,BrkFace,196.0,PConc,4,6,24,1342,4,GasA,Y,1342,2,0,2,6,1,5,2,550,2,2008,575
+20,7801,Lvl,Corner,Crawfor,1Fam,1Story,6,1951,Hip,CompShg,WdShing,2,BrkFace,88.0,PConc,3,3,500,1091,2,GasA,N,1091,1,0,2,5,1,5,1,344,5,2008,845
+20,9100,Lvl,Inside,Sawyer,1Fam,1Story,5,1963,Hip,CompShg,Wd Sdng,2,None,0.0,PConc,3,4,53,984,4,GasA,Y,984,1,0,3,5,1,5,1,384,8,2008,438
+20,11302,Lvl,Inside,StoneBr,1Fam,1Story,8,2006,Gable,CompShg,VinylSd,3,BrkFace,238.0,PConc,4,6,1422,1814,4,GasA,Y,1826,2,0,3,7,1,5,3,758,8,2006,2181
+20,11556,Lvl,Inside,NAmes,1Fam,1Story,5,2006,Gable,CompShg,VinylSd,2,None,0.0,CBlock,3,4,408,864,4,GasA,Y,1154,1,1,3,6,0,1,1,336,7,2007,744
+20,9920,Lvl,Inside,CollgCr,1Fam,1Story,5,1969,Gable,CompShg,HdBoard,2,None,0.0,CBlock,4,5,523,971,4,GasA,Y,971,1,1,3,5,1,5,1,300,5,2006,824
+20,9759,Lvl,Inside,NAmes,1Fam,1Story,5,1966,Gable,CompShg,Plywood,2,None,0.0,CBlock,3,4,799,1051,4,GasA,Y,1051,1,0,3,6,0,5,1,264,3,2006,1063
+60,9600,Lvl,Inside,NWAmes,1Fam,2Story,7,1974,Gable,CompShg,Plywood,2,BrkFace,252.0,CBlock,3,5,698,1165,4,GasA,Y,2061,2,1,4,8,1,5,2,498,5,2009,1197
+160,2268,Lvl,Inside,NridgHt,Twnhs,2Story,7,2004,Gable,CompShg,VinylSd,3,Stone,106.0,PConc,4,6,567,764,4,GasA,Y,1626,2,0,2,6,0,3,2,474,7,2009,1041
+40,23595,Low,Inside,ClearCr,1Fam,1Story,7,1979,Shed,WdShake,Plywood,3,None,0.0,PConc,4,6,1258,1332,4,GasA,Y,1524,0,1,0,4,1,5,2,586,4,2010,1845
+85,9825,Low,Inside,Edwards,1Fam,SFoyer,5,1967,Gable,CompShg,HdBoard,2,BrkFace,162.0,CBlock,4,5,936,936,4,GasA,Y,936,1,0,2,4,1,5,1,384,8,2007,1321
+60,10021,Lvl,Inside,CollgCr,1Fam,2Story,6,2006,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,539,635,4,GasA,Y,1308,2,1,3,6,0,5,2,497,5,2007,1036
+20,11700,Lvl,Corner,NWAmes,1Fam,1Story,6,1968,Gable,CompShg,HdBoard,2,BrkFace,196.0,PConc,4,5,910,1295,4,GasA,Y,1295,1,1,3,6,0,5,2,528,4,2007,1438
+20,19900,Lvl,Inside,NAmes,1Fam,1Story,7,1989,Gable,CompShg,Plywood,2,BrkFace,287.0,CBlock,4,6,912,1947,4,GasA,Y,2207,2,0,3,7,1,5,2,576,7,2010,1489
+60,8640,Lvl,Inside,Somerst,1Fam,2Story,7,2009,Gable,CompShg,VinylSd,2,None,0.0,PConc,4,6,822,900,4,GasA,Y,1852,2,1,3,7,1,5,2,644,7,2009,1467
+160,1733,Lvl,Inside,Blueste,Twnhs,2Story,6,1980,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,1,0,516,4,GasA,Y,1032,1,0,2,5,1,1,2,452,5,2009,453
+80,10385,Lvl,CulDSac,CollgCr,1Fam,SLvl,6,1978,Gable,CompShg,HdBoard,2,BrkFace,123.0,CBlock,3,5,595,995,4,GasA,Y,1282,2,0,3,6,0,1,3,672,4,2006,1267
+120,4500,Lvl,FR2,Mitchel,TwnhsE,1Story,6,1998,Hip,CompShg,VinylSd,2,BrkFace,320.0,PConc,5,6,866,1204,4,GasA,Y,1204,2,0,2,5,0,5,2,412,6,2009,1278
+20,9790,Lvl,Inside,NWAmes,1Fam,1Story,6,1967,Gable,CompShg,BrkFace,2,None,0.0,CBlock,3,3,251,1372,4,GasA,Y,1342,2,0,3,7,1,5,2,457,9,2009,709
+20,7332,Lvl,Inside,NAmes,1Fam,1Story,6,1959,Gable,CompShg,WdShing,2,BrkFace,207.0,CBlock,3,4,414,864,4,GasA,Y,864,1,0,2,4,0,5,1,288,10,2006,702
+90,7032,Lvl,Corner,NAmes,Duplex,SFoyer,5,1979,Gable,CompShg,MetalSd,2,None,0.0,CBlock,4,6,943,943,4,GasA,Y,943,1,0,2,4,2,1,2,600,12,2006,1545
+50,21780,Lvl,Inside,Edwards,1Fam,1.5Fin,6,1950,Gable,CompShg,Wd Sdng,2,None,0.0,BrkTil,4,1,0,1163,4,GasA,Y,1674,2,0,4,8,1,1,2,396,7,2008,397
+50,5790,Lvl,Corner,OldTown,1Fam,2Story,3,1950,Gambrel,CompShg,VinylSd,3,None,0.0,CBlock,2,1,0,840,4,GasA,N,1605,2,0,3,8,0,1,1,379,5,2010,379
+120,7380,Lvl,Corner,StoneBr,1Fam,1Story,8,1998,Gable,CompShg,CemntBd,2,None,0.0,PConc,4,6,341,1418,4,GasA,Y,1478,2,0,2,5,0,5,2,495,7,2009,836
+180,1526,Lvl,Inside,MeadowV,Twnhs,SFoyer,4,2002,Gable,CompShg,CemntBd,2,None,0.0,CBlock,4,6,515,630,4,GasA,Y,630,1,0,1,3,0,5,1,286,5,2009,801
+60,11317,Lvl,Inside,CollgCr,1Fam,2Story,7,2003,Gable,CompShg,VinylSd,3,BrkFace,101.0,PConc,4,1,0,840,4,GasA,Y,1668,2,1,3,8,0,5,2,500,9,2007,500
+20,8780,Lvl,Corner,Mitchel,1Fam,1Story,5,1985,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,625,833,4,GasA,Y,833,1,0,3,5,0,0,0,0,3,2009,625
+20,12378,Lvl,Inside,NridgHt,1Fam,1Story,9,2004,Gable,CompShg,VinylSd,3,None,0.0,PConc,5,6,1274,1896,4,GasA,Y,1944,2,0,3,8,3,5,3,708,11,2006,1985
+120,4058,Lvl,Inside,NAmes,TwnhsE,SFoyer,7,1998,Gable,CompShg,MetalSd,2,BrkFace,182.0,PConc,4,6,584,723,4,GasA,Y,767,1,0,1,4,0,5,1,367,6,2007,951
+160,2368,Lvl,Inside,BrDale,TwnhsE,2Story,5,1970,Gable,CompShg,HdBoard,2,None,312.0,CBlock,3,2,765,765,4,GasA,Y,1365,1,1,3,7,0,5,2,440,5,2009,1205
+20,9350,Lvl,Inside,NAmes,1Fam,1Story,5,1995,Gable,CompShg,Wd Sdng,2,BrkFace,217.0,CBlock,3,5,310,1313,4,GasA,Y,1313,1,1,3,6,1,5,2,610,2,2009,921
+90,7040,Lvl,Inside,SawyerW,Duplex,SFoyer,5,1979,Gable,CompShg,Plywood,2,BrkFace,216.0,CBlock,4,6,1094,1094,4,GasA,Y,1229,0,2,2,6,2,1,2,672,6,2009,1768
+60,8749,Lvl,Inside,CollgCr,1Fam,2Story,7,2002,Gable,CompShg,VinylSd,3,None,106.0,PConc,4,1,0,840,4,GasA,Y,1725,2,1,3,6,0,5,2,550,11,2009,550
+20,7777,Lvl,Inside,Timber,1Fam,1Story,6,1996,Gable,CompShg,VinylSd,3,BrkFace,203.0,PConc,5,1,0,1491,4,GasA,Y,1491,2,0,3,7,1,5,2,571,11,2007,572
+160,5062,Lvl,CulDSac,StoneBr,TwnhsE,2Story,7,1984,Gable,CompShg,HdBoard,3,None,0.0,CBlock,4,6,828,1190,4,GasA,Y,2090,2,0,3,6,1,5,2,577,9,2007,1406
+90,7700,Lvl,Inside,Mitchel,Duplex,2Story,5,1986,Gable,CompShg,HdBoard,2,None,0.0,PConc,3,1,0,1216,4,GasA,Y,2432,4,2,4,10,0,5,2,616,2,2010,616
+20,36500,Low,Inside,ClearCr,1Fam,1Story,5,1964,Gable,CompShg,Wd Sdng,2,BrkCmn,621.0,CBlock,3,3,812,1624,4,GasA,Y,1582,2,0,4,7,0,5,2,390,6,2006,1202
+20,14572,Lvl,Corner,Gilbert,1Fam,1Story,7,2004,Hip,CompShg,VinylSd,3,None,0.0,PConc,4,6,1300,1530,4,GasA,Y,1530,2,0,3,7,1,5,3,630,11,2007,1931
+20,11844,Lvl,Inside,StoneBr,1Fam,1Story,8,2008,Hip,CompShg,VinylSd,3,Stone,464.0,PConc,5,1,0,2046,4,GasA,Y,2046,2,1,3,7,1,5,3,834,7,2009,835
+20,8810,Lvl,Inside,CollgCr,1Fam,1Story,7,2003,Gable,CompShg,VinylSd,3,None,0.0,PConc,4,6,1000,1390,4,GasA,Y,1390,2,0,3,7,0,5,2,545,3,2006,1545
+60,8000,Lvl,Inside,NWAmes,1Fam,2Story,6,1974,Gable,CompShg,HdBoard,2,None,0.0,CBlock,3,5,931,1084,4,GasA,Y,1877,2,1,4,8,1,5,2,488,11,2007,1420
+60,14670,Lvl,Inside,NAmes,1Fam,2Story,6,1999,Gable,CompShg,VinylSd,3,BrkFace,410.0,CBlock,3,4,575,1104,4,GasA,Y,1988,2,1,4,9,1,5,2,480,8,2008,1056
+20,8250,Lvl,Inside,Sawyer,1Fam,1Story,5,1968,Hip,CompShg,HdBoard,2,None,0.0,CBlock,3,4,250,952,4,GasA,Y,1211,1,0,3,5,1,5,1,322,8,2008,573
+20,9000,Lvl,FR2,NAmes,1Fam,1Story,4,1971,Gable,CompShg,HdBoard,2,None,0.0,PConc,3,5,616,864,4,GasA,Y,864,1,0,3,5,0,1,2,528,5,2007,1144
+20,8400,Lvl,Corner,NAmes,1Fam,1Story,5,1955,Gable,CompShg,MetalSd,2,None,0.0,CBlock,3,4,793,923,4,GasA,Y,925,1,0,3,5,2,5,1,390,3,2007,1185
